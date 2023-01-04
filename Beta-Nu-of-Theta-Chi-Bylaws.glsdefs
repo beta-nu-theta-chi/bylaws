@@ -928,6 +928,66 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{ranked-choice}{}%
+{%
+\gls@defglossaryentry{ranked-choice}%
+{%
+name={Ranked Choice Voting System},%
+sort={Ranked Choice Voting System},%
+type={main},%
+first={Ranked Choice Voting System},%
+firstplural={Ranked Choice Voting Systems},%
+text={Ranked Choice Voting System},%
+plural={Ranked Choice Voting Systems},%
+description={Voters have the option to rank candidates in order of preference: first, second, third and so forth. Votes that do not help voters’ top choices will count for their next choice.},%
+descriptionplural={Voters have the option to rank candidates in order of preference: first, second, third and so forth. Votes that do not help voters’ top choices will count for their next choice.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{rush}{}%
+{%
+\gls@defglossaryentry{rush}%
+{%
+name={Rush},%
+sort={Rush},%
+type={main},%
+first={Rush},%
+firstplural={Rushs},%
+text={Rush},%
+plural={Rushs},%
+description={The period of time determined by IFC for formal recruitment at the beginning of each semester.},%
+descriptionplural={The period of time determined by IFC for formal recruitment at the beginning of each semester.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
 \ifglsentryexists{cab}{}%
 {%
 \gls@defglossaryentry{cab}%
@@ -1115,12 +1175,12 @@ parent={},%
 name={SMARRT},%
 sort={SMARRT},%
 type={acronym},%
-first={Students Meeting about Risk and Responsibility Training\glsspace (SMARRT)},%
-firstplural={Students Meeting about Risk and Responsibility Training\acrpluralsuffix \glsspace (SMARRT\acrpluralsuffix )},%
+first={Students Meeting About Risk and Responsibility Training\glsspace (SMARRT)},%
+firstplural={Students Meeting About Risk and Responsibility Training\acrpluralsuffix \glsspace (SMARRT\acrpluralsuffix )},%
 text={SMARRT},%
 plural={SMARRT\acrpluralsuffix },%
-description={Students Meeting about Risk and Responsibility Training},%
-descriptionplural={Students Meeting about Risk and Responsibility Training\acrpluralsuffix },%
+description={Students Meeting About Risk and Responsibility Training},%
+descriptionplural={Students Meeting About Risk and Responsibility Training\acrpluralsuffix },%
 symbol={\relax },%
 symbolplural={\relax },%
 user1={},%
@@ -1129,8 +1189,8 @@ user3={},%
 user4={},%
 user5={},%
 user6={},%
-long={Students Meeting about Risk and Responsibility Training},%
-longplural={Students Meeting about Risk and Responsibility Trainings},%
+long={Students Meeting About Risk and Responsibility Training},%
+longplural={Students Meeting About Risk and Responsibility Trainings},%
 short={SMARRT},%
 shortplural={SMARRTs},%
 counter={page},%
