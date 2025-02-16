@@ -1,0 +1,32 @@
+name: Releases
+on:
+  push:
+    branches:
+      - 'main'
+    tags:
+      - 'release-*'
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Install Nix
+        uses: cachix/install-nix-action@v30
+      - name: Build Project
+        shell: bash
+        run: |
+          sh build.sh
+      - uses: ncipollo/release-action@v1
+        with:
+          artifacts: "result/pdf/*"
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "result/site/*"
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

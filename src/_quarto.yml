@@ -1,0 +1,43 @@
+project:
+  type: book
+  # pre-render: scripts/glossary.r
+book:
+  title: "Beta Nu of Theta Chi Local Bylaws"
+  author: "The Executive Council of Beta Nu of Theta Chi"
+  date: "2025-02-14"
+  chapters:
+    - index.qmd
+    - part: "Articles"
+      chapters:
+        - articles/article1.qmd
+        - articles/article2.qmd
+        - articles/article3.qmd
+        - articles/article4.qmd
+        - articles/article5.qmd
+        - articles/article6.qmd
+        - articles/article7.qmd
+        - articles/article8.qmd
+        - articles/article9.qmd
+        - articles/article10.qmd
+        - articles/article11.qmd
+        - articles/article12.qmd
+        - articles/article13.qmd
+        - articles/article14.qmd
+    - part: "Appendices"
+      chapters:
+        - appendices/appendix1.qmd
+        - appendices/appendix2.qmd
+        - appendices/appendix3.qmd
+    - glossary.qmd
+    - references.qmd
+bibliography: references.bib
+nocite: |
+  @*
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+theme:
+  dark: darkly

@@ -1,0 +1,9 @@
+*_files
+.quarto
+.direnv
+build
+result
+out
+_book*
+*.html
+site_libs
