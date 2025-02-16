@@ -1,7 +1,8 @@
 { src, stdenv, ... }:
 stdenv.mkDerivation {
   inherit src;
-  name = "GH-Action-builder";
+  pname = "GH-Action-builder";
+  version = "0.0.1";
   buildInputs = [ ];
 
   installPhase = ''
