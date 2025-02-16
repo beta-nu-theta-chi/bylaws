@@ -20,11 +20,11 @@ jobs:
           sh build.sh
       - uses: ncipollo/release-action@v1
         with:
-          artifacts: "result/pdf/*"
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: "result/site"
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          artifacts: "result/pdf/*,result/*.tar.gz"
+      # - name: Upload artifact
+      #   uses: actions/upload-pages-artifact@v3
+      #   with:
+      #     path: "result/site"
+      # - name: Deploy to GitHub Pages
+      #   id: deployment
+      #   uses: actions/deploy-pages@v4
