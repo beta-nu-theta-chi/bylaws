@@ -3,7 +3,7 @@ project:
   # pre-render: scripts/glossary.r
 book:
   title: "Beta Nu of Theta Chi Local Bylaws"
-  author: "The Executive Council of Beta Nu of Theta Chi"
+  author: ""
   date: "2025-02-14"
   chapters:
     - index.qmd
