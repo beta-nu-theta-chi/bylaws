@@ -1,0 +1,17 @@
+\centering
+\includegraphics[width=2in,clip=false]{branding/logomark-uni-color.png}
+$if(has-frontmatter)$
+\frontmatter
+$endif$
+$if(title)$
+$if(beamer)$
+\frame{\titlepage}
+$else$
+{\let\newpage\relax\maketitle}
+$endif$
+$if(abstract)$
+\begin{abstract}
+$abstract$
+\end{abstract}
+$endif$
+$endif$

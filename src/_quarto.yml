@@ -35,9 +35,12 @@ nocite: |
   @*
 format:
   html:
-    theme: cosmo
+    theme: darkly
   pdf:
     documentclass: scrreprt
 
-theme:
-  dark: darkly
+    template-partials:
+      - before-body.tex
+
+    keep-tex: true
+    # use-rsvg-convert: false

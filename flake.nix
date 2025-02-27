@@ -4,6 +4,7 @@
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
     treefmt-nix.url = "github:numtide/treefmt-nix";
     gitignore.url = "github:hercules-ci/gitignore.nix";
+    branding.url = "github:beta-nu-theta-chi/branding";
   };
   outputs = {...} @ inputs:
     inputs.flake-utils.lib.eachDefaultSystem (
@@ -28,9 +29,11 @@
           (rWrapper.override {
             packages = rpkgs;
           })
+          librsvg
           texliveFull
           texworks
           texstudio
+          ghostscript
         ];
       in {
         devShells = rec {
@@ -58,7 +61,8 @@
         apps = rec {
         };
         packages = rec {
-          book = pkgs.callPackage ./build.nix { buildenv = p; };
+          branding = pkgs.callPackage ./source.nix { branding = inputs.branding.packages.${system}.branding-white; };
+          book = pkgs.callPackage ./build.nix { buildenv = p; src = branding; };
           deploy = pkgs.callPackage ./deploy.nix { src = book; };
           default = book;
         };

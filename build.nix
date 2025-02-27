@@ -1,13 +1,14 @@
-{ stdenv, buildenv, ... }:
+{ stdenv, buildenv, src, ... }:
 stdenv.mkDerivation {
   pname = "BetaNuLBL";
   version = "0.0.1";
 
-  src = ./src;
+  inherit src;
 
   nativeBuildInputs = buildenv;
 
   buildPhase = ''
+    cp branding/_brand-color.yml ./_brand.yml
     export HOME=$(pwd)
     quarto render --no-cache
   '';
