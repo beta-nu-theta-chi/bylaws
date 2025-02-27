@@ -8,6 +8,8 @@ stdenv.mkDerivation {
   nativeBuildInputs = buildenv;
 
   buildPhase = ''
+    python glossary.py
+
     cp branding/_brand-color.yml ./_brand.yml
     export HOME=$(pwd)
     quarto render --no-cache

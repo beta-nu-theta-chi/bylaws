@@ -2,32 +2,32 @@
 
 ## Bylaws as Pertaining to the International Fraternity
 
-1. The Bylaws of Beta Nu Chapter of Theta Chi Fraternity are adopted as provided for in the International Bylaws ([IBL](glossary.qmd#sec-IBL)) of Theta Chi Fraternity (Article V, Section 1).
-1. The bylaws of this chapter will be superseded by the [IBL](glossary.qmd#sec-IBL) of Theta Chi Fraternity.
+1. The Bylaws of Beta Nu Chapter of Theta Chi Fraternity are adopted as provided for in the International Bylaws {{< var acronyms.ibl >}} of Theta Chi Fraternity (Article V, Section 1).
+1. The bylaws of this chapter will be superseded by the {{< var acronyms.ibl >}} of Theta Chi Fraternity.
 
 ## Amendments
 
 1. All proposed amendments to these Bylaws will specify in the motion that they are amendments.
 1. A proposed Amendment may not be voted on unless it has been brought up at least one chapter meeting before or has been available for inspection for at least six days. 
-1. A proposed amendment must receive a [supermajority](glossary.qmd#sec-supermajority) vote for ratification.
+1. A proposed amendment must receive a {{< var glossary.supermajority >}} vote for ratification.
 
 ## Suspension
 
-1. Portions of the bylaws may be suspended by [supermajority](glossary.qmd#sec-supermajority) vote of the chapter.
+1. Portions of the bylaws may be suspended by {{< var glossary.supermajority >}} vote of the chapter.
 1. Motions to suspend a portion of the bylaws must contain:
    a. To whom the suspension applies.
    a. The time period during which the suspension applies.
    a. The portion to be suspended.
-1. The Executive Council ([EC](glossary.qmd#sec-EC)) may issue an [Executive Edict](glossary.qmd#sec-executive-edict) by [absolute majority](glossary.qmd#sec-absolute-majority) vote in the case of an emergency.
-   a. The [Executive Edict](glossary.qmd#sec-executive-edict) will be proposed to the chapter at the next chapter meeting with [quorum](glossary.qmd#sec-quorum) by the Vice President.
-   a. The [Executive Edict](glossary.qmd#sec-executive-edict) must be approved by the chapter by a [supermajority](glossary.qmd#sec-supermajority) vote in order for the [Executive Edict](glossary.qmd#sec-executive-edict) to remain in effect after the chapter in which it was voted upon.
+1. The Executive Council ({{< var acronyms.ec >}}) may issue an {{< var glossary.executive-edict >}} by {{< var glossary.absolute-majority >}} vote in the case of an emergency.
+   a. The {{< var glossary.executive-edict >}} will be proposed to the chapter at the next chapter meeting with {{< var glossary.quorum >}} by the Vice President.
+   a. The {{< var glossary.executive-edict >}} must be approved by the chapter by a {{< var glossary.supermajority >}} vote in order for the {{< var glossary.executive-edict >}} to remain in effect after the chapter in which it was voted upon.
 
 ## Interpretation
 
-1. [EC](glossary.qmd#sec-EC) will have the power to interpret these Bylaws by an [absolute majority](glossary.qmd#sec-absolute-majority) vote. 2. Any brother may bring [EC](glossary.qmd#sec-EC) Bylaw Interpretation [grievances](glossary.qmd#sec-grievance), in writing, to [EC](glossary.qmd#sec-EC).
-   a. All [grievances](glossary.qmd#sec-grievance) brought to [EC](glossary.qmd#sec-EC) will, at all times, be confidential.
-   a. The results of the [grievances](glossary.qmd#sec-grievances) will be announced to the chapter at the next chapter meeting.
-      i. [EC](glossary.qmd#sec-EC) interpretation is subject to overrule by a [supermajority](glossary.qmd#sec-supermajority) vote of the active chapter. A. Voting to overrule an [EC](glossary.qmd#sec-EC) interpretation of these Bylaws will be done by ballot.
+1. {{< var acronyms.ec >}} will have the power to interpret these Bylaws by an {{< var glossary.absolute-majority >}} vote. 2. Any brother may bring {{< var acronyms.ec >}} Bylaw Interpretation {{< var glossary.grievance >}}s, in writing, to {{< var acronyms.ec >}}.
+   a. All {{< var glossary.grievance >}}s brought to {{< var acronyms.ec >}} will, at all times, be confidential.
+   a. The results of the {{< var glossary.grievance >}}s will be announced to the chapter at the next chapter meeting.
+      i. {{< var acronyms.ec >}} interpretation is subject to overrule by a {{< var glossary.supermajority >}} vote of the active chapter. A. Voting to overrule an {{< var acronyms.ec >}} interpretation of these Bylaws will be done by ballot.
 
 ## Glossary
 
@@ -39,8 +39,8 @@
 
 1. This document will have the following appendices:
 
-   a. [EC](glossary.qmd#sec-EC) Interpretations
-      i. Will contain a record of [EC](glossary.qmd#sec-EC) interpretations of the local bylaws.
+   a. {{< var acronyms.ec >}} Interpretations
+      i. Will contain a record of {{< var acronyms.ec >}} interpretations of the local bylaws.
       i. Interpretations that refer to deprecated parts of the local bylaws may be removed at the discretion of the Vice President.
       i. Items may be added to this appendix by the Vice President.
 
@@ -56,4 +56,4 @@
       i. Permanent legislation that is revoked or amended will be removed or changed in this appendix by the Vice President.
 
 1. Appendices may be amended or removed by the chapter in the same manner as amending the bylaws.
-   a. Any amendment that is not approved by the chapter by [simple majority](glossary.qmd#sec-simple-majority) will be removed from its appendix.
+   a. Any amendment that is not approved by the chapter by {{< var glossary.simple-majority >}} will be removed from its appendix.
