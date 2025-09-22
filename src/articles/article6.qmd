@@ -2,7 +2,7 @@
 
 ## General Rules
 
-1. Two signatures are required on all accounts of the chapter, pursuant to the International Bylaws (IBL), Article V, Section 9, paragraph b.
+1. Two signatures are required on all accounts of the chapter, pursuant to the International Bylaws ({{< var acronyms.ibl >}}), Article V, Section 9, paragraph b.
 1. Neither the chapter nor alumni corporation can have or use any form of ATM, debit, credit or money card that is attached to any account of the chapter or alumni corporation.
 1. An officer cannot issue a check to himself.
 1. All transactions made by the chapter will not utilize a petty-cash system and must be made by check. All transactions made to the chapter will not utilize a petty-cash system for payments exceeding $100.
@@ -13,50 +13,50 @@
 ## Budget
 
 1. The Treasurer will present a preliminary budget to the Budget Committee (Article V, Section G, Item 2c) no later than six weeks before the beginning of the Fall Semester.
-1. The Treasurer will submit the final budget proposal, as approved by the Budget Committee, for the following academic year to the chapter no later than three weeks before the beginning of the Fall Semester. The proposal must be approved by a supermajority vote of the chapter.
+1. The Treasurer will submit the final budget proposal, as approved by the Budget Committee, for the following academic year to the chapter no later than three weeks before the beginning of the Fall Semester. The proposal must be approved by a {{< var glossary.supermajority >}} vote of the chapter.
    a. Following approval by the chapter, the budget proposal will be presented to the Alumni Corporation and the Alumni Financial Advisor.
 1. Budget Committee
    a. The Budget Committee (Article V, Section G, Item 2c) will be created and convened no later than six weeks before the beginning of the Fall semester.
    a. The committee will create a budget to be submitted to the chapter based on the preliminary budget created by the Treasurer.
-1. Any officer with a budget may distribute portions of their budget as they see fit. 5. Safety Margin and Emergency Fund
-   a. Any money leftover for the year from the Safety Margin must be moved to an emergency fund account until that account has 50% of the next year's projected expenses saved. This account is only to be accessed with the vote of Executive Council (EC) and the Chapter Advisory Board (CAB).
+1. Any officer with a budget may distribute portions of their budget as they see fit. 5. {{< var glossary.safety-margin >}} and Emergency Fund
+   a. Any money leftover for the year from the {{< var glossary.safety-margin >}} must be moved to an emergency fund account until that account has 50% of the next year's projected expenses saved. This account is only to be accessed with the vote of Executive Council ({{< var acronyms.ec >}}) and the Chapter Advisory Board ({{< var acronyms.cab >}}).
 
 ## Financial Obligations of Members
 
-1. Each brother, New Member, and Alumnus is responsible for any fraternity property damaged, broken, or lost due to any negligence or carelessness on the part of that person or their guest.
-   a. Any decision regarding this rule will be decided by EC.
+1. Each brother, New Member, and Alumnus is {{< var glossary.responsible >}} for any fraternity property damaged, broken, or lost due to any negligence or carelessness on the part of that person or their guest.
+   a. Any decision regarding this rule will be decided by {{< var acronyms.ec >}}.
 1. Brothers will pay all dues and other financial obligations to the chapter as defined in the budget.
 1. Brothers may send a notice directly to the president that they will not be paying dues for the coming semester. One month after this notice has been sent, the brother is automatically suspended.
 
 ## Deferments
 
-1. If a brother deems that they will be unable to pay their bill by the due date, they may submit a request for deferment.
-1. A request for deferment must be submitted to EC by the due date of the bill that is being deferred.
-1. A deferment must be approved by a vote of EC or a supermajority vote of the chapter.
-1. A brother that is not following the payment plan in their deferment will have their account balance considered past due.
-1. Interest on late payments may be charged at the discretion of EC.
+1. If a brother deems that they will be unable to pay their bill by the due date, they may submit a request for {{< var glossary.deferment >}}.
+1. A request for {{< var glossary.deferment >}} must be submitted to {{< var acronyms.ec >}} by the due date of the bill that is being deferred.
+1. A {{< var glossary.deferment >}} must be approved by a vote of {{< var acronyms.ec >}} or a {{< var glossary.supermajority >}} vote of the chapter.
+1. A brother that is not following the payment plan in their {{< var glossary.deferment >}} will have their account balance considered past due.
+1. Interest on late payments may be charged at the discretion of {{< var acronyms.ec >}}.
 
 ## Payment Schedule and Penalties
 
 1. The due date for any bill will be at least two weeks after the date on which the bill was issued and will be before the next bill is to be issued.
 
-1. The chapter may, by unanimous ballot, exempt a brother from payment of any debts owed to the chapter.
+1. The chapter may, by unanimous {{< var glossary.ballot >}}, exempt a brother from payment of any debts owed to the chapter.
    a. The unpaid debt will be divided equally among the other members of the chapter.
 
-1. If the account balance of any brother, New Member, or Alumnus is negative and past due, he will be placed on financial probation unless a deferment has been approved.
-   a. A brother placed on financial probation will be fined no more than $20.
-   a. A brother on financial probation loses voting rights.
-   a. If a brother is on financial probation for more than one week, a suspension trial will be scheduled for him.
-   a. The Alumni Corporation and the chapter financial advisor will be notified of any brother placed on financial probation.
+1. If the account balance of any brother, New Member, or Alumnus is negative and past due, he will be placed on {{< var glossary.financial-probation >}} unless a {{< var glossary.deferment >}} has been approved.
+   a. A brother placed on {{< var glossary.financial-probation >}} will be fined no more than $20.
+   a. A brother on {{< var glossary.financial-probation >}} loses voting rights.
+   a. If a brother is on {{< var glossary.financial-probation >}} for more than one week, a suspension trial will be scheduled for him.
+   a. The Alumni Corporation and the chapter financial advisor will be notified of any brother placed on {{< var glossary.financial-probation >}}.
 
-1. If a brother has a debt, including deferments, of over $3,000:
-   a. EC will vote on whether or not to hold a suspension trial for him after every bill.
+1. If a brother has a debt, including {{< var glossary.deferment >}}s, of over $3,000:
+   a. {{< var acronyms.ec >}} will vote on whether or not to hold a suspension trial for him after every bill.
    a. The Treasurer will announce the brother's status to the chapter after every bill.
-   a. Any receipt forms that the brother submits must be credited against the debt unless EC approves an exception.
+   a. Any receipt forms that the brother submits must be credited against the debt unless {{< var acronyms.ec >}} approves an exception.
 
 ## Financial Privacy Section
 
-1. EC and CAB will have access to all accounts, including bank accounts, budgeting and financial software, the current ledger, and Greek Bill (or whatever online service is currently being used).
+1. {{< var acronyms.ec >}} and {{< var acronyms.cab >}} will have access to all accounts, including bank accounts, budgeting and financial software, the current ledger, and Greek Bill (or whatever online service is currently being used).
 
 ## Reimbursements
 
@@ -64,9 +64,9 @@
    
    a. The chair who controls the budget in question.
       i. If the budget is not under a particular chair, or the chair is indisposed, the president may act as a substitute.
-      i. If the chair who controls the budget is also the treasurer, any other member of EC may act as a substitute.
+      i. If the chair who controls the budget is also the treasurer, any other member of {{< var acronyms.ec >}} may act as a substitute.
    
-   a. Any other non-treasurer member of EC.
+   a. Any other non-treasurer member of {{< var acronyms.ec >}}.
    
    a. The Treasurer.
 

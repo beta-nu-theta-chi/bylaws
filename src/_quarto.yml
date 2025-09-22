@@ -1,6 +1,5 @@
 project:
   type: book
-  # pre-render: scripts/glossary.r
 book:
   title: "Beta Nu of Theta Chi Local Bylaws"
   author: ""
@@ -31,16 +30,24 @@ book:
     - glossary.qmd
     - references.qmd
 bibliography: references.bib
+brand:
+  light: brand_light.yml
+  dark: brand_dark.yml
 nocite: |
   @*
 format:
   html:
-    theme: darkly
+    theme-default: dark
   pdf:
     documentclass: scrreprt
+    include-in-header: 
+      text: |
+        \usepackage{enumitem}
+        \setlistdepth{10}
+        \renewlist{itemize}{itemize}{10}
+        \renewlist{enumerate}{enumerate}{10}
 
     template-partials:
       - before-body.tex
 
     keep-tex: true
-    # use-rsvg-convert: false

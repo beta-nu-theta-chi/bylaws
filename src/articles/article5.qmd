@@ -3,33 +3,33 @@
 ## Terms of Office
 
 1. All elected offices will have yearly terms.
-1. The President will appoint all appointed officers subject to a simple majority vote of the chapter.
+1. The President will appoint all appointed officers subject to a {{< var glossary.simple-majority >}} vote of the chapter.
 1. Appointed positions will have semesterly terms except for Alumni Relations Chair, Community Standards Chair, and Standards Board At-Large Member.
-1. The Recruitment Chair and Public Relations Chair will serve from the end of the first Rush Period after election or appointment through the first Rush period after the election or appointment of a new officer.
+1. The Recruitment Chair and Public Relations Chair will serve from the end of the first {{< var glossary.rush-period >}} after election or appointment through the first {{< var glossary.rush-period >}} after the election or appointment of a new officer.
 
 ## Nominations
 
 1. Nominations will be opened at least one week before elections.
-1. All members, in order to be eligible for nomination, must be in good standing with the University and the International Fraternity and must not be on financial probation.
+1. All members, in order to be eligible for nomination, must be in good standing with the University and the International Fraternity and must not be on {{< var glossary.financial-probation >}}.
 
 ## Elections
 
-1. Officers will be elected in accordance with the International Bylaws (IBL) Article V, Section 3.
+1. Officers will be elected in accordance with the International Bylaws ({{< var acronyms.ibl >}}) Article V, Section 3.
 
 1. Nominations must be closed in order to elect an officer.
 
 1. For each elected position the election will proceed as such:
    a. For each candidate:
       i. Candidates will be allowed speeches following these rules:
-         1\. Other candidates will leave the room.
-         1\. Candidates will be allowed not less than three minutes to speak.
+         1. Other candidates will leave the room.
+         1. Candidates will be allowed not less than three minutes to speak.
       i. The chapter will be allowed to ask the candidate questions following these rules:
-         1\. The chapter will be allowed not less than two minutes to question.
-         1\. Any time not used by a candidate for his speech will be allowed for questions.
+         1. The chapter will be allowed not less than two minutes to question.
+         1. Any time not used by a candidate for his speech will be allowed for questions.
    a. The chapter will discuss the candidates subject to the following rules:
       i. All candidates will leave the room.
       i. The chapter will be allowed not less than five minutes to discuss.
-      i. If the candidate is elected by white ballot, this section does not apply.\
+      i. If the candidate is elected by white {{< var glossary.ballot >}}, this section does not apply.\
    a. Pledges will be allowed to vote in the election in direct exception to the above Article IV, Section A, Item 2.
 
 1. If an elected position should become vacant:
@@ -40,60 +40,60 @@
 ## Elected Officers and Their Duties
 
 1. President
-   a. Performs all duties stated in the IBL Article V, Section 6, paragraph a.
+   a. Performs all duties stated in the {{< var acronyms.ibl >}} Article V, Section 6, paragraph a.
    a. Serves as a liaison between the chapter and the community.
-   a. Attends all Interfraternity Congress (IFC) and Greek Life Office functions expected of the President.
-   a. Attends all Chapter Advisory Board (CAB) meetings.
-   a. Responsible for the overall completion of Community Standards.
-   a. A candidate for the position of President must be interviewed by CAB prior to the election. A simple majority vote of CAB may veto that candidate. This veto can be overruled by a supermajority vote of the chapter. Failure for CAB to meet with a candidate prior to elections will be interpreted as CAB waiving their right to interview the candidate.
-   a. Serves as a member of Executive Council (EC).
+   a. {{< var glossary.attend >}}s all Interfraternity Congress ({{< var acronyms.ifc >}}) and Greek Life Office functions expected of the President.
+   a. {{< var glossary.attend >}}s all Chapter Advisory Board ({{< var acronyms.cab >}}) meetings.
+   a. {{< var glossary.responsible >}} for the overall completion of {{< var glossary.community-standards >}}.
+   a. A candidate for the position of President must be interviewed by {{< var acronyms.cab >}} prior to the election. A {{< var glossary.simple-majority >}} vote of {{< var acronyms.cab >}} may veto that candidate. This veto can be overruled by a {{< var glossary.supermajority >}} vote of the chapter. Failure for {{< var acronyms.cab >}} to meet with a candidate prior to elections will be interpreted as {{< var acronyms.cab >}} waiving their right to interview the candidate.
+   a. Serves as a member of Executive Council ({{< var acronyms.ec >}}).
    a. Must live in the house.
 
 1. Vice President
-   a. Performs all duties stated in the IBL Article V, Section 6, paragraph b.
-   a. Serves as Parliamentarian for the chapter and is responsible for all committees.
+   a. Performs all duties stated in the {{< var acronyms.ibl >}} Article V, Section 6, paragraph b.
+   a. Serves as Parliamentarian for the chapter and is {{< var glossary.responsible >}} for all committees.
    a. Maintains the chapter's local bylaws.
    a. Ensures legislation records are up to date.
    a. Adds all permanent legislation to the appropriate appendix as outlined in Article I, Section F.
-   a. Adds EC Interpretations to the Appendices.
+   a. Adds {{< var acronyms.ec >}} Interpretations to the Appendices.
    a. Appoints active members to committees at the beginning of each semester.
    a. Assigns living space as outlined in Article VII, Section C.
-   a. Fills out Greek Life and International Headquarters (IHQ) awards that are due in their term.
+   a. Fills out Greek Life and International Headquarters ({{< var acronyms.ihq >}}) awards that are due in their term.
    a. Serves as chair of the Bylaw Revision Committee as outlined in Article IX, Section C.
-   a. Serves as chair of EC and represents it to the chapter.
-   a. Serves as chair of the Committee Chair Committee (CCC).\
+   a. Serves as chair of {{< var acronyms.ec >}} and represents it to the chapter.
+   a. Serves as chair of the Committee Chair Committee ({{< var acronyms.ccc >}}).\
    a. Serves as chair of Standards Board.
    a. May make Ad Hoc Committees at their discretion as defined in Article V, Section G, Item 3a. o. Must live in the house.
 
 1. Vice President of Health and Safety
-   a. Performs all duties stated in the IBL Article V, Section 6, paragraph c.
+   a. Performs all duties stated in the {{< var acronyms.ibl >}} Article V, Section 6, paragraph c.
    a. Plans and oversees a yearly community outreach event regarding health and safety.
    a. Serves as a liaison between the chapter and community health services.
    a. Organizes events on 7 topics, 2 of which are available to the greater public, on Health and Safety for the chapter per academic year.
    a. Maintains house medical kit.
-   a. Serves as a member of EC.
+   a. Serves as a member of {{< var acronyms.ec >}}.
    a. Serves as chair of the Health and Safety Committee.
    a. Must live in the house.
 
 1. Secretary
-   a. Performs all duties stated in the IBL Article V, Section 6, paragraph d.
+   a. Performs all duties stated in the {{< var acronyms.ibl >}} Article V, Section 6, paragraph d.
    a. Records attendance and enforces the standards for attendance in Article III, Section C.
-   a. Serves as Secretary of EC.
+   a. Serves as Secretary of {{< var acronyms.ec >}}.
    a. Collects all legislation, Bylaw amendments, and Officer Reports.
-   a. Sets the agenda for chapter meetings according to the IBL Article V, Section 8, paragraph d.
+   a. Sets the agenda for chapter meetings according to the {{< var acronyms.ibl >}} Article V, Section 8, paragraph d.
    a. Maintains the mailbox and mail closet.
    a. Will create a contact list for the chapter which includes contact information of brothers advisors, Greek Life, and emergency services.
    a. Handles registration of Pledges, requests for initiation, and the recording of new initiates.
 
 1. Treasurer
-   a. Performs all duties stated in the IBL Article V, Section 6, paragraph e.
+   a. Performs all duties stated in the {{< var acronyms.ibl >}} Article V, Section 6, paragraph e.
    a. Is accountable to the Alumni Corporation.
    a. Collects all feeds, dues, and fines.
    a. Records all transactions made by the chapter.
    a. Will provide a written report at the request of any brother. The report will include all payments paid out, all monies received, current bank account balances, and budget updates.
-   a. Keeps private all individual account balances except from the brother whose account it is and EC.
+   a. Keeps private all individual account balances except from the brother whose account it is and {{< var acronyms.ec >}}.
    a. Issues enumerated bills for all brothers and New Members at least three times a semester unless otherwise decided by the chapter.
-   a. Announces the names of all members on financial probation at each chapter meeting during the Treasurer's Report or before any vote, whichever occurs first.
+   a. Announces the names of all members on {{< var glossary.financial-probation >}} at each chapter meeting during the Treasurer's Report or before any vote, whichever occurs first.
    a. Will create a budget following the process outlined in Article VI, Section B.\
    a. Ensures compliance with the General Rules for chapter finances outlined in Article VI, Section A.
    a. Will propose a housing contract to the chapter by the last chapter meeting of each semester with a final version to be approved at the first chapter meeting of the next semester.
@@ -101,28 +101,28 @@
    a. Maintains an emergency fund of no less than $3000 and can withdraw money from the fund only with the authorization of two of the three highest officers.
    a. Will meet with the Alumni Financial Advisor at least twice each semester.
    a. Will file taxes at least two weeks before the filing deadline each year.
-   a. Will ensure that taxes will be reviewed by the CAB financial advisor, alumni housing corporation financial advisor, and EC no later than one month before the filing deadline.
-   a. Will send taxes by certified mail, and will distribute this certification to the CAB financial advisor, alumni housing corporation financial advisor, and EC.
+   a. Will ensure that taxes will be reviewed by the {{< var acronyms.cab >}} financial advisor, alumni housing corporation financial advisor, and {{< var acronyms.ec >}} no later than one month before the filing deadline.
+   a. Will send taxes by certified mail, and will distribute this certification to the {{< var acronyms.cab >}} financial advisor, alumni housing corporation financial advisor, and {{< var acronyms.ec >}}.
    a. Will retain a physical and electronic backup of financial records for no fewer than five years.
    a. Maintain a changelog of the budget.
-   a. Give a monthly financial report to the chapter and deliver the report to CAB.
+   a. Give a monthly financial report to the chapter and deliver the report to {{< var acronyms.cab >}}.
    a. The Treasurer cannot be elected or appointed to a position which has permission to spend from the budget.
    a. Cannot be elected to another position during their term.
-   a. A candidate for the position of Treasurer must be interviewed by the CAB prior to the election. A simple majority vote of the CAB may veto that candidate. This veto can be overruled by a supermajority vote of the chapter. Failure for CAB to meet with a candidate prior to elections will be interpreted as CAB waiving their right to interview the candidate.
-   a. Serves as a member of EC.
+   a. A candidate for the position of Treasurer must be interviewed by the {{< var acronyms.cab >}} prior to the election. A {{< var glossary.simple-majority >}} vote of the {{< var acronyms.cab >}} may veto that candidate. This veto can be overruled by a {{< var glossary.supermajority >}} vote of the chapter. Failure for {{< var acronyms.cab >}} to meet with a candidate prior to elections will be interpreted as {{< var acronyms.cab >}} waiving their right to interview the candidate.
+   a. Serves as a member of {{< var acronyms.ec >}}.
    a. Must live in the house.
 
 1. Marshal
-   a. Performs all duties stated in the IBL Article V, Section 6, paragraph f.
+   a. Performs all duties stated in the {{< var acronyms.ibl >}} Article V, Section 6, paragraph f.
    a. Will submit a plan as Temporary Legislation that expires at the end of the current semester for their office by the first chapter meeting of the semester of their term.
    a. Will reserve a location for initiation.
    a. Will organize a bid acceptance dinner and the bid acceptance ceremony.
-   a. Serves as a member of EC.
+   a. Serves as a member of {{< var acronyms.ec >}}.
    a. Must live in the house.
 
 1. Scholarship Chair
-   a. Performs all duties stated in the IBL Article V, Section 6, paragraph i.
-   a. Performs all duties specified by the Greek Life Office, IFC, and the University.
+   a. Performs all duties stated in the {{< var acronyms.ibl >}} Article V, Section 6, paragraph i.
+   a. Performs all duties specified by the Greek Life Office, {{< var acronyms.ifc >}}, and the University.
    a. Will prepare a written scholarship program, submit it to the Office of Greek Life, and pass it as legislation in chapter by the 2nd chapter of their term, containing the following:\
       i. A plan for the creation of Scholarship contracts for all brothers.
       i. A plan for ensuring the chapter house is an environment conducive to studying.
@@ -132,29 +132,29 @@
    a. Organizes a formal scholarship dinner to recognize achievement about scholarship within the chapter.
    a. Will arrange at least one program per semester with a speaker who will talk to the chapter about scholarship or an issue relating to scholarship.
    a. Will ensure all brothers are part of at least one non-greek club or activity.
-   a. Attends monthly meetings with the Greek Community Educational Consultants in accordance with Case Western Reserve University (CWRU) Greek Community Standards.
-   a. Serves as a member of EC.
+   a. {{< var glossary.attend >}}s monthly meetings with the Greek Community Educational Consultants in accordance with Case Western Reserve University ({{< var acronyms.cwru >}}) Greek {{< var glossary.community-standards >}}.
+   a. Serves as a member of {{< var acronyms.ec >}}.
    a. Must live in the house.
 
 1. Recruitment Chair
-   a. Performs all duties stated in the IBL Article V, Section 6, paragraph l.
+   a. Performs all duties stated in the {{< var acronyms.ibl >}} Article V, Section 6, paragraph l.
    a. Assumes responsibility for directing the recruitment process.
    a. Serves as Chair of the Recruitment Committee.
    a. Will run a recruitment workshop each semester.
    a. Will present a Rush calendar to the chapter by Initiation.
-   a. Will be responsible for any Rush period that they have planned including those after their term.
-   a. Confirms and tracks the attendance of each brother at Rush events (Article XI, Section B, Item 2). h. Serves as a member of EC.
+   a. Will be {{< var glossary.responsible >}} for any {{< var glossary.rush-period >}} that they have planned including those after their term.
+   a. Confirms and tracks the attendance of each brother at Rush events (Article XI, Section B, Item 2). h. Serves as a member of {{< var acronyms.ec >}}.
    a. Must live in the house.
 
 1. Chaplain
-   a. Performs all duties stated in the IBL Article V, Section 6, paragraph g.
+   a. Performs all duties stated in the {{< var acronyms.ibl >}} Article V, Section 6, paragraph g.
    a. Handles conflict resolution in the chapter.
    a. Organizes and mediates round table discussions on contentious issues between brothers.
    a. Brings elected officers up for standards for failing to perform the position's responsibilities and duties.
    a. Must live in the house.
 
 1. Historian
-   a. Performs all duties stated in the IBL Article V, Section 6, paragraph h.
+   a. Performs all duties stated in the I{{< var acronyms.ibl >}}BL Article V, Section 6, paragraph h.
    a. Assists alumni relations chair with the alumni database.\
    a. Ensures that pictures are taken at chapter events.
    a. Will make a yearly scrapbook for the year that they serve, with assistance from the previous historian.
@@ -164,34 +164,34 @@
    a. Maintains the chapter museum.
 
 1. First Guard
-   a. Performs all duties stated in the IBL Article V, Section 6, paragraph j.
+   a. Performs all duties stated in the {{< var acronyms.ibl >}} Article V, Section 6, paragraph j.
    a. Assists the Marshal in planning and executing initiation and prepares the chapter for it.
    a. Prepares the chapter room for meetings.
    a. Will enforce reasonable dress in the chapter room as stated in Article III, Section D, Item 4.
 
 1. Second Guard
-   a. Performs all duties stated in the IBL Article V, Section 6, paragraph k.
+   a. Performs all duties stated in the {{< var acronyms.ibl >}} Article V, Section 6, paragraph k.
    a. Assists the first guard in preparing the chapter room for meetings.
 
 ## Appointed Positions
 
 1. Executive Council Member at Large
-   a. Must have previously served on EC for a full term.
-   a. Must not hold another EC position.
-   a. Assists and advises EC.
+   a. Must have previously served on {{< var acronyms.ec >}} for a full term.
+   a. Must not hold another {{< var acronyms.ec >}} position.
+   a. Assists and advises {{< var acronyms.ec >}}.
 
 1. Public Relations Chair
    a. Serves as chair of the Public Relations Committee.
    a. Works with the Public Relations Committee to create PR for the public events of the chapter at the request of other chairs.
    a. Maintains the chapter social media pages and accounts.
-   a. Serves as a member of CCC.
+   a. Serves as a member of {{< var acronyms.ccc >}}.
 
 1. Social Chair
-   a. Organizes social events.
-   a. Ensures that all social events run in accordance with all University, Greek Life, IFC, North American Interfraternity Conference (NIC), and IHQ regulations and policies.
+   a. Organizes {{< var glossary.social-event >}}s.
+   a. Ensures that all {{< var glossary.social-event >}}s run in accordance with all University, Greek Life, {{< var acronyms.ifc >}}, North American Interfraternity Conference ({{< var acronyms.nic >}}), and {{< var acronyms.ihq >}} regulations and policies.
    a. Serves as chair of the Social Committee.
-   a. Will attend all IFC Social Chair meetings.
-   a. Serves as a member of CCC.
+   a. Will {{< var glossary.attend >}} all {{< var acronyms.ifc >}} Social Chair meetings.
+   a. Serves as a member of {{< var acronyms.ccc >}}.
 
 1. Alumni Relations Chair\
    a. Collects materials for and edits the Alumni Newsletter with the help of the Alumni Corporation and sends out the Alumni newsletter before the last day of classes.
@@ -200,7 +200,7 @@
    a. Organizes the Alumni Ceremony at the end of the semester in which they serve.
    a. Plans the annual OX Roast event with the alumni to be held in the fall semester.
    a. Will be appointed after OX Roast to serve until the next OX Roast.
-   a. Serves as a member of CCC.
+   a. Serves as a member of {{< var acronyms.ccc >}}.
 
 1. Membership Development Chair
    a. Serves as chair of the Membership Development Committee.
@@ -208,13 +208,13 @@
       i. Professional development
       i. Brotherhood development
       i. Recreation
-   a. Serves as a member of CCC.
+   a. Serves as a member of {{< var acronyms.ccc >}}.
 
 1. Philanthropy and Service Chair
    a. Serves as chair of the Philanthropy and Service Committee.
    a. Ensures the chapter meets the Greek Life goals for service.
    a. Informs the chapter of service and philanthropy opportunities.
-   a. Serves as a member of CCC.
+   a. Serves as a member of {{< var acronyms.ccc >}}.
 
 1. House Manager
    a. Will live in the house.
@@ -225,7 +225,7 @@
 1. Detail Manager
    a. Will pass a house and kitchen detail plan as legislation by the first chapter meeting of the semester in which they serve. The plan must contain provisions for the assessment of fines for delinquency in details.
    a. Assigns weekly house details and weekly kitchen details.
-   a. Will be responsible for the direction of all special event details, which may be called at their discretion.
+   a. Will be {{< var glossary.responsible >}} for the direction of all {{< var glossary.special-event-detail >}}s, which may be called at their discretion.
 
 1. Food Steward
    a. Works with a chef or catering service to maintain a brotherhood meal plan.\
@@ -236,20 +236,20 @@
    a. Must live in the house.
 
 1. Community Standards Chair
-   a. Works with respective positions to ensure Community Standards are completed by the fall deadline.
+   a. Works with respective positions to ensure {{< var glossary.community-standards >}} are completed by the fall deadline.
 
 1. Risk Manager
-   a. Schedules Students Meeting About Risk and Responsibility Training (SMARRT) or similar presentations at the request of the Greek Life Office.
-   a. Ensures compliance with all Greek Life, University, IHQ, and NIC guidelines and policies.
-   a. Attends Office of Greek Life risk manager meetings.
+   a. Schedules Students Meeting About Risk and Responsibility Training ({{< var acronyms.smarrt >}}) or similar presentations at the request of the Greek Life Office.
+   a. Ensures compliance with all Greek Life, University, {{< var acronyms.ihq >}}, and {{< var acronyms.nic >}} guidelines and policies.
+   a. {{< var glossary.attend >}}s Office of Greek Life risk manager meetings.
 
 1. Diversity, Equity, and Inclusion Chair
-   a. Attends all Diversity, Equity, and Inclusion roundtables hosted by the Greek Life Office. 13. Greek Games Chair
+   a. {{< var glossary.attend >}}s all Diversity, Equity, and Inclusion roundtables hosted by the Greek Life Office. 13. Greek Games Chair
    a. Organizes the chapter's participation in Greek Week.
-   a. Attends Greek Week Chair meetings sponsored by the Greek Week Steering Committee. c. Appoints brothers to captain Greek Week events.
+   a. {{< var glossary.attend >}}s Greek Week Chair meetings sponsored by the Greek Week Steering Committee. c. Appoints brothers to captain Greek Week events.
 
 1. Interfraternity Congress Representative
-   a. Represents the chapter at IFC meetings.
+   a. Represents the chapter at {{< var acronyms.ifc >}} meetings.
    a. Must have been a brother for at least one full semester.
 
 1. Librarian
@@ -258,7 +258,7 @@
 
 1. Standards Board At-Large Member
    a. Hears and rules on all cases brought before Standards Board as defined in Article XII.
-   a. Attends all meetings of Standards Board.
+   a. {{< var glossary.attend >}}s all meetings of Standards Board.
    a. Keeps confidential all matters related to judicial proceedings.
    a. Treats all brothers and New Members fairly, impartially, and consistently.
 
@@ -268,7 +268,7 @@
 ## Executive Council
 
 1. Membership
-   a. EC will be composed of the following:
+   a. {{< var acronyms.ec >}} will be composed of the following:
       i. President
       i. Vice President
       i. Vice President of Health and Safety
@@ -284,16 +284,16 @@
    a. Serves as an executive body.
    a. Guides the chapter in emergencies.
    a. Reviews excuses for chapter meetings and other chapter events.
-      i. In evaluating excuses, the EC shall adhere to the standards set in the Acceptable Excuses Plan. The Acceptable Excuses Plan shall consist of the following:
-         1\. Specifically what is an acceptable excuse, with examples.
-         1\. Specifically what is not an acceptable excuse, with examples.
-         1\. The number of unexcused absences, missed chapters, and other mandatory events that are allowed per semester before being taken to standards board.
+      i. In evaluating excuses, the {{< var acronyms.ec >}} shall adhere to the standards set in the Acceptable Excuses Plan. The Acceptable Excuses Plan shall consist of the following:
+         1. Specifically what is an acceptable excuse, with examples.
+         1. Specifically what is not an acceptable excuse, with examples.
+         1. The number of unexcused absences, missed chapters, and other mandatory events that are allowed per semester before being taken to standards board.
       i. The Acceptable Excuses Plan shall be distributed to the chapter one week before retreat at the beginning of every semester and approved at retreat, with any necessary amendments, as a piece of temporary legislation valid for one semester.
-   a. Reviews Requests for Deferment (Article VI, Section D).
-   a. Passes Executive Edicts as defined in Article II, Section B, Item 4.
+   a. Reviews Requests for {{< var glossary.deferment >}} (Article VI, Section D).
+   a. Passes {{< var glossary.executive-edict >}}s as defined in Article II, Section B, Item 4.
    a. Suspends portions of the Bylaws subject to chapter approval as defined in Article I, Section C.
-   a. Reviews appeals to Academic Probation as defined in Article X, Section A.
-   a. Meets with respective CAB member once a month.
+   a. Reviews appeals to {{< var glossary.academic-probation >}} as defined in Article X, Section A.
+   a. Meets with respective {{< var acronyms.cab >}} member once a month.
    a. Appoints appointed positions.
 
 1. Voting
@@ -305,57 +305,57 @@
       i. Marshal
       i. Recruitment Chair
       i. Scholarship Chair
-   a. Quorum will consist of at least five members, at least four of whom must be voting members. c. All votes are decided by an absolute majority of EC.
+   a. {{< var glossary.quorum >}} will consist of at least five members, at least four of whom must be voting members. c. All votes are decided by an {{< var glossary.absolute-majority >}} of {{< var acronyms.ec >}}.
       i. The President will have a vote in case of a tie.
 
 1. Procedure
-   a. EC is chaired by the Vice President.
-   a. EC will meet weekly while school is in session.
-   a. EC will admit any brother or candidate unless the meeting is declared closed by the Vice President or an absolute majority of EC.
-      i. EC may admit any guest to closed EC by an absolute majority vote.
-      i. EC meetings will be closed to non-EC members in situations that require discussing private or emergency matters such as Requests for Deferment.
-   a. The Vice President will serve as the representative of EC to the chapter.
+   a. {{< var acronyms.ec >}} is chaired by the Vice President.
+   a. {{< var acronyms.ec >}} will meet weekly while school is in session.
+   a. {{< var acronyms.ec >}} will admit any brother or candidate unless the meeting is declared closed by the Vice President or an {{< var glossary.absolute-majority >}} of {{< var acronyms.ec >}}.
+      i. {{< var acronyms.ec >}} may admit any guest to closed {{< var acronyms.ec >}} by an {{< var glossary.absolute-majority >}} vote.
+      i. {{< var acronyms.ec >}} meetings will be closed to non-{{< var acronyms.ec >}} members in situations that require discussing private or emergency matters such as Requests for {{< var glossary.deferment >}}.
+   a. The Vice President will serve as the representative of {{< var acronyms.ec >}} to the chapter.
 
 ## Committees
 
 1. The chapter will have the following groups of committees:
    a. Standard Committees
       i. Each Standard committee is part of a committee pair. The list of committees and committee pairs is as follows:
-         1\. Alumni Relations Committee and Member Development Committee
-         1\. Health and Safety Committee and Scholarship Committee
-         1\. Philanthropy and Service Committee and Social Committee
-         1\. Public Relations Committee and Recruitment Committee
+         1. Alumni Relations Committee and Member Development Committee
+         1. Health and Safety Committee and Scholarship Committee
+         1. Philanthropy and Service Committee and Social Committee
+         1. Public Relations Committee and Recruitment Committee
       i. All Standard committees will do the following:
-         1\. Meet at least once every two weeks as directed by their chair.
-            a\. In direct exception to the previous bylaw, the Alumni Relations Committee and Member Development Committee only need to meet at least once every four weeks as directed by their chair.
-         1\. Assist the chair in the discharge of their duties.
-         1\. Create a set of goals for the committee at the first meeting of the committee.
-         1\. Work toward the goals of the committee.
+         1. Meet at least once every two weeks as directed by their chair.
+            a. In direct exception to the previous bylaw, the Alumni Relations Committee and Member Development Committee only need to meet at least once every four weeks as directed by their chair.
+         1. Assist the chair in the discharge of their duties.
+         1. Create a set of goals for the committee at the first meeting of the committee.
+         1. Work toward the goals of the committee.
    b. Operational Committees\
       i. Ad hoc committees
-         1\. The Vice President has the power to make other committees at their discretion.
+         1. The Vice President has the power to make other committees at their discretion.
       i. Budget Committee
-         1\. Purpose and Duties
-            a\. To create a budget for the chapter for the next year pursuant to Article VI, Section B. 2. To examine any financial issues of the chapter.
-         1\. Membership
-            a\. The Treasurer will serve as chair of the Budget Committee.
-            a\. The body of the committee will be selected by the Treasurer.
-         1\. Procedure
-            a\. The committee will be created and convened during the budgeting process outlined in Article VI, Section B, Item 3.
-            a\. The committee may meet at other times to examine the finances of the chapter at the direction of EC.
-      i. Committee Chair Committee (CCC)
-         1\. Purpose
-            a\. To facilitate communication between committee chairs.
-            a\. To keep the Vice President informed of committee business.
-            a\. To help the Vice President ensure that committees are performing all necessary duties.
-         1\. Membership
-            a\. The Vice President will serve as the chair of CCC.
-            a\. The chairs of all Standard Committees will be members.
-            a\. Other brothers may be added to CCC at the Vice President's discretion.
-         1\. Procedure
-            a\. The committee will meet at least once every two weeks while school is in session. 2. The Vice President will evaluate progress toward committee goals.
+         1. Purpose and Duties
+            a. To create a budget for the chapter for the next year pursuant to Article VI, Section B. 2. To examine any financial issues of the chapter.
+         1. Membership
+            a. The Treasurer will serve as chair of the Budget Committee.
+            a. The body of the committee will be selected by the Treasurer.
+         1. Procedure
+            a. The committee will be created and convened during the budgeting process outlined in Article VI, Section B, Item 3.
+            a. The committee may meet at other times to examine the finances of the chapter at the direction of {{< var acronyms.ec >}}.
+      i. Committee Chair Committee ({{< var acronyms.ccc >}})
+         1. Purpose
+            a. To facilitate communication between committee chairs.
+            a. To keep the Vice President informed of committee business.
+            a. To help the Vice President ensure that committees are performing all necessary duties.
+         1. Membership
+            a. The Vice President will serve as the chair of {{< var acronyms.ccc >}}.
+            a. The chairs of all Standard Committees will be members.
+            a. Other brothers may be added to {{< var acronyms.ccc >}} at the Vice President's discretion.
+         1. Procedure
+            a. The committee will meet at least once every two weeks while school is in session. 2. The Vice President will evaluate progress toward committee goals.
       i. Mandatory Bylaw Revision Committee
-         1\. The Mandatory Bylaw Revision Committee will function in accordance with Article IX, Section C.
+         1. The Mandatory Bylaw Revision Committee will function in accordance with Article IX, Section C.
 
 1. Every brother must be a member of both of the Standard Committees that belong to the same committee pair.
    a. Brothers that serve as chairs of one Standard Committee must also be on the other Standard Committee in the committee pair.

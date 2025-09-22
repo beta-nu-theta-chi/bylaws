@@ -14,7 +14,7 @@
 
 1. During Mandatory Revisions, a committee chaired by the Vice President will review the Chapter Bylaws.
 1. Members of the committee will be selected by the Vice President.
-1. The committee will meet weekly unless a majority of members cannot attend or revisions are complete.
+1. The committee will meet weekly unless a majority of members cannot {{< var glossary.attend >}} or revisions are complete.
 
 ## Process
 

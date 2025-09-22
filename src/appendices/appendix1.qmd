@@ -1,7 +1,7 @@
 # Appendix A
 
-## EC Interpretations
+## {{< var acronyms.ec >}} Interpretations
 
-1. Academic warning is treated the same way as Academic Probation when a brother has not had classes for a semester.
+1. Academic warning is treated the same way as {{< var glossary.academic-probation >}} when a brother has not had classes for a semester.
 1. Standards Board does NOT need to automatically recommend a brother for suspension if said brother is brought up for standards with the possibility of suspension.
 1. When adding interpretations, make sure to reference the particular bylaw being interpreted and the year the interpretation was made.

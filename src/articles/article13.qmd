@@ -7,12 +7,12 @@
 ## Leadership
 
 1. The Vice President of the chapter presides over the hearing as Arbiter. If the Vice President is unable to serve or not present, the Chaplain will preside over the hearing as Arbiter.
-1. If neither the Vice President nor the Chaplain are able to serve, the Chapter Hearing should be rescheduled to allow at least one of the Vice President or the Chaplain to be available in order to preside over the hearing. If this is not possible, the highest position on Executive Council (EC) will preside over the Chapter Hearing (Article V, Section F, Item 1a) as Arbiter.
+1. If neither the Vice President nor the Chaplain are able to serve, the Chapter Hearing should be rescheduled to allow at least one of the Vice President or the Chaplain to be available in order to preside over the hearing. If this is not possible, the highest position on Executive Council ({{< var acronyms.ec >}}) will preside over the Chapter Hearing (Article V, Section F, Item 1a) as Arbiter.
 
 ## Voting
 
-1. Unless otherwise specified, votes during a Chapter Hearing are by simple majority. 2. Every member of the chapter who is present for the hearing is a voting member. 3. The Arbiter will only vote in the case of a tie.
-   a. Quorum of the hearing consists of ⅔ of the chapter.
+1. Unless otherwise specified, votes during a Chapter Hearing are by {{< var glossary.simple-majority >}}. 2. Every member of the chapter who is present for the hearing is a voting member. 3. The Arbiter will only vote in the case of a tie.
+   a. {{< var glossary.quorum >}} of the hearing consists of ⅔ of the chapter.
 
 ## Accusation Procedure
 
@@ -53,11 +53,11 @@
 
 1. The Arbiter will excuse the accuser and the accused from the hearing.
 
-1. The chapter will then determine whether the accused is responsible or not responsible.
+1. The chapter will then determine whether the accused is {{< var glossary.responsible >}} or {{< var glossary.not-responsible >}}.
 
 1. The chapter will then determine appropriate sanctions, if any.
    a. Past judicial history of the accused and sanctions given for similar accusations in the past may be considered.
-   a. There will be a discussion to determine each specific sanction. After discussion comes to a close, the sanctions decided upon must be passed by a supermajority of present members vote. If the vote is not passed, the chapter will return to discussion.
+   a. There will be a discussion to determine each specific sanction. After discussion comes to a close, the sanctions decided upon must be passed by a {{< var glossary.supermajority >}} of present members vote. If the vote is not passed, the chapter will return to discussion.
 
 1. After the verdict and sanctions have been determined the Arbiter will readmit the accused and accuser back to the hearing and will announce the verdict and sanctions given, if any.
 
@@ -73,4 +73,4 @@
    a. Loss of voting privileges
    a. Recommendation of Removal from an Elected Position
    a. Recommendation of Suspension
-   a. Probation
+   a. {{< var glossary.probation >}}

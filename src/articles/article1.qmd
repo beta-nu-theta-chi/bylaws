@@ -27,7 +27,7 @@
 1. {{< var acronyms.ec >}} will have the power to interpret these Bylaws by an {{< var glossary.absolute-majority >}} vote. 2. Any brother may bring {{< var acronyms.ec >}} Bylaw Interpretation {{< var glossary.grievance >}}s, in writing, to {{< var acronyms.ec >}}.
    a. All {{< var glossary.grievance >}}s brought to {{< var acronyms.ec >}} will, at all times, be confidential.
    a. The results of the {{< var glossary.grievance >}}s will be announced to the chapter at the next chapter meeting.
-      i. {{< var acronyms.ec >}} interpretation is subject to overrule by a {{< var glossary.supermajority >}} vote of the active chapter. A. Voting to overrule an {{< var acronyms.ec >}} interpretation of these Bylaws will be done by ballot.
+      i. {{< var acronyms.ec >}} interpretation is subject to overrule by a {{< var glossary.supermajority >}} vote of the active chapter. A. Voting to overrule an {{< var acronyms.ec >}} interpretation of these Bylaws will be done by {{< var glossary.ballot >}}.
 
 ## Glossary
 
