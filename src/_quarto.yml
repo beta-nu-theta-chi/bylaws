@@ -35,6 +35,8 @@ brand:
   dark: brand_dark.yml
 nocite: |
   @*
+extensions:
+  - extensions/article-ref
 format:
   html:
     theme-default: dark

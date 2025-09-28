@@ -1,6 +1,6 @@
 # Bylaw Structure
 
-## Bylaws as Pertaining to the International Fraternity
+## Bylaws as Pertaining to the International Fraternity 
 
 1. The Bylaws of Beta Nu Chapter of Theta Chi Fraternity are adopted as provided for in the International Bylaws {{< var acronyms.ibl >}} of Theta Chi Fraternity (Article V, Section 1).
 1. The bylaws of this chapter will be superseded by the {{< var acronyms.ibl >}} of Theta Chi Fraternity.
