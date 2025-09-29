@@ -69,7 +69,7 @@
    a. Performs all duties stated in the {{< var acronyms.ibl >}} Article V, Section 6, paragraph c.
    a. Plans and oversees a yearly community outreach event regarding health and safety.
    a. Serves as a liaison between the chapter and community health services.
-   a. Organizes events on 7 topics, 2 of which are available to the greater public, on Health and Safety for the chapter per academic year.
+   a. Organizes events on 5 topics, 2 of which are available to the greater public, on Health and Safety for the chapter per academic year in accordance with the five areas of Sacred Purpose.
    a. Maintains house medical kit.
    a. Serves as a member of {{< var acronyms.ec >}}.
    a. Serves as chair of the Health and Safety Committee.
@@ -84,13 +84,15 @@
    a. Maintains the mailbox and mail closet.
    a. Will create a contact list for the chapter which includes contact information of brothers advisors, Greek Life, and emergency services.
    a. Handles registration of Pledges, requests for initiation, and the recording of new initiates.
+   a. Fills out Greek Life and International Headquarters (IHQ) awards that are due in their term.
+   a. Releases a weekly TWIOX (This Week in Theta Chi) newsletter to the alumni mailing list
 
 1. Treasurer
    a. Performs all duties stated in the {{< var acronyms.ibl >}} Article V, Section 6, paragraph e.
    a. Is accountable to the Alumni Corporation.
    a. Collects all feeds, dues, and fines.
    a. Records all transactions made by the chapter.
-   a. Will provide a written report at the request of any brother. The report will include all payments paid out, all monies received, current bank account balances, and budget updates.
+   a. Will provide a written report at the request of any brother which includes all payments paid out, all monies received, current bank account balances, and budget updates.
    a. Keeps private all individual account balances except from the brother whose account it is and {{< var acronyms.ec >}}.
    a. Issues enumerated bills for all brothers and New Members at least three times a semester unless otherwise decided by the chapter.
    a. Announces the names of all members on {{< var glossary.financial-probation >}} at each chapter meeting during the Treasurer's Report or before any vote, whichever occurs first.
@@ -114,7 +116,7 @@
 
 1. Marshal
    a. Performs all duties stated in the {{< var acronyms.ibl >}} Article V, Section 6, paragraph f.
-   a. Will submit a plan as Temporary Legislation that expires at the end of the current semester for their office by the first chapter meeting of the semester of their term.
+   a. Will submit a Marshal Plan as Temporary Legislation that expires at the end of the current semester for their office by the first chapter meeting of the semester of their term.
    a. Will reserve a location for initiation.
    a. Will organize a bid acceptance dinner and the bid acceptance ceremony.
    a. Serves as a member of {{< var acronyms.ec >}}.
@@ -212,7 +214,7 @@
 
 1. Philanthropy and Service Chair
    a. Serves as chair of the Philanthropy and Service Committee.
-   a. Ensures the chapter meets the Greek Life goals for service.
+   a. Ensures the chapter meets the Greek Life goals for service and philanthropy.
    a. Informs the chapter of service and philanthropy opportunities.
    a. Serves as a member of {{< var acronyms.ccc >}}.
 
