@@ -27,5 +27,5 @@
 
 1. Officer Elections
    a. Officers will be elected by {{< var glossary.simple-majority >}} vote.
-   a. In the case that no nominee receives a {{< var glossary.simple-majority >}}, there will immediately be another vote between all candidates who received the two highest counts of votes.\
+   a. In the case that no nominee receives a {{< var glossary.simple-majority >}}, there will immediately be another vote between all candidates who received the two highest counts of votes.
    a. Nominations for president and treasurer must be a week before nominations for the other positions in order to make time for {{< var acronyms.cab >}} interviews.

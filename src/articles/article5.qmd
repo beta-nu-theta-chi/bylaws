@@ -29,7 +29,7 @@
    a. The chapter will discuss the candidates subject to the following rules:
       i. All candidates will leave the room.
       i. The chapter will be allowed not less than five minutes to discuss.
-      i. If the candidate is elected by white {{< var glossary.ballot >}}, this section does not apply.\
+      i. If the candidate is elected by white {{< var glossary.ballot >}}, this section does not apply.
    a. Pledges will be allowed to vote in the election in direct exception to the above @sec-art-GW6C9D29, Item 2.
 
 1. If an elected position should become vacant:
@@ -61,7 +61,7 @@
    a. Fills out Greek Life and International Headquarters ({{< var acronyms.ihq >}}) awards that are due in their term.
    a. Serves as chair of the Bylaw Revision Committee as outlined in @sec-art-YOSPIQLS.
    a. Serves as chair of {{< var acronyms.ec >}} and represents it to the chapter.
-   a. Serves as chair of the Committee Chair Committee ({{< var acronyms.ccc >}}).\
+   a. Serves as chair of the Committee Chair Committee ({{< var acronyms.ccc >}}).
    a. Serves as chair of Standards Board.
    a. May make Ad Hoc Committees at their discretion as defined in @sec-art-VI2T9PVL, Item 3a. o. Must live in the house.
 
@@ -96,7 +96,7 @@
    a. Keeps private all individual account balances except from the brother whose account it is and {{< var acronyms.ec >}}.
    a. Issues enumerated bills for all brothers and New Members at least three times a semester unless otherwise decided by the chapter.
    a. Announces the names of all members on {{< var glossary.financial-probation >}} at each chapter meeting during the Treasurer's Report or before any vote, whichever occurs first.
-   a. Will create a budget following the process outlined in @sec-art-GD7C1K2U.\
+   a. Will create a budget following the process outlined in @sec-art-GD7C1K2U.
    a. Ensures compliance with the General Rules for chapter finances outlined in @sec-art-SKY8T9UM.
    a. Will propose a housing contract to the chapter by the last chapter meeting of each semester with a final version to be approved at the first chapter meeting of the next semester.
    a. Will ensure that all brothers living in the house have signed a housing contract by the second chapter meeting of each semester.
@@ -125,7 +125,7 @@
 1. Scholarship Chair
    a. Performs all duties stated in the {{< var acronyms.ibl >}} Article V, Section 6, paragraph i.
    a. Performs all duties specified by the Greek Life Office, {{< var acronyms.ifc >}}, and the University.
-   a. Will prepare a written scholarship program, submit it to the Office of Greek Life, and pass it as legislation in chapter by the 2nd chapter of their term, containing the following:\
+   a. Will prepare a written scholarship program, submit it to the Office of Greek Life, and pass it as legislation in chapter by the 2nd chapter of their term, containing the following:
       i. A plan for the creation of Scholarship contracts for all brothers.
       i. A plan for ensuring the chapter house is an environment conducive to studying.
       i. A plan for providing incentives for academic achievements.
@@ -157,7 +157,7 @@
 
 1. Historian
    a. Performs all duties stated in the I{{< var acronyms.ibl >}}BL Article V, Section 6, paragraph h.
-   a. Assists alumni relations chair with the alumni database.\
+   a. Assists alumni relations chair with the alumni database.
    a. Ensures that pictures are taken at chapter events.
    a. Will make a yearly scrapbook for the year that they serve, with assistance from the previous historian.
    a. Manages the chapter's online photo and video galleries jointly with the Public Relations Chair.
@@ -195,7 +195,7 @@
    a. Will {{< var glossary.attend >}} all {{< var acronyms.ifc >}} Social Chair meetings.
    a. Serves as a member of {{< var acronyms.ccc >}}.
 
-1. Alumni Relations Chair\
+1. Alumni Relations Chair
    a. Collects materials for and edits the Alumni Newsletter with the help of the Alumni Corporation and sends out the Alumni newsletter before the last day of classes.
    a. Maintains the alumni database.
    a. Serves as chair of the Alumni Relations Committee.
@@ -230,7 +230,7 @@
    a. Will be {{< var glossary.responsible >}} for the direction of all {{< var glossary.special-event-detail >}}s, which may be called at their discretion.
 
 1. Food Steward
-   a. Works with a chef or catering service to maintain a brotherhood meal plan.\
+   a. Works with a chef or catering service to maintain a brotherhood meal plan.
    a. Ensures the service chosen for the meal plan is paid for according to the agreement with the chef or catering service.
    a. Must be on the meal plan.
    a. Works with the Detail Manager to keep public areas in the kitchen clean and ensure proper storage of food.
@@ -301,7 +301,7 @@
 1. Voting
    a. Voting Members
       i. Vice President
-      i. Vice President of Health and Safety\
+      i. Vice President of Health and Safety
       i. Secretary
       i. Treasurer
       i. Marshal
@@ -333,7 +333,7 @@
          1. Assist the chair in the discharge of their duties.
          1. Create a set of goals for the committee at the first meeting of the committee.
          1. Work toward the goals of the committee.
-   b. Operational Committees\
+   b. Operational Committees
       i. Ad hoc committees
          1. The Vice President has the power to make other committees at their discretion.
       i. Budget Committee
