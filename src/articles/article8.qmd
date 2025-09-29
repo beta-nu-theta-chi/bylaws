@@ -36,7 +36,7 @@
    a. The chapter may give out any number of this award.
 
 1. The Theta Chi Scholar Award
-   a. May be bestowed on up to three active brothers each semester for their achievements at the university, whether that may be by coursework, research, work, teaching experience, athletics, extracurricular activities, anything else that makes him an outstanding member of the {{< var acronym.cwru >}} community, brother of Theta Chi, and citizen of the world. No brother may receive this award two semesters of CWRU enrollment in a row.
+   a. May be bestowed on up to three active brothers each semester for their achievements at the university, whether that may be by coursework, research, work, teaching experience, athletics, extracurricular activities, anything else that makes him an outstanding member of the {{< var acronyms.cwru >}} community, brother of Theta Chi, and citizen of the world. No brother may receive this award two semesters of CWRU enrollment in a row.
    a. Will consist of a certificate of appropriate construction and suitable wording which describes the accomplishments for which the certificate is being presented.
    a. The giving procedure, in direct exception to @sec-art-WWI418WD will be as follows:
       i. Nominations will be opened for no shorter than two weeks. Any brother eligible to vote may, at any time when nominations are open, nominate any active member of the fraternity. To do so requires a second.
