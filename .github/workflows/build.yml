@@ -9,6 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      id-token: write
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -27,17 +28,10 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-      - name: Build Project
+      - name: Build Project 2
         shell: bash
         run: |
           nix build --experimental-features "nix-command flakes" .#deploy
       - uses: ncipollo/release-action@v1
         with:
           artifacts: "result/pdf/*,result/*.tar.gz"
-      # - name: Upload artifact
-      #   uses: actions/upload-pages-artifact@v3
-      #   with:
-      #     path: "result/site"
-      # - name: Deploy to GitHub Pages
-      #   id: deployment
-      #   uses: actions/deploy-pages@v4
