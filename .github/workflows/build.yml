@@ -17,7 +17,20 @@ jobs:
       - name: Build Project
         shell: bash
         run: |
-          sh build.sh
+          nix build --experimental-features "nix-command flakes" .#book
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "./result"
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Build Project
+        shell: bash
+        run: |
+          nix build --experimental-features "nix-command flakes" .#deploy
       - uses: ncipollo/release-action@v1
         with:
           artifacts: "result/pdf/*,result/*.tar.gz"
