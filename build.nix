@@ -10,7 +10,8 @@ stdenv.mkDerivation {
   buildPhase = ''
     python glossary.py
 
-    cp branding/_brand-color.yml ./_brand.yml
+    cp branding/_brand-color.yml ./brand_light.yml
+    cp branding/_brand-color_dark.yml ./brand_dark.yml
     export HOME=$(pwd)
     quarto render --no-cache
   '';

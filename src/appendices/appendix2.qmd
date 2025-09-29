@@ -4,15 +4,15 @@
 
 1. September 25, 2010
 
-   Charges: A brother was under a 2.2 GPA for two consecutive semesters.
+   Charges: A brother was under a 2.2 {{< var acronyms.gpa >}} for two consecutive semesters.
 
    Plea: Responsible.
 
-   Sanctions: Recommendation for suspension, voting privileges suspended until off of academic probation.
+   Sanctions: Recommendation for suspension, voting privileges suspended until off of {{< var glossary.academic-probation >}}.
 
 1. September 25, 2010
 
-   Charges: A brother was under a 2.2 GPA for two consecutive semesters. Brother was currently on co-op.
+   Charges: A brother was under a 2.2 {{< var acronyms.gpa >}} for two consecutive semesters. Brother was currently on co-op.
 
    Plea: No Contest.
 
@@ -22,7 +22,7 @@
 
    Charges: A brother was living outside of the house without permission from the chapter. Plea: No Contest.
 
-   Sanctions: Formal apology in chapter, staggard for time equal to time out of the house upon return to the house. Recommendation for suspension.
+   Sanctions: Formal apology in chapter, {{< var glossary.staggard >}} for time equal to time out of the house upon return to the house. Recommendation for suspension.
 
 1. February 7, 2012
 
@@ -50,7 +50,7 @@
 
    Charges: A brother was planning to live outside of the house without permission from the chapter. Plea: No Contest.
 
-   Sanctions: The brother must complete kitchen details or actively attend study tables at a rate set by the Scholarship Chair.
+   Sanctions: The brother must complete kitchen details or actively {{< var glossary.attend >}} study tables at a rate set by the Scholarship Chair.
 
 1. February 28, 2016
 
@@ -72,4 +72,4 @@
 
    Plea: Not Resonsible.
 
-   Sanctions: The brother was told that they should be in chapter more, and that they should create a plan with the Scholarship Chair to ensure they would be in chapter more the next semester. EC was asked to make a clearer excuse plan that also answered the questions "what constitutes an excuse?" and "what constitutes full attendance at chapter?" in order to prevent future communication issues. For this trial, sanctions were given to the accused and a request was made to EC.
+   Sanctions: The brother was told that they should be in chapter more, and that they should create a plan with the Scholarship Chair to ensure they would be in chapter more the next semester. {{< var acronyms.ec >}} was asked to make a clearer excuse plan that also answered the questions "what constitutes an excuse?" and "what constitutes full attendance at chapter?" in order to prevent future communication issues. For this trial, sanctions were given to the accused and a request was made to {{< var acronyms.ec >}}.

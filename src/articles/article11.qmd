@@ -1,44 +1,46 @@
-# Expectations of Brothers
+# Expectations of Brothers {#sec-art-KJJF9K80}
 
-## Code of Conduct
+## Code of Conduct {#sec-art-0MZB8T3Y}
 
 1. No brother will reveal the secrets of the fraternity to anyone who is not an initiated member of Theta Chi Fraternity.
 1. All brothers will obey all federal, state, and local laws.
-1. All brothers will obey all University regulations and the Interfraternity Congress (IFC) Constitution and Bylaws.
-1. All brothers will obey the International Bylaws (IBL).
+1. All brothers will obey all University regulations and the Interfraternity Congress ({{< var acronyms.ifc >}}) Constitution and Bylaws.
+1. All brothers will obey the International Bylaws ({{< var acronyms.ibl >}}).
 1. All brothers will obey the local bylaws and the provisions of the lease on the fraternity house.
 
-## Standards of Brotherhood
+## Standards of Brotherhood {#sec-art-0ERS31Z3}
 
 1. Financial
-   a. Brothers will abide by the financial obligations outlined in Article VI, Section C.
+   a. Brothers will abide by the financial obligations outlined in @sec-art-VDN0D2P4.
 
 1. Rush
-   a. Brothers will attend an amount of Rush events as specified by the Rush Plan.
+   a. Brothers will {{< var glossary.attend >}} an amount of Rush events as specified by the Rush Plan.
 
 1. Social
-   a. Brothers will attend a majority of social events each semester unless they are on Academic Probation.
-   a. Brothers not on Academic Probation will be involved in at least one non-greek campus student organization.
+   a. Brothers will {{< var glossary.attend >}} a majority of {{< var glossary.social-event >}}s each semester unless they are on {{< var glossary.academic-probation >}}.
+   a. Brothers not on {{< var glossary.academic-probation >}} will be involved in at least one non-greek campus student organization.
 
 1. Scholarship
-   a. Brothers will abide by the scholarship standards described in Article X, Section A. 5. Service
+   a. Brothers will abide by the scholarship standards described in @sec-art-1UWTGO5I.
+   
+1. Service
    a. Brothers will complete the service hours assigned to them by the Philanthropy and Service Chair.
 
 1. Chapter events
    
-   a. When an event is declared an official chapter event by Executive Council (EC), all members must attend it unless excused by EC. A missed official chapter event that is not excused will count as an unexcused mandatory event.
+   a. When an event is declared an {{< var glossary.official-chapter-event >}} by Executive Council ({{< var acronyms.ec >}}), all members must {{< var glossary.attend >}} it unless excused by {{< var acronyms.ec >}}. A missed {{< var glossary.official-chapter-event >}} that is not excused will count as an unexcused mandatory event.
       i. Missing a mandatory event without an accepted excuse will count as unexcused.
       i. A brother who has three unexcused mandatory events in a row must be brought up for standards by the Secretary with the possibility of recommendation for suspension.\
-      i. A brother who has three unexcused mandatory events throughout the semester will be staggard.
+      i. A brother who has three unexcused mandatory events throughout the semester will be {{< var glossary.staggard >}}.
       i. A brother who has four unexcused mandatory events throughout the semester will be placed on probation until the end of the semester.
       i. A brother who has seven or more unexcused mandatory events throughout the semester will be brought up for standards by the secretary with the possibility of recommendation for suspension.
    
-   a. Brothers will attend chapter meetings as outlined in Article III, Section C.
+   a. Brothers will {{< var glossary.attend >}} chapter meetings as outlined in @sec-art-BUK07FVL.
 
 1. Committees
-   a. Brothers will be active members of committees and abide by all relevant bylaws pertaining to the roles and responsibilities of committee members, as detailed in Article V, Section G.
-   a. Brothers will attend assigned committee meetings as outlined in Article V, Section G.
+   a. Brothers will be active members of committees and abide by all relevant bylaws pertaining to the roles and responsibilities of committee members, as detailed in @sec-art-VI2T9PVL.
+   a. Brothers will {{< var glossary.attend >}} assigned committee meetings as outlined in @sec-art-VI2T9PVL.
 
-## Considerations for Potential New Members
+## Considerations for Potential New Members {#sec-art-NH6UEJJ1}
 
 1. When issuing bids to potential new members, the chapter will take into account their behavior, especially towards non-brothers, and ensure that it is consistent with our expectations of brothers.

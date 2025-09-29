@@ -1,22 +1,22 @@
-# Mandatory Chapter Bylaw Revisions
+# Mandatory Chapter Bylaw Revisions {#sec-art-XBLHU547}
 
-## Purpose
+## Purpose {#sec-art-09CIY8VN}
 
 1. To update the contents of the chapter bylaws which might otherwise become inapplicable as well as introducing bylaw amendments, if applicable.
 1. To ensure that the chapter repeatedly renews its knowledge of the contents of the chapter bylaws.
 
-## Frequency
+## Frequency {#sec-art-KQCSG4SB}
 
 1. Mandatory Revisions will be held within 2 years of the previous mandatory revision period.
 1. The Vice President may at any time form a committee to review the chapter bylaws using the process of Mandatory Revisions.
 
-## Committee
+## Committee {#sec-art-YOSPIQLS}
 
 1. During Mandatory Revisions, a committee chaired by the Vice President will review the Chapter Bylaws.
 1. Members of the committee will be selected by the Vice President.
-1. The committee will meet weekly unless a majority of members cannot attend or revisions are complete.
+1. The committee will meet weekly unless a majority of members cannot {{< var glossary.attend >}} or revisions are complete.
 
-## Process
+## Process {#sec-art-6OYDN53W}
 
 1. The committee will compose a list of amendments.
    a. An item is put on the list if it is deemed mutually acceptable by members of the committee.

@@ -1,23 +1,23 @@
-# Suspension and Expulsion Trial
+# Suspension and Expulsion Trial {#sec-art-SHNK1TW0}
 
-## Preface
+## Preface {#sec-art-QXCB6D18}
 
-1. This section's purpose is to summarize the Suspension and Expulsion Procedures in the International Bylaws (IBL). For more detailed procedures, refer to IBL Article VI, Section 13.
+1. This section's purpose is to summarize the Suspension and Expulsion Procedures in the International Bylaws ({{< var acronyms.ibl >}}). For more detailed procedures, refer to {{< var acronyms.ibl >}} Article VI, Section 13.
 
-## Purpose
+## Purpose {#sec-art-XWEFVE0N}
 
 1. To determine whether suspension or expulsion is warranted due to violations of their obligation to the Fraternity. These violations include:
    a. Conduct that indicates he is unworthy to represent, bear the name of, or wear the badge of the Fraternity.
    a. A violation of any oaths taken during Ritual.
-   a. A violation of the limitations on memberships as detailed in IBL Article VI, Section 12.
-   a. Participation in an initiation conducted in violation of IBL Article VI, Section 4(e).
+   a. A violation of the limitations on memberships as detailed in {{< var acronyms.ibl >}} Article VI, Section 12.
+   a. Participation in an initiation conducted in violation of {{< var acronyms.ibl >}} Article VI, Section 4(e).
    a. A violation of any financial obligation to the active chapter.
 
 1. Suspension should be imposed in cases where an action that provides a path back to good standing is appropriate.
 
 1. Expulsion should be imposed when misconduct warrants permanently extinguishing the member's association with the Fraternity (e.g due to severity, repetition, or other appropriate grounds).
 
-## Accusation
+## Accusation {#sec-art-SHC8AJWR}
 
 1. Any collegiate or alumnus member of a chapter may submit an accusation against any other collegiate or alumnus member of that chapter by making a statement of the charges, orally or in writing, privately to the president of the chapter. Each accusation must be as detailed as possible so that the accused may prepare a defense if they so choose.
 1. If the accusing member request actions upon the accusation, the president will follow this procedure:
@@ -25,20 +25,20 @@
    a. Notify the accused in writing of the date, time, and place of the trial, at least seven days prior to the time the trial is scheduled. The notice must contain the specific charges. If personal service is not possible, the president shall notify the accused in writing, by mail, or similar method resulting in delivery of a receipt to the chapter, at least fourteen days prior to the meeting.
    a. Notify all collegiate members of the active chapter of the date, time, and place of the trial by the fastest means possible.
 
-## Procedure
+## Procedure {#sec-art-AUY8JX2J}
 
-1. After the meeting is called to order and a quorum is determined to be present, the president shall read the accusations, withholding the name of the accuser. The meeting may proceed whether or not the accused member attends.
+1. After the meeting is called to order and a {{< var glossary.quorum >}} is determined to be present, the president shall read the accusations, withholding the name of the accuser. The meeting may proceed whether or not the accused member {{< var glossary.attend >}}s.
 1. Witnesses (members or non-members) may be called by any member, including the accused, to testify as to their knowledge of the accusations. Members, including the accused, may ask questions of any witness.
 1. The accused has the right to speak on their own behalf. Members may ask questions of the accused.
-1. After all witnesses have been heard, the accused shall withdraw from the meeting. Members then ballot upon the motion to suspend and/or expel the accused. The affirmative vote of a simple majority of all collegiate members eligible to vote shall be necessary to sustain a motion to suspend. A ¾ vote of all collegiate members eligible to vote shall be necessary to expel, except for cases in which the accused member is confirmed to have led or participated in hazing, in which case only a simple majority vote of all collegiate members of the active chapter eligible to vote is needed to expel the member.
+1. After all witnesses have been heard, the accused shall withdraw from the meeting. Members then {{< var glossary.ballot >}} upon the motion to suspend and/or expel the accused. The affirmative vote of a {{< var glossary.simple-majority >}} of all collegiate members eligible to vote shall be necessary to sustain a motion to suspend. A ¾ vote of all collegiate members eligible to vote shall be necessary to expel, except for cases in which the accused member is confirmed to have led or participated in hazing, in which case only a {{< var glossary.simple-majority >}} vote of all collegiate members of the active chapter eligible to vote is needed to expel the member.
 1. If two or more members have been accused of the same or related conduct and the hearings of the accusations for such members have been scheduled for a single meeting, all accused members shall withdraw from the meeting before members vote on any of the options. No such accused member shall be eligible to vote with respect to a motion relating to any other of the accused.
 1. The result of the votes on all resolutions shall be promptly communicated to the accused member, who shall govern themselves accordingly.
 1. No record of the proceeding with respect to an accused member shall be retained unless the motion to suspend or expel is sustained.
-   a. If the motion to expel is sustained, the chapter shall promptly send International Headquarters (IHQ) a copy of the notice of meeting served; a complete statement of the original accusations and any written response made by the accused; a numerical record of the number of all members eligible to vote, the number of members eligible and present for the vote, and the number of such members voting for the motion; a summary of all evidence submitted by all witnesses; a copy of the minutes of the meeting recording the action of the chapter.
-   a. If a motion to suspend is sustained, the chapter shall promptly report the suspension to IHQ.
+   a. If the motion to expel is sustained, the chapter shall promptly send International Headquarters ({{< var acronyms.ihq >}}) a copy of the notice of meeting served; a complete statement of the original accusations and any written response made by the accused; a numerical record of the number of all members eligible to vote, the number of members eligible and present for the vote, and the number of such members voting for the motion; a summary of all evidence submitted by all witnesses; a copy of the minutes of the meeting recording the action of the chapter.
+   a. If a motion to suspend is sustained, the chapter shall promptly report the suspension to {{< var acronyms.ihq >}}.
 
-## Lifting Suspension
+## Lifting Suspension {#sec-art-OYLVVCWV}
 
 1. If the chapter deems that lifting a suspension given by this section is appropriate, the president of the active chapter which imposed the suspension shall receive a petition signed by more than ⅓ of all collegiate members of the chapter seeking to lift the suspension.
-1. The president shall call and conduct a meeting in accordance with IBL Article VI, Section 13(b), paragraphs 1 through 7, excluding paragraph 4, and including the first sentence of paragraph 8.
-1. The members shall ballot upon a motion to lift the suspension. This motion needs the affirmative vote of at least ½ of all collegiate members of the chapter eligible to vote in order to sustain the motion.
+1. The president shall call and conduct a meeting in accordance with {{< var acronyms.ibl >}} Article VI, Section 13(b), paragraphs 1 through 7, excluding paragraph 4, and including the first sentence of paragraph 8.
+1. The members shall {{< var glossary.ballot >}} upon a motion to lift the suspension. This motion needs the affirmative vote of at least ½ of all collegiate members of the chapter eligible to vote in order to sustain the motion.

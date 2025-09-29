@@ -1,24 +1,24 @@
-# Chapter Hearings
+# Chapter Hearings {#sec-art-BBVW6A2W}
 
-## Purpose
+## Purpose {#sec-art-ID5CAL25}
 
 1. To judge infractions of the bylaws on a chapter-wide level.
 
-## Leadership
+## Leadership {#sec-art-314J6G1Q}
 
 1. The Vice President of the chapter presides over the hearing as Arbiter. If the Vice President is unable to serve or not present, the Chaplain will preside over the hearing as Arbiter.
-1. If neither the Vice President nor the Chaplain are able to serve, the Chapter Hearing should be rescheduled to allow at least one of the Vice President or the Chaplain to be available in order to preside over the hearing. If this is not possible, the highest position on Executive Council (EC) will preside over the Chapter Hearing (Article V, Section F, Item 1a) as Arbiter.
+1. If neither the Vice President nor the Chaplain are able to serve, the Chapter Hearing should be rescheduled to allow at least one of the Vice President or the Chaplain to be available in order to preside over the hearing. If this is not possible, the highest position on Executive Council ({{< var acronyms.ec >}}) will preside over the Chapter Hearing (@sec-art-D3IM05AX, Item 1a) as Arbiter.
 
-## Voting
+## Voting {#sec-art-S4K1I20W}
 
-1. Unless otherwise specified, votes during a Chapter Hearing are by simple majority. 2. Every member of the chapter who is present for the hearing is a voting member. 3. The Arbiter will only vote in the case of a tie.
-   a. Quorum of the hearing consists of ⅔ of the chapter.
+1. Unless otherwise specified, votes during a Chapter Hearing are by {{< var glossary.simple-majority >}}. 2. Every member of the chapter who is present for the hearing is a voting member. 3. The Arbiter will only vote in the case of a tie.
+   a. {{< var glossary.quorum >}} of the hearing consists of ⅔ of the chapter.
 
-## Accusation Procedure
+## Accusation Procedure {#sec-art-C9QQIOS7}
 
-1. Chapter Hearings can only be started if the Vice President decides that a Standards Board Hearing should become a Chapter Hearing. As such, the accusation procedure in Article XII, Section F should be used.
+1. Chapter Hearings can only be started if the Vice President decides that a Standards Board Hearing should become a Chapter Hearing. As such, the accusation procedure in @sec-art-1D0EJQ7H should be used.
 
-## Hearing Preparation
+## Hearing Preparation {#sec-art-1B4EQ2H6}
 
 1. Evidence will be distributed by the Arbiter between twenty-four and forty-eight hours before the hearing date and time.
 1. The dress at the hearing will be informal.
@@ -27,7 +27,7 @@
    a. Witnesses will be advised by the Arbiter that they are not to discuss the hearing or the accusation outside of the hearing.
    a. The Arbiter will call the hearing to order.
 
-## Hearing Procedure
+## Hearing Procedure {#sec-art-CD9I5LLX}
 
 1. The Arbiter reads aloud the charges and plea and ensures that the accused understands the charges and their plea.
 
@@ -53,11 +53,11 @@
 
 1. The Arbiter will excuse the accuser and the accused from the hearing.
 
-1. The chapter will then determine whether the accused is responsible or not responsible.
+1. The chapter will then determine whether the accused is {{< var glossary.responsible >}} or {{< var glossary.not-responsible >}}.
 
 1. The chapter will then determine appropriate sanctions, if any.
    a. Past judicial history of the accused and sanctions given for similar accusations in the past may be considered.
-   a. There will be a discussion to determine each specific sanction. After discussion comes to a close, the sanctions decided upon must be passed by a supermajority of present members vote. If the vote is not passed, the chapter will return to discussion.
+   a. There will be a discussion to determine each specific sanction. After discussion comes to a close, the sanctions decided upon must be passed by a {{< var glossary.supermajority >}} of present members vote. If the vote is not passed, the chapter will return to discussion.
 
 1. After the verdict and sanctions have been determined the Arbiter will readmit the accused and accuser back to the hearing and will announce the verdict and sanctions given, if any.
 
@@ -65,7 +65,7 @@
 
 1. The Arbiter will then adjourn the hearing.
 
-## Sanctions
+## Sanctions {#sec-art-0CQQ1DK3}
 
 1. The chapter may issue sanctions within its scope. The following are suggested examples of possible sanctions:\
    a. Counseling
@@ -73,4 +73,4 @@
    a. Loss of voting privileges
    a. Recommendation of Removal from an Elected Position
    a. Recommendation of Suspension
-   a. Probation
+   a. {{< var glossary.probation >}}

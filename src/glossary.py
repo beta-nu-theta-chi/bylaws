@@ -1,4 +1,3 @@
-import glob
 from typing import TypedDict
 import yaml
 
@@ -35,10 +34,10 @@ def generate_env(glossary: Glossary, acronyms: Glossary) -> str:
     gloss = {}
     acron = {}
     for item in glossary:
-        gloss[get_sec_name(item)] = f"[{item['term']}](glossary.qmd#sec-{get_sec_name(item)})"
+        gloss[get_sec_name(item)] = f"[{item['term']}](/glossary.qmd#sec-{get_sec_name(item)})"
 
     for item in acronyms:
-        acron[get_sec_name(item)] = f"[{item['term']}](glossary.qmd#sec-{get_sec_name(item)})"
+        acron[get_sec_name(item)] = f"[{item['term']}](/glossary.qmd#sec-{get_sec_name(item)})"
 
     return yaml.dump({"glossary": gloss, "acronyms": acron})
 
