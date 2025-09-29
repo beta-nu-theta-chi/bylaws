@@ -35,4 +35,15 @@
    a. A nominee must receive a {{< var glossary.supermajority >}} vote to receive this award in direct exception to @sec-art-WWI418WD, Item 1b.
    a. The chapter may give out any number of this award.
 
+1. The Theta Chi Scholar Award
+   a. May be bestowed on up to three active brothers each semester for their achievements at the university, whether that may be by coursework, research, work, teaching experience, athletics, extracurricular activities, anything else that makes him an outstanding member of the {{< var acronym.cwru >}} community, brother of Theta Chi, and citizen of the world. No brother may receive this award two semesters of CWRU enrollment in a row.
+   a. Will consist of a certificate of appropriate construction and suitable wording which describes the accomplishments for which the certificate is being presented.
+   a. The giving procedure, in direct exception to @sec-art-WWI418WD will be as follows:
+      i. Nominations will be opened for no shorter than two weeks. Any brother eligible to vote may, at any time when nominations are open, nominate any active member of the fraternity. To do so requires a second.
+      i. Any brother who is nominated may accept the nomination before nominations close by way of informing the Scholarship Chair of his acceptance and explaining why he thinks he is an exemplar of on-campus achievement among the members of the fraternity.
+      i. The Standards Board will discuss each nominee. In this discussion, the consideration will be of the ideals of the award, listed in Point A, with the stipulation that this award is meant to be open to brothers who are a role model in any way listed above – one does not need to be exemplary in every area to still be an example. No member of the Standards Board may contribute to discussion regarding their own scholarship if they themselves have been nominated, but they are welcome to discuss the award in context of other brothers. Although the Scholarship Chair and President may be aware of an individual brother’s {{< var acronyms.gpa >}}, they are not allowed to disclose this information unless the brother in question has provided it with their application.
+      i. The Standards Board will decide, by majority vote, at most three applicants who are deserving of the title of Theta Chi Scholar for the semester. 
+      i. These brothers will be announced at a suitable time before the end of the semester. For the spring semester, this should be at the Scholarship Dinner.
+
+
 1. The chapter may give out any other awards subject to the procedures defined in @sec-art-WWI418WD.
