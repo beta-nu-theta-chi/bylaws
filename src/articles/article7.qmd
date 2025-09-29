@@ -1,21 +1,21 @@
-# Housing Policies
+# Housing Policies {#sec-art-N4XGGHCH}
 
-## Alcohol, Tobacco, and Illegal Substances
+## Alcohol, Tobacco, and Illegal Substances {#sec-art-6GSVIPRZ}
 
 1. No alcohol is to be consumed in the house or on the chapter property.
 1. No alcohol is to be stored in the house or on the chapter property except for the purposes of cooking.
    a. Alcohol stored for the purpose of cooking, determined in cases of uncertainty by a {{< var glossary.simple-majority >}} vote of chapter, may only be stored for a period of twenty-four hours.
-   a. Alcohol manufactured for the sole sake of cooking (i.e. modified in such a way by the original manufacturer to make it undesirable for consuming alone or in a mixed drink), determined as above in Article VII, Section A, Item 2a, may be stored indefinitely.
+   a. Alcohol manufactured for the sole sake of cooking (i.e. modified in such a way by the original manufacturer to make it undesirable for consuming alone or in a mixed drink), determined as above in @sec-art-6GSVIPRZ, Item 2a, may be stored indefinitely.
 1. Tobacco may not be possessed and chewed within the house or on the chapter property.
 1. Illegal substances may not be possessed, stored, or used in the house or on the chapter property.
-1. If a brother or their guest violates Article VII, Section A, Item 1, Article VII, Section A, Item 2, Article VII, Section A, Item 3, or Article VII, Section A, Item 4, they will be brought up for standards by the President, with sanctions not less than:
+1. If a brother or their guest violates @sec-art-6GSVIPRZ, Item 1, @sec-art-6GSVIPRZ, Item 2, @sec-art-6GSVIPRZ, Item 3, or @sec-art-6GSVIPRZ, Item 4, they will be brought up for standards by the President, with sanctions not less than:
    a. First Offense – $50 fine
    a. Second Offense – $75 fine, placed on {{< var glossary.probation >}}, and becomes {{< var glossary.staggard >}}
    a. Third Offense – $100 fine and recommendation for suspension to the chapter
 1. No candles will be burned inside the house or on the chapter property.
-1. Article VII, Section A, Item 1, Article VII, Section A, Item 2, and Article VII, Section A, Item 3 will become null and void upon the downfall of Western Civilization.
+1. @sec-art-6GSVIPRZ, Item 1, @sec-art-6GSVIPRZ, Item 2, and @sec-art-6GSVIPRZ, Item 3 will become null and void upon the downfall of Western Civilization.
 
-## Housing Eligibility
+## Housing Eligibility {#sec-art-71TPHUXH}
 
 1. All active brothers are to live in the chapter house pursuant to Article V, Section 10 of the International Bylaws ({{< var acronyms.ibl >}}).
    a. The following brothers are exempt from this policy:
@@ -40,12 +40,12 @@
 
 1. If the Chaplain is not living in the house, one of the ritual keys must be left in the house.
 
-1. Brothers in violation of Article VII, Section B, Item 1 or Article VII, Section B, Item 2 are to be brought up for standards by the Vice President with the possibility of suspension.
+1. Brothers in violation of @sec-art-71TPHUXH, Item 1 or @sec-art-71TPHUXH, Item 2 are to be brought up for standards by the Vice President with the possibility of suspension.
 
 1. In order for a brother to move into the house, they must not be on {{< var glossary.financial-probation >}} and must not have a debt to the chapter exceeding $3000, including {{< var glossary.deferment >}}s.
    a. Brothers living in the house during the fall of any year are exempt from this stipulation for the spring semester of that year only.
 
-1. Brothers living in the house must have a signed housing contract by the due date (Article V, Section D, Item 5l).
+1. Brothers living in the house must have a signed housing contract by the due date (@sec-art-YZW2AQAI, Item 5l).
 
 1. Alumni will be permitted one year after graduation or status change to live in the house without chapter approval. After that semester, the brother in question must receive a {{< var glossary.supermajority >}} vote in order to remain in the house.
    a. Alumni must be taking classes at {{< var acronyms.cwru >}} to live in the house (i.e. as a graduate student).
@@ -54,7 +54,7 @@
 
 1. Active brothers will have priority over all other possible residents for the purposes of living in the house and room assignments, at the discretion of the Vice President.
 
-## Room Assignments
+## Room Assignments {#sec-art-C89656BJ}
 
 1. If the numbers of brothers eligible to live in the house exceeds the capacity of the house:
    
@@ -63,9 +63,9 @@
       i. If this method would bring the house below capacity:\
          1. Of the brothers with the highest {{< var glossary.roster-number >}} among those who wish to move out, select the number of brothers that would bring the house to a mutually acceptable method.
    
-   a. If, after application of the method described in Article VII, Section C, Item 1a, the house is still above capacity, brothers who have lived in the most semesters in the house (excluding summer) will be forced to move out.
+   a. If, after application of the method described in @sec-art-C89656BJ, Item 1a, the house is still above capacity, brothers who have lived in the most semesters in the house (excluding summer) will be forced to move out.
       i. If two or more brothers have lived in the house the same amount of time, the one with the lowest unmodified {{< var glossary.roster-number >}} will be forced to move out first.
-      i. Brothers listed in Article VII, Section B, Item 2 cannot be forced to live out of the house.
+      i. Brothers listed in @sec-art-71TPHUXH, Item 2 cannot be forced to live out of the house.
 
 1. Any brother applying for a room must have less than $50 debt, including {{< var glossary.deferment >}}s, at the time room assignments are made, lest they become {{< var glossary.staggard >}}.
 
@@ -79,4 +79,4 @@
       i. The group of brothers with the lowest aggregate {{< var glossary.roster-number >}}; else
       i. The group of brothers decided by a mutually acceptable method.
    
-   a. The Vice President will have penultimate authority, beneath the chapter, to assign rooms to the best of their ability in keeping with the guidelines established in Article VII, Section C, Item 4.
+   a. The Vice President will have penultimate authority, beneath the chapter, to assign rooms to the best of their ability in keeping with the guidelines established in @sec-art-C89656BJ, Item 4.

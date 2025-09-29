@@ -1,6 +1,6 @@
-# Scholarship
+# Scholarship {#sec-art-Q7X90PJX}
 
-## Scholarship Standards
+## Scholarship Standards {#sec-art-1UWTGO5I}
 
 1. Once per semester, brothers and Candidates will fill out grade release forms.
    a. Grade release forms must be filled out prior to the due date for midterm grades.
@@ -11,26 +11,26 @@
 
 1. Members will be evaluated according to the following criteria:
    
-   a. Any brother with a cumulative Grade Point Average ({{< var acronyms.gpa >}}) of less than 3.0 or an immediately previous semester {{< var acronyms.gpa >}} of less than 3.0 will be placed on {{< var glossary.academic-probation >}} until the end of the semester and will be required to {{< var glossary.attend >}} an Academic Review as described in Article XII, Section K.
+   a. Any brother with a cumulative Grade Point Average ({{< var acronyms.gpa >}}) of less than 3.0 or an immediately previous semester {{< var acronyms.gpa >}} of less than 3.0 will be placed on {{< var glossary.academic-probation >}} until the end of the semester and will be required to {{< var glossary.attend >}} an Academic Review as described in @sec-art-HL5IIDEQ.
       i. The Academic Review must be within the first two weeks of being put on {{< var glossary.academic-probation >}}.
    
-   a. If a brother has a midterm progress {{< var acronyms.gpa >}} of less than 3.0, the Scholarship Chair may request the brother to make a {{< var glossary.grade-improvement-plan >}} in accordance with Article X, Section A, Item 2a.
+   a. If a brother has a midterm progress {{< var acronyms.gpa >}} of less than 3.0, the Scholarship Chair may request the brother to make a {{< var glossary.grade-improvement-plan >}} in accordance with @sec-art-1UWTGO5I, Item 2a.
    
    a. If a brother is participating in a program where they do not receive a {{< var acronyms.gpa >}} (e.g. a Co-op) but would otherwise be placed on {{< var glossary.academic-probation >}}:
       i. They are not placed on {{< var glossary.academic-probation >}} that semester.
       i. The next semester in which they are not participating in such a program, they will be placed on {{< var glossary.academic-probation >}}.
 
-## New Member Scholarship
+## New Member Scholarship {#sec-art-IVGCFY89}
 
 1. During the New Member program, the Scholarship Chair will meet with New Members during a regular New Member meeting to explain the chapter Scholarship Program and answer any questions they have.
-1. New Members will be held to the academic standards in Article X, Section A.
+1. New Members will be held to the academic standards in @sec-art-1UWTGO5I.
 1. Candidates will be required to sign the grade releases no later than 14 days of grade releases being made available.
 1. A candidate is eligible for initiation if they achieved higher than a 3.0 {{< var acronyms.gpa >}} in the previous semester, or if they have a cumulative {{< var acronyms.gpa >}} of greater than 2.5. Upon receiving a Candidate's {{< var acronyms.gpa >}}, and finding it does not meet requirements, the Marshal shall announce this at the next regularly scheduled chapter meeting.
    a. First semester freshmen are exempt from this rule.
 1. Any Candidate that is ineligible to be initiated will have the option to remain a Candidate.
    a. Should a Candidate remain ineligible in any subsequent semester, they may remain a Candidate only with an {{< var glossary.absolute-majority >}} vote by the active chapter.
 
-## Privacy
+## Privacy {#sec-art-7UQDJG9B}
 
 1. The President, Scholarship Chair, Alumni Advisor, and Faculty Advisor are permitted to know the {{< var acronyms.gpa >}} of each brother.
 1. All brothers are permitted to know the names of brothers on {{< var glossary.academic-probation >}}. 3. All brothers are permitted to know the names of brothers who cannot hold office due to grades.

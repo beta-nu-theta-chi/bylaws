@@ -4,7 +4,7 @@ import random
 import string
 
 # Constants
-HEADER_PATTERN = re.compile(r'^(## .+?)(\s*\{#.*\})?\s*$')
+HEADER_PATTERN = re.compile(r'^(##? .+?)(\s*\{#.*\})?\s*$')
 TAG_TEMPLATE = ' {#sec-art-%s}'
 ID_LENGTH = 8
 

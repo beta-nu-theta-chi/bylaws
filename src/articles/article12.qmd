@@ -1,27 +1,27 @@
-# Standards Board
+# Standards Board {#sec-art-IHXJUPV0}
 
-## Preface
+## Preface {#sec-art-22W5QO3O}
 
 1. This section's purpose is to summarize the Standards Board Hearing Procedures in the International Bylaws ({{< var acronyms.ibl >}}), as well as describing the procedure for Academic Review. For more detailed procedures on Standards Board Trials, refer to {{< var acronyms.ibl >}} Article V, Section 22.
 
-## Purpose
+## Purpose {#sec-art-W45W9VZK}
 
 1. To judge infractions of the bylaws and standards of the chapter as well as all other laws and rules brothers must adhere to as defined in {{< var acronyms.ibl >}} Article V, Section 22(a).
 1. To run Academic Reviews.
 
-## Membership
+## Membership {#sec-art-31029HI0}
 
 1. The composition of Standards Board includes the Vice President as the chair, the Chaplain, and three additional at-large members ({{< var acronyms.ibl >}} Article V, Section 22(b)).
 1. The terms of office of the members of Standards Board are outlined in the {{< var acronyms.ibl >}} Article V, Section 22(c). 3. Vacancies should be filled according to {{< var acronyms.ibl >}} Article V, Section 22(g).
 
-## Voting
+## Voting {#sec-art-1U1T2P1X}
 
 1. Unless otherwise specified, votes of the board are by {{< var glossary.simple-majority >}}.
 1. {{< var glossary.quorum >}} of the board consists of ⅘ of its members.
 1. The voting members of the board are the Chaplain and the three at-large members ({{< var acronyms.ibl >}} Article V, Section 22(i)).
 1. The Vice President may only vote in the case of a tie ({{< var acronyms.ibl >}} Article V, Section 22(i)).
 
-## At-Large Member Removal
+## At-Large Member Removal {#sec-art-D83OGG9V}
 
 1. If, at any time, an at-large member becomes ineligible to hold office or is elected to an Executive Council ({{< var acronyms.ec >}}) position, that at-large member is immediately removed from office.
 1. Any At-Large Member may be removed for the following reasons:
@@ -30,7 +30,7 @@
    a. Conduct unbecoming of an at-large member or which negatively affects the credibility of the board.
    a. At-large members can only be removed by an {{< var glossary.absolute-supermajority >}} vote of the active chapter ({{< var acronyms.ibl >}} Article V, Section 22(e)).
 
-## Accusation Procedure
+## Accusation Procedure {#sec-art-1D0EJQ7H}
 
 1. All accusations must be submitted in writing to the Vice President within one month of the most recent violation.
    a. Each accusation must be as detailed as possible including at least the clause of the local bylaws that was violated.
@@ -74,9 +74,9 @@
    a. Members of the Standards Board may recuse themselves. Members of Standards Board, the accused, or accuser may call for a vote to recuse any member of Standards Boardup to the beginning of the trial.
    a. Vacancies due to recusal should be filled in accordance with {{< var acronyms.ibl >}} Article V, Section 22(j)(9)(v) or (vi), as they apply to the situation.
 
-1. If the type of hearing was determined to be a Chapter Hearing, proceed with Article XIII, Section E.
+1. If the type of hearing was determined to be a Chapter Hearing, proceed with @sec-art-1B4EQ2H6.
 
-## Hearing Preparation
+## Hearing Preparation {#sec-art-HEKXL782}
 
 1. Evidence and a statement by the anonymous accuser will be distributed by the Vice President to all members of the Standards Board between twenty-four and forty-eight hours before the hearing date and time.
 1. Witnesses may volunteer to speak on behalf of or against the charges.
@@ -84,9 +84,9 @@
 1. Witnesses will be advised by the Vice President that they are not to discuss the hearing or the accusation outside of the hearing.
 1. Witnesses must remain outside the room until called by the Vice President and leave when dismissed.
 1. The dress at the hearing will be informal.
-1. The Vice President will call the hearing to order and ask all but the directly related participants to leave the room. The directly related participants are the members of Standards Board as defined in Article XII, Section C, Item 2 and the accused.
+1. The Vice President will call the hearing to order and ask all but the directly related participants to leave the room. The directly related participants are the members of Standards Board as defined in @sec-art-31029HI0C, Item 2 and the accused.
 
-## Hearing Method
+## Hearing Method {#sec-art-L96ICVPJ}
 
 1. The Vice President reads aloud the charges and ensures that the accused understands the charges.
 
@@ -122,7 +122,7 @@
 
 1. The Vice President will then adjourn the hearing.
 
-## Sanctions
+## Sanctions {#sec-art-S2YKROAM}
 
 1. The board may issue sanctions within its limited scope. The following are examples of possible sanctions:
    a. Community Service
@@ -137,7 +137,7 @@
 1. The Vice President will ensure the completion of sanctions.
    a. If the sanctions are not completed, the Vice President will bring the brother up for standards.
 
-## Appeals
+## Appeals {#sec-art-EM09V7RF}
 
 1. The accused may appeal a decision of Standards Board.
    a. Appeals must be submitted within 7 days after receiving written notification of the results of the hearing.
@@ -160,7 +160,7 @@
 
 1. An appeal may be made only once.
 
-## Academic Review
+## Academic Review {#sec-art-HL5IIDEQ}
 
 1. An Academic Review shall be held whenever the Scholarship Chair requests an Academic Review in accordance with the duties of their office.
 

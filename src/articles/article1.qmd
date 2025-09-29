@@ -1,17 +1,17 @@
-# Bylaw Structure
+# Bylaw Structure {#sec-art-WEX7K9OS}
 
-## Bylaws as Pertaining to the International Fraternity 
+## Bylaws as Pertaining to the International Fraternity {#sec-art-5XL0LSV9}
 
 1. The Bylaws of Beta Nu Chapter of Theta Chi Fraternity are adopted as provided for in the International Bylaws {{< var acronyms.ibl >}} of Theta Chi Fraternity (Article V, Section 1).
 1. The bylaws of this chapter will be superseded by the {{< var acronyms.ibl >}} of Theta Chi Fraternity.
 
-## Amendments
+## Amendments {#sec-art-YYQHUMCO}
 
 1. All proposed amendments to these Bylaws will specify in the motion that they are amendments.
 1. A proposed Amendment may not be voted on unless it has been brought up at least one chapter meeting before or has been available for inspection for at least six days. 
 1. A proposed amendment must receive a {{< var glossary.supermajority >}} vote for ratification.
 
-## Suspension
+## Suspension {#sec-art-JKVV6S2J}
 
 1. Portions of the bylaws may be suspended by {{< var glossary.supermajority >}} vote of the chapter.
 1. Motions to suspend a portion of the bylaws must contain:
@@ -22,20 +22,20 @@
    a. The {{< var glossary.executive-edict >}} will be proposed to the chapter at the next chapter meeting with {{< var glossary.quorum >}} by the Vice President.
    a. The {{< var glossary.executive-edict >}} must be approved by the chapter by a {{< var glossary.supermajority >}} vote in order for the {{< var glossary.executive-edict >}} to remain in effect after the chapter in which it was voted upon.
 
-## Interpretation
+## Interpretation {#sec-art-EXPT5HOU}
 
 1. {{< var acronyms.ec >}} will have the power to interpret these Bylaws by an {{< var glossary.absolute-majority >}} vote. 2. Any brother may bring {{< var acronyms.ec >}} Bylaw Interpretation {{< var glossary.grievance >}}s, in writing, to {{< var acronyms.ec >}}.
    a. All {{< var glossary.grievance >}}s brought to {{< var acronyms.ec >}} will, at all times, be confidential.
    a. The results of the {{< var glossary.grievance >}}s will be announced to the chapter at the next chapter meeting.
       i. {{< var acronyms.ec >}} interpretation is subject to overrule by a {{< var glossary.supermajority >}} vote of the active chapter. A. Voting to overrule an {{< var acronyms.ec >}} interpretation of these Bylaws will be done by {{< var glossary.ballot >}}.
 
-## Glossary
+## Glossary {#sec-art-40HBGT7N}
 
 1. All highlighted terms are defined in the Glossary section.
 1. The Glossary is a binding section of the bylaws.
-1. Amendments to the Glossary will follow the procedure in Article I, Section B.
+1. Amendments to the Glossary will follow the procedure in @sec-art-YYQHUMCO.
 
-## Appendices
+## Appendices {#sec-art-Q8OV40FK}
 
 1. This document will have the following appendices:
 

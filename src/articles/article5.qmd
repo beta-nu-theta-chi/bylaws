@@ -1,18 +1,18 @@
-# Officer Selection and Duties
+# Officer Selection and Duties {#sec-art-F8LOE4WJ}
 
-## Terms of Office
+## Terms of Office {#sec-art-3MIFLS7V}
 
 1. All elected offices will have yearly terms.
 1. The President will appoint all appointed officers subject to a {{< var glossary.simple-majority >}} vote of the chapter.
 1. Appointed positions will have semesterly terms except for Alumni Relations Chair, Community Standards Chair, and Standards Board At-Large Member.
 1. The Recruitment Chair and Public Relations Chair will serve from the end of the first {{< var glossary.rush-period >}} after election or appointment through the first {{< var glossary.rush-period >}} after the election or appointment of a new officer.
 
-## Nominations
+## Nominations {#sec-art-NUXDQ4I0}
 
 1. Nominations will be opened at least one week before elections.
 1. All members, in order to be eligible for nomination, must be in good standing with the University and the International Fraternity and must not be on {{< var glossary.financial-probation >}}.
 
-## Elections
+## Elections {#sec-art-3AOCUCRJ}
 
 1. Officers will be elected in accordance with the International Bylaws ({{< var acronyms.ibl >}}) Article V, Section 3.
 
@@ -30,14 +30,14 @@
       i. All candidates will leave the room.
       i. The chapter will be allowed not less than five minutes to discuss.
       i. If the candidate is elected by white {{< var glossary.ballot >}}, this section does not apply.\
-   a. Pledges will be allowed to vote in the election in direct exception to the above Article IV, Section A, Item 2.
+   a. Pledges will be allowed to vote in the election in direct exception to the above @sec-art-GW6C9D29, Item 2.
 
 1. If an elected position should become vacant:
    a. The President will immediately appoint an interim officer, preferably a brother who has held the office before.
    a. Nominations will immediately open for the vacant position, and will close at the next regularly scheduled chapter meeting.
-   a. The week following the opening of nominations, elections will proceed as defined above in Article V, Section C.
+   a. The week following the opening of nominations, elections will proceed as defined above in @sec-art-3AOCUCRJ.
 
-## Elected Officers and Their Duties
+## Elected Officers and Their Duties {#sec-art-YZW2AQAI}
 
 1. President
    a. Performs all duties stated in the {{< var acronyms.ibl >}} Article V, Section 6, paragraph a.
@@ -54,16 +54,16 @@
    a. Serves as Parliamentarian for the chapter and is {{< var glossary.responsible >}} for all committees.
    a. Maintains the chapter's local bylaws.
    a. Ensures legislation records are up to date.
-   a. Adds all permanent legislation to the appropriate appendix as outlined in Article I, Section F.
+   a. Adds all permanent legislation to the appropriate appendix as outlined in @sec-art-Q8OV40FK.
    a. Adds {{< var acronyms.ec >}} Interpretations to the Appendices.
    a. Appoints active members to committees at the beginning of each semester.
-   a. Assigns living space as outlined in Article VII, Section C.
+   a. Assigns living space as outlined in @sec-art-C89656BJ.
    a. Fills out Greek Life and International Headquarters ({{< var acronyms.ihq >}}) awards that are due in their term.
-   a. Serves as chair of the Bylaw Revision Committee as outlined in Article IX, Section C.
+   a. Serves as chair of the Bylaw Revision Committee as outlined in @sec-art-YOSPIQLS.
    a. Serves as chair of {{< var acronyms.ec >}} and represents it to the chapter.
    a. Serves as chair of the Committee Chair Committee ({{< var acronyms.ccc >}}).\
    a. Serves as chair of Standards Board.
-   a. May make Ad Hoc Committees at their discretion as defined in Article V, Section G, Item 3a. o. Must live in the house.
+   a. May make Ad Hoc Committees at their discretion as defined in @sec-art-VI2T9PVL, Item 3a. o. Must live in the house.
 
 1. Vice President of Health and Safety
    a. Performs all duties stated in the {{< var acronyms.ibl >}} Article V, Section 6, paragraph c.
@@ -77,7 +77,7 @@
 
 1. Secretary
    a. Performs all duties stated in the {{< var acronyms.ibl >}} Article V, Section 6, paragraph d.
-   a. Records attendance and enforces the standards for attendance in Article III, Section C.
+   a. Records attendance and enforces the standards for attendance in @sec-art-BUK07FVL.
    a. Serves as Secretary of {{< var acronyms.ec >}}.
    a. Collects all legislation, Bylaw amendments, and Officer Reports.
    a. Sets the agenda for chapter meetings according to the {{< var acronyms.ibl >}} Article V, Section 8, paragraph d.
@@ -94,8 +94,8 @@
    a. Keeps private all individual account balances except from the brother whose account it is and {{< var acronyms.ec >}}.
    a. Issues enumerated bills for all brothers and New Members at least three times a semester unless otherwise decided by the chapter.
    a. Announces the names of all members on {{< var glossary.financial-probation >}} at each chapter meeting during the Treasurer's Report or before any vote, whichever occurs first.
-   a. Will create a budget following the process outlined in Article VI, Section B.\
-   a. Ensures compliance with the General Rules for chapter finances outlined in Article VI, Section A.
+   a. Will create a budget following the process outlined in @sec-art-GD7C1K2U.\
+   a. Ensures compliance with the General Rules for chapter finances outlined in @sec-art-SKY8T9UM.
    a. Will propose a housing contract to the chapter by the last chapter meeting of each semester with a final version to be approved at the first chapter meeting of the next semester.
    a. Will ensure that all brothers living in the house have signed a housing contract by the second chapter meeting of each semester.
    a. Maintains an emergency fund of no less than $3000 and can withdraw money from the fund only with the authorization of two of the three highest officers.
@@ -143,7 +143,7 @@
    a. Will run a recruitment workshop each semester.
    a. Will present a Rush calendar to the chapter by Initiation.
    a. Will be {{< var glossary.responsible >}} for any {{< var glossary.rush-period >}} that they have planned including those after their term.
-   a. Confirms and tracks the attendance of each brother at Rush events (Article XI, Section B, Item 2). h. Serves as a member of {{< var acronyms.ec >}}.
+   a. Confirms and tracks the attendance of each brother at Rush events (@sec-art-0ERS31Z3, Item 2). h. Serves as a member of {{< var acronyms.ec >}}.
    a. Must live in the house.
 
 1. Chaplain
@@ -167,13 +167,13 @@
    a. Performs all duties stated in the {{< var acronyms.ibl >}} Article V, Section 6, paragraph j.
    a. Assists the Marshal in planning and executing initiation and prepares the chapter for it.
    a. Prepares the chapter room for meetings.
-   a. Will enforce reasonable dress in the chapter room as stated in Article III, Section D, Item 4.
+   a. Will enforce reasonable dress in the chapter room as stated in @sec-art-8XE7XCGC, Item 4.
 
 1. Second Guard
    a. Performs all duties stated in the {{< var acronyms.ibl >}} Article V, Section 6, paragraph k.
    a. Assists the first guard in preparing the chapter room for meetings.
 
-## Appointed Positions
+## Appointed Positions {#sec-art-QQ786XUW}
 
 1. Executive Council Member at Large
    a. Must have previously served on {{< var acronyms.ec >}} for a full term.
@@ -257,7 +257,7 @@
    a. Manages house library and book collections.
 
 1. Standards Board At-Large Member
-   a. Hears and rules on all cases brought before Standards Board as defined in Article XII.
+   a. Hears and rules on all cases brought before Standards Board as defined in @sec-art-IHXJUPV0.
    a. {{< var glossary.attend >}}s all meetings of Standards Board.
    a. Keeps confidential all matters related to judicial proceedings.
    a. Treats all brothers and New Members fairly, impartially, and consistently.
@@ -265,7 +265,7 @@
 1. Temporary Chairs
    a. May be appointed by the President to be in charge of specific events. Examples include Damage Chair, Formal Chair, and Master of the Universe.
 
-## Executive Council
+## Executive Council {#sec-art-D3IM05AX}
 
 1. Membership
    a. {{< var acronyms.ec >}} will be composed of the following:
@@ -280,7 +280,7 @@
       i. Executive Council Member at Large
 
 1. Purpose, Duties, and Powers
-   a. Interprets the bylaws as outlined in Article I, Section D.
+   a. Interprets the bylaws as outlined in @sec-art-EXPT5HOU.
    a. Serves as an executive body.
    a. Guides the chapter in emergencies.
    a. Reviews excuses for chapter meetings and other chapter events.
@@ -289,10 +289,10 @@
          1. Specifically what is not an acceptable excuse, with examples.
          1. The number of unexcused absences, missed chapters, and other mandatory events that are allowed per semester before being taken to standards board.
       i. The Acceptable Excuses Plan shall be distributed to the chapter one week before retreat at the beginning of every semester and approved at retreat, with any necessary amendments, as a piece of temporary legislation valid for one semester.
-   a. Reviews Requests for {{< var glossary.deferment >}} (Article VI, Section D).
-   a. Passes {{< var glossary.executive-edict >}}s as defined in Article II, Section B, Item 4.
-   a. Suspends portions of the Bylaws subject to chapter approval as defined in Article I, Section C.
-   a. Reviews appeals to {{< var glossary.academic-probation >}} as defined in Article X, Section A.
+   a. Reviews Requests for {{< var glossary.deferment >}} (@sec-art-OUD16M61).
+   a. Passes {{< var glossary.executive-edict >}}s as defined in @sec-art-9HMJ9WUB, Item 4.
+   a. Suspends portions of the Bylaws subject to chapter approval as defined in @sec-art-JKVV6S2J.
+   a. Reviews appeals to {{< var glossary.academic-probation >}} as defined in @sec-art-1UWTGO5I.
    a. Meets with respective {{< var acronyms.cab >}} member once a month.
    a. Appoints appointed positions.
 
@@ -316,7 +316,7 @@
       i. {{< var acronyms.ec >}} meetings will be closed to non-{{< var acronyms.ec >}} members in situations that require discussing private or emergency matters such as Requests for {{< var glossary.deferment >}}.
    a. The Vice President will serve as the representative of {{< var acronyms.ec >}} to the chapter.
 
-## Committees
+## Committees {#sec-art-VI2T9PVL}
 
 1. The chapter will have the following groups of committees:
    a. Standard Committees
@@ -336,12 +336,13 @@
          1. The Vice President has the power to make other committees at their discretion.
       i. Budget Committee
          1. Purpose and Duties
-            a. To create a budget for the chapter for the next year pursuant to Article VI, Section B. 2. To examine any financial issues of the chapter.
+            a. To create a budget for the chapter for the next year pursuant to @sec-art-GD7C1K2U.
+            a. To examine any financial issues of the chapter.
          1. Membership
             a. The Treasurer will serve as chair of the Budget Committee.
             a. The body of the committee will be selected by the Treasurer.
          1. Procedure
-            a. The committee will be created and convened during the budgeting process outlined in Article VI, Section B, Item 3.
+            a. The committee will be created and convened during the budgeting process outlined in @sec-art-GD7C1K2U, Item 3.
             a. The committee may meet at other times to examine the finances of the chapter at the direction of {{< var acronyms.ec >}}.
       i. Committee Chair Committee ({{< var acronyms.ccc >}})
          1. Purpose
@@ -353,9 +354,10 @@
             a. The chairs of all Standard Committees will be members.
             a. Other brothers may be added to {{< var acronyms.ccc >}} at the Vice President's discretion.
          1. Procedure
-            a. The committee will meet at least once every two weeks while school is in session. 2. The Vice President will evaluate progress toward committee goals.
+            a. The committee will meet at least once every two weeks while school is in session.
+            a. The Vice President will evaluate progress toward committee goals.
       i. Mandatory Bylaw Revision Committee
-         1. The Mandatory Bylaw Revision Committee will function in accordance with Article IX, Section C.
+         1. The Mandatory Bylaw Revision Committee will function in accordance with @sec-art-YOSPIQLS.
 
 1. Every brother must be a member of both of the Standard Committees that belong to the same committee pair.
    a. Brothers that serve as chairs of one Standard Committee must also be on the other Standard Committee in the committee pair.

@@ -1,6 +1,6 @@
-# Finances
+# Finances {#sec-art-NV6E374B}
 
-## General Rules
+## General Rules {#sec-art-SKY8T9UM}
 
 1. Two signatures are required on all accounts of the chapter, pursuant to the International Bylaws ({{< var acronyms.ibl >}}), Article V, Section 9, paragraph b.
 1. Neither the chapter nor alumni corporation can have or use any form of ATM, debit, credit or money card that is attached to any account of the chapter or alumni corporation.
@@ -10,25 +10,25 @@
 1. All statements and record books are reconciled monthly.
 1. Only the President or Treasurer may sign contracts on behalf of the chapter.
 
-## Budget
+## Budget {#sec-art-GD7C1K2U}
 
-1. The Treasurer will present a preliminary budget to the Budget Committee (Article V, Section G, Item 2c) no later than six weeks before the beginning of the Fall Semester.
+1. The Treasurer will present a preliminary budget to the Budget Committee (@sec-art-VI2T9PVL, Item 2c) no later than six weeks before the beginning of the Fall Semester.
 1. The Treasurer will submit the final budget proposal, as approved by the Budget Committee, for the following academic year to the chapter no later than three weeks before the beginning of the Fall Semester. The proposal must be approved by a {{< var glossary.supermajority >}} vote of the chapter.
    a. Following approval by the chapter, the budget proposal will be presented to the Alumni Corporation and the Alumni Financial Advisor.
 1. Budget Committee
-   a. The Budget Committee (Article V, Section G, Item 2c) will be created and convened no later than six weeks before the beginning of the Fall semester.
+   a. The Budget Committee (@sec-art-VI2T9PVL, Item 2c) will be created and convened no later than six weeks before the beginning of the Fall semester.
    a. The committee will create a budget to be submitted to the chapter based on the preliminary budget created by the Treasurer.
 1. Any officer with a budget may distribute portions of their budget as they see fit. 5. {{< var glossary.safety-margin >}} and Emergency Fund
    a. Any money leftover for the year from the {{< var glossary.safety-margin >}} must be moved to an emergency fund account until that account has 50% of the next year's projected expenses saved. This account is only to be accessed with the vote of Executive Council ({{< var acronyms.ec >}}) and the Chapter Advisory Board ({{< var acronyms.cab >}}).
 
-## Financial Obligations of Members
+## Financial Obligations of Members {#sec-art-VDN0D2P4}
 
 1. Each brother, New Member, and Alumnus is {{< var glossary.responsible >}} for any fraternity property damaged, broken, or lost due to any negligence or carelessness on the part of that person or their guest.
    a. Any decision regarding this rule will be decided by {{< var acronyms.ec >}}.
 1. Brothers will pay all dues and other financial obligations to the chapter as defined in the budget.
 1. Brothers may send a notice directly to the president that they will not be paying dues for the coming semester. One month after this notice has been sent, the brother is automatically suspended.
 
-## Deferments
+## Deferments {#sec-art-OUD16M61}
 
 1. If a brother deems that they will be unable to pay their bill by the due date, they may submit a request for {{< var glossary.deferment >}}.
 1. A request for {{< var glossary.deferment >}} must be submitted to {{< var acronyms.ec >}} by the due date of the bill that is being deferred.
@@ -36,7 +36,7 @@
 1. A brother that is not following the payment plan in their {{< var glossary.deferment >}} will have their account balance considered past due.
 1. Interest on late payments may be charged at the discretion of {{< var acronyms.ec >}}.
 
-## Payment Schedule and Penalties
+## Payment Schedule and Penalties {#sec-art-1ATKL12C}
 
 1. The due date for any bill will be at least two weeks after the date on which the bill was issued and will be before the next bill is to be issued.
 
@@ -54,11 +54,11 @@
    a. The Treasurer will announce the brother's status to the chapter after every bill.
    a. Any receipt forms that the brother submits must be credited against the debt unless {{< var acronyms.ec >}} approves an exception.
 
-## Financial Privacy Section
+## Financial Privacy Section {#sec-art-KK0JMIWX}
 
 1. {{< var acronyms.ec >}} and {{< var acronyms.cab >}} will have access to all accounts, including bank accounts, budgeting and financial software, the current ledger, and Greek Bill (or whatever online service is currently being used).
 
-## Reimbursements
+## Reimbursements {#sec-art-FCOCY19N}
 
 1. A member who would like to obtain a reimbursement needs approval from all of the following:
    

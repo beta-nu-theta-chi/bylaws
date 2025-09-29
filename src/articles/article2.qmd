@@ -1,10 +1,10 @@
-# Legislation
+# Legislation {#sec-art-7452KYZC}
 
-## Precedence
+## Precedence {#sec-art-V4H7S16N}
 
 1. The legislation of this chapter will be superseded by the Theta Chi International Bylaws ({{< var acronyms.ibl >}}), Theta Chi International Legislation, legislation passed by the Grand Chapter of Theta Chi Fraternity, and the Beta Nu of Theta Chi Local Bylaws.
 
-## Categories and Duration
+## Categories and Duration {#sec-art-9HMJ9WUB}
 
 1. Temporary Legislation:
    a. Must be passed by a {{< var glossary.simple-majority >}} vote.
@@ -25,7 +25,7 @@
 
 1. If the legislation is not proposed as one of the above types, it will be treated as temporary legislation.
 
-## Revoking or Amending
+## Revoking or Amending {#sec-art-91S4OLEZ}
 
 1. The legislation of this chapter may be revoked or amended by a {{< var glossary.simple-majority >}} vote.
 1. No legislation can be revoked or amended if {{< var glossary.quorum >}} is not present with the exception of Emergency Legislation.

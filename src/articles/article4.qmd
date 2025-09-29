@@ -1,19 +1,19 @@
-# Voting
+# Voting {#sec-art-D6BOCVLV}
 
-## Voting Overview
+## Voting Overview {#sec-art-GW6C9D29}
 
 1. All brothers eligible to vote must vote.
 1. Only active brothers who are not on {{< var glossary.probation >}} or {{< var glossary.financial-probation >}} are eligible to vote.
 1. Brothers must be present for all of the discussion on a motion in order to be eligible to vote on that motion.
 1. A brother not required to pay local dues is ineligible to vote.
-1. Unless specified in Article IV, Section B, or explicitly voted on by {{< var glossary.simple-majority >}}, the method of voting will be by a counted show of hands.
+1. Unless specified in @sec-art-N8IIFY4C, or explicitly voted on by {{< var glossary.simple-majority >}}, the method of voting will be by a counted show of hands.
 
-## Procedure
+## Procedure {#sec-art-N8IIFY4C}
 
 1. The following votes will be performed by ballot:
    a. New Members for Initiation
    b. Officer Elections
-   c. To overturn an Executive Council ({{< var acronyms.ec >}}) Interpretation of the bylaws (Article I, Section D)
+   c. To overturn an Executive Council ({{< var acronyms.ec >}}) Interpretation of the bylaws (@sec-art-EXPT5HOU)
    d. At a suspension trial
    e. To retain a candidate who was not initiated the previous semester
 
