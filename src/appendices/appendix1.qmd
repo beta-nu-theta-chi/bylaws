@@ -1,4 +1,4 @@
-# A: {{< var acronyms.ec >}} Interpretations {.unnumbered} {#sec-art-BW7GLKA5}
+# A: EC Interpretations {#sec-art-BW7GLKA5}
 
 1. Academic warning is treated the same way as {{< var glossary.academic-probation >}} when a brother has not had classes for a semester.
 1. Standards Board does NOT need to automatically recommend a brother for suspension if said brother is brought up for standards with the possibility of suspension.
