@@ -39,18 +39,18 @@
 
 1. This document will have the following appendices:
 
-   a. {{< var acronyms.ec >}} Interpretations
+   a. {{< var acronyms.ec >}} Interpretations (@sec-art-BW7GLKA5)
       i. Will contain a record of {{< var acronyms.ec >}} interpretations of the local bylaws.
       i. Interpretations that refer to deprecated parts of the local bylaws may be removed at the discretion of the Vice President.
       i. Items may be added to this appendix by the Vice President.
 
-   a. Standards Rulings
+   a. Standards Rulings (@sec-art-W7CTO1UV)
       i. Will contain the choice of trial and results of all Trial Hearings for the purpose of establishing precedent.
       i. All parties will remain anonymous.
       i. Items will be added to this appendix by the Vice President and will include the date that the decision was made.
       i. Items that are over five years old may be removed at the discretion of the Vice President.
 
-   a. Permanent Legislation
+   a. Permanent Legislation (@sec-art-LGUUVLYZ)
       i. Will contain all permanent legislation passed by the chapter.
       i. Upon being passed, permanent legislation will be added to this appendix by the Vice President.
       i. Permanent legislation that is revoked or amended will be removed or changed in this appendix by the Vice President.

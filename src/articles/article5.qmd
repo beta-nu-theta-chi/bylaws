@@ -54,7 +54,7 @@
    a. Serves as Parliamentarian for the chapter and is {{< var glossary.responsible >}} for all committees.
    a. Maintains the chapter's local bylaws.
    a. Ensures legislation records are up to date.
-   a. Adds all permanent legislation to the appropriate appendix as outlined in @sec-art-Q8OV40FK.
+   a. Adds all permanent legislation to the appropriate appendix (@sec-art-LGUUVLYZ) as outlined in @sec-art-Q8OV40FK.
    a. Adds {{< var acronyms.ec >}} Interpretations to the Appendices.
    a. Appoints active members to committees at the beginning of each semester.
    a. Assigns living space as outlined in @sec-art-C89656BJ.

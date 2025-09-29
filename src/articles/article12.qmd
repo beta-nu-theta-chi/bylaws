@@ -111,7 +111,7 @@
    a. Any member of Standards Board may recall any witnesses or the accused, if further questions arise. This may be done once per witness. To recall a witness more than once requires a unanimous vote of the voting members of Standards Board.
 
 1. The voting members of Standards Board will then determine appropriate sanctions, if any.
-   a. Past judicial history of the accused and sanctions given for similar accusations in the past (as found in Appendix B) may be considered.
+   a. Past judicial history of the accused and sanctions given for similar accusations in the past (@sec-art-W7CTO1UV) may be considered.
    a. The Vice President and {{< var glossary.chapter-advisor >}} (if one is present) may offer input to this discussion but may not vote in the final decision unless it is a tie, in which case the Vice President will vote to break the tie.
    a. The voting members of Standards Board will vote on all sanctions, one at a time.
    a. If the sanction being voted on is temporary suspension for any duration of time, the vote must be unanimous in the affirmative in order to succeed.

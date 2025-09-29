@@ -1,6 +1,4 @@
-# Appendix B
-
-## Standards Rulings
+# B: Standards Rulings {.unnumbered} {#sec-art-W7CTO1UV}
 
 1. September 25, 2010
 
