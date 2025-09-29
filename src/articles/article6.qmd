@@ -12,20 +12,24 @@
 
 ## Budget {#sec-art-GD7C1K2U}
 
-1. The Treasurer will present a preliminary budget to the Budget Committee (@sec-art-VI2T9PVL, Item 2c) no later than six weeks before the beginning of the Fall Semester.
+1. The Treasurer will present a preliminary budget to the Budget Committee (@sec-art-VI2T9PVL, Item 2c)  and CAB Treasurer Advisor no later than one month before the end of the previous semester.
+   a. The Budget Committee will work with the treasurer to create a budget to be submitted to the chapter.
 1. The Treasurer will submit the final budget proposal, as approved by the Budget Committee, for the following academic year to the chapter no later than three weeks before the beginning of the Fall Semester. The proposal must be approved by a {{< var glossary.supermajority >}} vote of the chapter.
-   a. Following approval by the chapter, the budget proposal will be presented to the Alumni Corporation and the Alumni Financial Advisor.
-1. Budget Committee
-   a. The Budget Committee (@sec-art-VI2T9PVL, Item 2c) will be created and convened no later than six weeks before the beginning of the Fall semester.
-   a. The committee will create a budget to be submitted to the chapter based on the preliminary budget created by the Treasurer.
+   a. Following approval by the chapter, the budget proposal will be presented to CAB.
 1. Any officer with a budget may distribute portions of their budget as they see fit. 5. {{< var glossary.safety-margin >}} and Emergency Fund
    a. Any money leftover for the year from the {{< var glossary.safety-margin >}} must be moved to an emergency fund account until that account has 50% of the next year's projected expenses saved. This account is only to be accessed with the vote of Executive Council ({{< var acronyms.ec >}}) and the Chapter Advisory Board ({{< var acronyms.cab >}}).
+1. Safety Margin and Emergency Fund
+   a. Any money leftover for the year from the Safety Margin must be moved to an emergency fund account until that account has 50% of the next year's projected expenses saved. This account is only to be accessed with the vote of Executive Council ({{< var acronyms.ec >}}) and the Chapter Advisory Board ({{< var acronyms.cab >}}).
+
 
 ## Financial Obligations of Members {#sec-art-VDN0D2P4}
 
 1. Each brother, New Member, and Alumnus is {{< var glossary.responsible >}} for any fraternity property damaged, broken, or lost due to any negligence or carelessness on the part of that person or their guest.
    a. Any decision regarding this rule will be decided by {{< var acronyms.ec >}}.
 1. Brothers will pay all dues and other financial obligations to the chapter as defined in the budget.
+   a. Brothers will pay all financial obligations through either a physical check made out to “Beta Nu Chapter Theta Chi Fraternity” or a wireless transfer/eCheck.
+   a. A brother who pays via other methods (i.e. credit card or Apple Pay) may be subject to a fine of up to 5% of the original paid amount, to be determined by the treasurer.
+      i. If a brother wishes to bypass this fee, they must submit a deferment to be approved via @sec-art-OUD16M61, Item 3.
 1. Brothers may send a notice directly to the president that they will not be paying dues for the coming semester. One month after this notice has been sent, the brother is automatically suspended.
 
 ## Deferments {#sec-art-OUD16M61}
@@ -56,14 +60,16 @@
 
 ## Financial Privacy Section {#sec-art-KK0JMIWX}
 
-1. {{< var acronyms.ec >}} and {{< var acronyms.cab >}} will have access to all accounts, including bank accounts, budgeting and financial software, the current ledger, and Greek Bill (or whatever online service is currently being used).
+1. {{< var acronyms.ec >}} and {{< var acronyms.cab >}} will have the right to request access to all accounts, budgeting and financial software, the current ledger, and Greek Bill, excluding bank accounts, subject to the discretion of the treasurer and CAB Treasurer Advisor.
+2. {{< var acronyms.ec >}} and {{< var acronyms.cab >}} will have the right to request access to any records or statements from the bank account (or whatever online service is currently being used). 
+3. Only the President, Treasurer, and CAB Treasurer Advisor will have access to the bank accounts.
 
 ## Reimbursements {#sec-art-FCOCY19N}
 
 1. A member who would like to obtain a reimbursement needs approval from all of the following:
    
    a. The chair who controls the budget in question.
-      i. If the budget is not under a particular chair, or the chair is indisposed, the president may act as a substitute.
+      i. If the budget is not under a particular chair, or the chair is indisposed, any non-treasurer member of {{< var acronyms.ec >}} may act as a substitute.
       i. If the chair who controls the budget is also the treasurer, any other member of {{< var acronyms.ec >}} may act as a substitute.
    
    a. Any other non-treasurer member of {{< var acronyms.ec >}}.

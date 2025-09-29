@@ -7,13 +7,13 @@
 
 ## Excuses {#sec-art-H23EB4B2}
 
-1. Excuses for chapter meetings must be submitted in writing to the Secretary according to the time specified by the Excuse Plan.
+1. Excuses for chapter meetings must be submitted in writing to the Secretary according to the method and time specified by the Excuse Plan.
 1. Excuses must be approved by a {{< var glossary.simple-majority >}} vote of Executive Council ({{< var acronyms.ec >}}).
 1. Failure to {{< var glossary.attend >}} a chapter meeting without an approved excuse (in accordance with @sec-art-H23EB4B2, Item 1) will count as an unexcused absence.
 
 ## Absences {#sec-art-BUK07FVL}
 
-1. A brother who has three unexcused absences in a row must be brought up for standards by the Secretary with the possibility of suspension.
+1. A brother who has three unexcused absences in a row must be brought up for standards by the Secretary in accordance with Article V, Section 2, Item j.1 of the IBL.
 1. A brother who has three unexcused absences throughout the semester will be {{< var glossary.staggard >}}.
 1. A brother who has four unexcused absences throughout the semester will be placed on {{< var glossary.probation >}} until the end of the semester.
 1. A brother who has seven unexcused absences throughout the semester will be brought up for standards by the Secretary with the possibility of suspension.

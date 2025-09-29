@@ -8,41 +8,43 @@
    a. Alcohol manufactured for the sole sake of cooking (i.e. modified in such a way by the original manufacturer to make it undesirable for consuming alone or in a mixed drink), determined as above in @sec-art-6GSVIPRZ, Item 2a, may be stored indefinitely.
 1. Tobacco may not be possessed and chewed within the house or on the chapter property.
 1. Illegal substances may not be possessed, stored, or used in the house or on the chapter property.
-1. If a brother or their guest violates @sec-art-6GSVIPRZ, Item 1, @sec-art-6GSVIPRZ, Item 2, @sec-art-6GSVIPRZ, Item 3, or @sec-art-6GSVIPRZ, Item 4, they will be brought up for standards by the President, with sanctions not less than:
+1. If a brother or their guest violates the above (@sec-art-6GSVIPRZ, Items 1-4), the brother will be brought up for standards, with sanctions not less than:
    a. First Offense – $50 fine
    a. Second Offense – $75 fine, placed on {{< var glossary.probation >}}, and becomes {{< var glossary.staggard >}}
    a. Third Offense – $100 fine and recommendation for suspension to the chapter
+1. If a guest violates the above (@sec-art-6GSVIPRZ, Items 1-4), they will be banned from the chapter house and property. This ban may be rescinded by a {{< var glossary.supermajority >}} (2/3) vote of the chapter.
 1. No candles will be burned inside the house or on the chapter property.
-1. @sec-art-6GSVIPRZ, Item 1, @sec-art-6GSVIPRZ, Item 2, and @sec-art-6GSVIPRZ, Item 3 will become null and void upon the downfall of Western Civilization.
+1. @sec-art-6GSVIPRZ, Items 1-4 will become null and void upon the downfall of Western Civilization.
+   a. A necessary (but not sufficient) condition for the downfall of Western Civilization is the dissolution and nullification of these bylaws.
+      i. The above item is a Catch-22. No, you cannot do anything about it. 
 
 ## Housing Eligibility {#sec-art-71TPHUXH}
 
 1. All active brothers are to live in the chapter house pursuant to Article V, Section 10 of the International Bylaws ({{< var acronyms.ibl >}}).
    a. The following brothers are exempt from this policy:
-      i. 1st year students
       i. Commuter Students
       i. Those who are married
       i. Those who receive housing as compensation for employment (e.g. Resident Assistants)
       i. Those who are on Co-op, Study Abroad, or a similar program
-      i. Those who were ineligible or exempt at the beginning of the school year\
+      i. Those who were ineligible or exempt at the beginning of the school year (e.g. first year students)
+      i. Those with a prior binding lease or housing contract that extends into the semester that they would live in the house
       i. Those with a prohibitive medical condition as approved by Case Western Reserve University ({{< var acronyms.cwru >}})
 
-1. The following brothers must live in the chapter house:
-   a. President
-   a. Vice President
-   a. Vice President of Health and Safety
-   a. Treasurer
-   a. Marshal
-   a. Recruitment Chair
-   a. Scholarship Chair
-   a. House Manager
-   a. Food Steward
+1. All elected members of EC, excepting the President and Treasurer may live out of the house upon being elected, but beginning their first Fall semester in office, must live in the house.
+   a. This superseded the exemptions of @sec-art-71TPHUXH, Item 1a
+   a. The President and Treasurer must live in house the first full (not necessarily Fall!) semester of their office
+
+1. The following brothers must live in the chapter house. This superseded the exemptions of @sec-art-71TPHUXH, Item 1a:
+   a. All elected members of EC (subject to @sec-art-71TPHUXH, Item 2)
+   a. House Manager 
+   a. Detail manager
+   a. Food Steward 
 
 1. If the Chaplain is not living in the house, one of the ritual keys must be left in the house.
 
 1. Brothers in violation of @sec-art-71TPHUXH, Item 1 or @sec-art-71TPHUXH, Item 2 are to be brought up for standards by the Vice President with the possibility of suspension.
 
-1. In order for a brother to move into the house, they must not be on {{< var glossary.financial-probation >}} and must not have a debt to the chapter exceeding $3000, including {{< var glossary.deferment >}}s.
+1. In order for a brother to move into the house, they must not be on {{< var glossary.financial-probation >}} and must not have a debt to the chapter exceeding $3000, excluding {{< var glossary.deferment >}}s.
    a. Brothers living in the house during the fall of any year are exempt from this stipulation for the spring semester of that year only.
 
 1. Brothers living in the house must have a signed housing contract by the due date (@sec-art-YZW2AQAI, Item 5l).
@@ -58,21 +60,19 @@
 
 1. If the numbers of brothers eligible to live in the house exceeds the capacity of the house:
    
-   a. Brothers who have lived in the house during the school year for at least one semester will be allowed the option of moving out in order of pledge class from oldest to most recent, at the discretion of the Vice President.
+   a. Brothers who have lived in the house during the school year for at least one semester will be allowed the option of moving out in order of pledge class from oldest to most recent, at the discretion of {{< var acronyms.ec >}}.
+      i. This option does not apply to any positions listen in @sec-art-71TPHUXH, Item 3
       i. The house may not be dropped below capacity.
       i. If this method would bring the house below capacity:\
-         1. Of the brothers with the highest {{< var glossary.roster-number >}} among those who wish to move out, select the number of brothers that would bring the house to a mutually acceptable method.
+         1. Of the brothers who wish to move out, select the number of brothers that would bring the house to capacity via a mutually acceptable method. If no acceptable method if found, the brothers with the lowest {{< var glossary.roster-number >}}s will move out and the remaining brothers will live in house such that the house is at capacity.
    
-   a. If, after application of the method described in @sec-art-C89656BJ, Item 1a, the house is still above capacity, brothers who have lived in the most semesters in the house (excluding summer) will be forced to move out.
-      i. If two or more brothers have lived in the house the same amount of time, the one with the lowest unmodified {{< var glossary.roster-number >}} will be forced to move out first.
+   a. If, after application of the method described in @sec-art-C89656BJ, Item 1a, the house is still above capacity, brothers with the lowest {{< var glossary.roster-number >}} will be forced to move out.
       i. Brothers listed in @sec-art-71TPHUXH, Item 2 cannot be forced to live out of the house.
+      i. In the Spring semester, no brother who lived in the house during the Fall semester can be forced to live out of the house via this item (@sec-art-C89656BJ, Item 1b).
 
 1. Any brother applying for a room must have less than $50 debt, including {{< var glossary.deferment >}}s, at the time room assignments are made, lest they become {{< var glossary.staggard >}}.
 
-1. Room 205 is reserved for the President unless they waive this right.
-
 1. Room assignments will be made by the Vice President following these guidelines:
-   
    a. If two or more groups of brothers wish to occupy the same room, the room will be assigned to:
       i. The group with the most brothers, not to exceed the capacity of the room; else
       i. The group of brothers with the greatest number of brothers with {{< var glossary.squatters-rights >}} for that particular room; else
