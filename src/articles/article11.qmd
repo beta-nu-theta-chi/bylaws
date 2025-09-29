@@ -30,7 +30,7 @@
    
    a. When an event is declared an {{< var glossary.official-chapter-event >}} by Executive Council ({{< var acronyms.ec >}}), all members must {{< var glossary.attend >}} it unless excused by {{< var acronyms.ec >}}. A missed {{< var glossary.official-chapter-event >}} that is not excused will count as an unexcused mandatory event.
       i. Missing a mandatory event without an accepted excuse will count as unexcused.
-      i. A brother who has three unexcused mandatory events in a row must be brought up for standards by the Secretary with the possibility of recommendation for suspension.\
+      i. A brother who has three unexcused mandatory events in a row must be brought up for standards by the Secretary with the possibility of recommendation for suspension.
       i. A brother who has three unexcused mandatory events throughout the semester will be {{< var glossary.staggard >}}.
       i. A brother who has four unexcused mandatory events throughout the semester will be placed on probation until the end of the semester.
       i. A brother who has seven or more unexcused mandatory events throughout the semester will be brought up for standards by the secretary with the possibility of recommendation for suspension.

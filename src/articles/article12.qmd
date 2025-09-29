@@ -26,7 +26,7 @@
 1. If, at any time, an at-large member becomes ineligible to hold office or is elected to an Executive Council ({{< var acronyms.ec >}}) position, that at-large member is immediately removed from office.
 1. Any At-Large Member may be removed for the following reasons:
    a. Failure to perform their duties, including unexcused absence from more than one board meeting per semester.
-   a. Failure to maintain confidentiality of all proceedings of the board.\
+   a. Failure to maintain confidentiality of all proceedings of the board.
    a. Conduct unbecoming of an at-large member or which negatively affects the credibility of the board.
    a. At-large members can only be removed by an {{< var glossary.absolute-supermajority >}} vote of the active chapter ({{< var acronyms.ibl >}} Article V, Section 22(e)).
 
@@ -57,7 +57,7 @@
       i. The type of hearing taking place.
 
 1. Upon receiving the notification, the accused has twenty-four hours to submit a plea in writing to the Vice President.
-   a. The possible pleas are {{< var glossary.responsible-plea >}}, {{< var glossary.not-responsible-plea >}}, and {{< var glossary.no-contest-plea >}}.\
+   a. The possible pleas are {{< var glossary.responsible-plea >}}, {{< var glossary.not-responsible-plea >}}, and {{< var glossary.no-contest-plea >}}.
    a. If a plea is not received within the twenty-four hours specified above, a {{< var glossary.no-contest-plea >}} will be entered.
 
 1. After a plea is entered, the Vice President will schedule a time and place for the hearing.
@@ -111,7 +111,7 @@
    a. Any member of Standards Board may recall any witnesses or the accused, if further questions arise. This may be done once per witness. To recall a witness more than once requires a unanimous vote of the voting members of Standards Board.
 
 1. The voting members of Standards Board will then determine appropriate sanctions, if any.
-   a. Past judicial history of the accused and sanctions given for similar accusations in the past (as found in Appendix B) may be considered.
+   a. Past judicial history of the accused and sanctions given for similar accusations in the past (@sec-art-W7CTO1UV) may be considered.
    a. The Vice President and {{< var glossary.chapter-advisor >}} (if one is present) may offer input to this discussion but may not vote in the final decision unless it is a tie, in which case the Vice President will vote to break the tie.
    a. The voting members of Standards Board will vote on all sanctions, one at a time.
    a. If the sanction being voted on is temporary suspension for any duration of time, the vote must be unanimous in the affirmative in order to succeed.
