@@ -65,9 +65,9 @@
         apps = rec {
         };
         packages = rec {
-          branding = pkgs.callPackage ./source.nix { branding = inputs.branding.packages.${system}.branding-white; };
-          book = pkgs.callPackage ./build.nix { buildenv = p; src = branding; };
-          deploy = pkgs.callPackage ./deploy.nix { src = book; };
+          branding = pkgs.callPackage ./nix/source.nix { branding = inputs.branding.packages.${system}.branding-white; };
+          book = pkgs.callPackage ./nix/build.nix { buildenv = p; src = branding; };
+          deploy = pkgs.callPackage ./nix/deploy.nix { src = book; };
           default = book;
         };
       }

@@ -3,7 +3,7 @@ stdenv.mkDerivation {
   pname = "BetaNuLBL-source";
   version = "0.0.1";
 
-  src = ./src;
+  src = ./../src;
 
   installPhase = ''
     mkdir -p $out/branding
