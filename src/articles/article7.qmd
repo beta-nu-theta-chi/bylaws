@@ -63,7 +63,7 @@
    a. Brothers who have lived in the house during the school year for at least one semester will be allowed the option of moving out in order of pledge class from oldest to most recent, at the discretion of {{< var acronyms.ec >}}.
       i. This option does not apply to any positions listen in @sec-art-71TPHUXH, Item 3
       i. The house may not be dropped below capacity.
-      i. If this method would bring the house below capacity:\
+      i. If this method would bring the house below capacity:
          1. Of the brothers who wish to move out, select the number of brothers that would bring the house to capacity via a mutually acceptable method. If no acceptable method if found, the brothers with the lowest {{< var glossary.roster-number >}}s will move out and the remaining brothers will live in house such that the house is at capacity.
    
    a. If, after application of the method described in @sec-art-C89656BJ, Item 1a, the house is still above capacity, brothers with the lowest {{< var glossary.roster-number >}} will be forced to move out.

@@ -1,5 +1,5 @@
-# Introductory {.unnumbered}
+# Introductory {#sec-art-L9A0HXIL .unnumbered}
 
-## Preamble
+## Preamble {#sec-art-1QB8CIPO}
 
 We, the Brothers of Beta Nu Chapter of Theta Chi Fraternity, in order to forge a more perfect Brotherhood, to advance our Alma Mater, to protect and promote our stated values of Truth, Temperance, and Tolerance, and to practice the ideal of the Helping Hand, do ordain and establish these Bylaws for the operations of our Chapter.

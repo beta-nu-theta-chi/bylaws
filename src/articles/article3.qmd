@@ -13,7 +13,7 @@
 
 ## Absences {#sec-art-BUK07FVL}
 
-1. A brother who has three unexcused absences in a row must be brought up for standards by the Secretary in accordance with Article V, Section 2, Item j.1 of the {{< var acronym.ibl >}}.
+1. A brother who has three unexcused absences in a row must be brought up for standards by the Secretary in accordance with Article V, Section 2, Item j.1 of the {{< var acronyms.ibl >}}.
 1. A brother who has three unexcused absences throughout the semester will be {{< var glossary.staggard >}}.
 1. A brother who has four unexcused absences throughout the semester will be placed on {{< var glossary.probation >}} until the end of the semester.
 1. A brother who has seven unexcused absences throughout the semester will be brought up for standards by the Secretary with the possibility of suspension.
