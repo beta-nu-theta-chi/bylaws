@@ -21,6 +21,7 @@
           stringi
         ];
         p = with pkgs; [
+          act
           podman-compose
           podman
           (quarto.override {
