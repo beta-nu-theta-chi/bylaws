@@ -1,8 +1,8 @@
 name: Releases
 on:
   push:
-    tags:
-      - 'release-*'
+    branches:
+      - main
   workflow_dispatch:
 jobs:
   build:
@@ -35,6 +35,11 @@ jobs:
         shell: bash
         run: |
           nix build --experimental-features "nix-command flakes" .#deploy
+      - name: Get current datetime
+        id: datetime
+        run: echo "now=$(date -u +'%Y-%m-%dT%H:%M:%SZ')" >> $GITHUB_OUTPUT
       - uses: ncipollo/release-action@v1
         with:
           artifacts: "result/pdf/*,result/*.tar.gz"
+          tag: release-${{ steps.datetime.outputs.now }}-${{ github.run_number }}
+          name: ${{ steps.datetime.outputs.now }}
