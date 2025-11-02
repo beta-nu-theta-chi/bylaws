@@ -3,7 +3,7 @@
 1. Academic warning is treated the same way as {{< var glossary.academic-probation >}} when a brother has not had classes for a semester.
 1. Standards Board does NOT need to automatically recommend a brother for suspension if said brother is brought up for standards with the possibility of suspension.
 1. When adding interpretations, make sure to reference the particular bylaw being interpreted and the year the interpretation was made.
-1. Nov 02, 2025
+1. Nov 02, 2025: {{< var acronyms.ibl >}} Article 6, Section 13, Part F
 
    A brother who has been suspended cannot be present at any event with any sort of official restriction on individuals present. Such events include, but are not limited to, mixers, rush events, chapter, and any ritual ceremony.
 
