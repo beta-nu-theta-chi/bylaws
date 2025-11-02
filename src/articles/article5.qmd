@@ -84,7 +84,7 @@
    a. Maintains the mailbox and mail closet.
    a. Will create a contact list for the chapter which includes contact information of brothers advisors, Greek Life, and emergency services.
    a. Handles registration of Pledges, requests for initiation, and the recording of new initiates.
-   a. Fills out Greek Life and International Headquarters (IHQ) awards that are due in their term.
+   a. Fills out Greek Life and International Headquarters ({{< var acronyms.ihq >}}) awards that are due in their term.
    a. Releases a weekly TWIOX (This Week in Theta Chi) newsletter to the alumni mailing list
 
 1. Treasurer
@@ -212,10 +212,20 @@
       i. Recreation
    a. Serves as a member of {{< var acronyms.ccc >}}.
 
-1. Philanthropy and Service Chair
-   a. Serves as chair of the Philanthropy and Service Committee.
-   a. Ensures the chapter meets the Greek Life goals for service and philanthropy.
-   a. Informs the chapter of service and philanthropy opportunities.
+1. Philanthropy Chair
+   a. Serves as chair of the Philanthropy Committee.
+   a. Ensures the chapter meets the Greek Life goals for philanthropy.
+   a. Informs the chapter of philanthropy opportunities.
+   a. Responsible for planning and holding one philanthropy event per semester.
+   a. Responsible for having one philanthropy event per academic year benefit the USO.
+   a. Serves as a member of {{< var acronyms.ccc >}}.
+
+1. Service Chair
+   a. Serves as chair of the Service Committee.
+   a. Ensures the chapter meets the Greek Life goals for service.
+   a. Informs the chapter of service opportunities.
+   a. Responsible for planning and holding at least one service event for the chapter per semester.
+   a. Responsible for tracking the service hours of active brothers.
    a. Serves as a member of {{< var acronyms.ccc >}}.
 
 1. House Manager
@@ -322,11 +332,17 @@
 
 1. The chapter will have the following groups of committees:
    a. Standard Committees
-      i. Each Standard committee is part of a committee pair. The list of committees and committee pairs is as follows:
-         1. Alumni Relations Committee and Member Development Committee
-         1. Health and Safety Committee and Scholarship Committee
-         1. Philanthropy and Service Committee and Social Committee
-         1. Public Relations Committee and Recruitment Committee
+
+      i. The list of Standard committees is as follows:
+         1. Alumni Relations Committee
+         1. Member Development Committee
+         1. Health and Safety Committee
+         1. Scholarship Committee
+         1. Philanthropy Committee
+         1. Service Committee
+         1. Social Committee
+         1. Public Relations Committee
+         1. Recruitment Committee
       i. All Standard committees will do the following:
          1. Meet at least once every two weeks as directed by their chair.
             a. In direct exception to the previous bylaw, the Alumni Relations Committee and Member Development Committee only need to meet at least once every four weeks as directed by their chair.
