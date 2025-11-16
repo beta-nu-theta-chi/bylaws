@@ -1,3 +1,4 @@
 # C: Permanent Legislation {#sec-art-LGUUVLYZ}
 
 1. The gargoyles on the front of the Theta Chi house at 11136 Magnolia Drive, Cleveland OH, 44106, shall be named Alphonso and Raul, with the northernmost being Raul.
+2. Events must be made mandatory at least one week before the date of the event. If an event is not made mandatory by this deadline, it may not be made mandatory unless by {{< var glossary.supermajority >}} vote of the chapter.
