@@ -4,6 +4,9 @@
 
 1. Once per semester, brothers and Candidates will fill out grade release forms.
    a. Grade release forms must be filled out prior to the due date for midterm grades.
+   a. Grades must be directly self reported to the Scholarship Chair within one week of the GLO report release if the grades are missing from the report.
+   a. If the GLO report is not released within two weeks into classes, grades must be self reported to the Scholarship Chair within one week.
+   a. Midterm grades must be reported directly to the Scholarship Chair within 2 weeks of the grades being released.
 
 1. Brothers on {{< var glossary.academic-probation >}} are required to make a {{< var glossary.grade-improvement-plan >}} with the Scholarship Chair.
    a. The {{< var glossary.grade-improvement-plan >}} will be approved by the Scholarship Chair, the President, and the brother. Failure to follow the {{< var glossary.grade-improvement-plan >}} as judged by the Scholarship Chair will result in the brother being brought up for standards.
