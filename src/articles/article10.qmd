@@ -2,26 +2,26 @@
 
 ## Scholarship Standards {#sec-art-1UWTGO5I}
 
-1. Once per semester, brothers and Candidates will fill out grade release forms.
-   a. Grade release forms must be filled out prior to the due date for midterm grades.
-   a. Grades must be directly self reported to the Scholarship Chair within one week of the GLO report release if the grades are missing from the report.
-   a. If the GLO report is not released within two weeks into classes, grades must be self reported to the Scholarship Chair within one week.
+1. Once per semester, brothers and candidates will fill out grade release forms before the due date of the midterm grades. Failure to fill out the grade release forms will result in the Scholarship Chair bringing the brother before the Standards Board, with the possibility of recommendation for suspension.
+   a. Grades must be directly self-reported to the Scholarship Chair within one week of the GLO report release if the grades are missing from the report.
+   a. If the GLO report is not released within two weeks of classes, grades must be self-reported to the Scholarship Chair within one week.
    a. Midterm grades must be reported directly to the Scholarship Chair within 2 weeks of the grades being released.
 
-1. Brothers on {{< var glossary.academic-probation >}} are required to make a {{< var glossary.grade-improvement-plan >}} with the Scholarship Chair.
-   a. The {{< var glossary.grade-improvement-plan >}} will be approved by the Scholarship Chair, the President, and the brother. Failure to follow the {{< var glossary.grade-improvement-plan >}} as judged by the Scholarship Chair will result in the brother being brought up for standards.
-   a. A brother on {{< var glossary.academic-probation >}} is allowed to {{< var glossary.attend >}} at maximum 3 {{< var glossary.social-event >}}s per semester. Their responsibilities for rush are reduced to one third (rounded down) of events. This brother will not be allowed to hold an elected position.
+1. The {{< var glossary.grade-improvement-plan >}} will be a process to assist brothers failing fraternity academic standards. It will be approved by the Scholarship Chair, the President, and the brother. Failure to follow the {{< var glossary.grade-improvement-plan >}}, as judged by the Scholarship Chair, will result in the brother being brought up for standards for Bad Academic Standing or recommendation for suspension.
+
+1. Brothers in Bad Academic Standing are required to make a {{< var glossary.grade-improvement-plan >}} with the Scholarship Chair. A brother in Bad Academic Standing is allowed to attend a maximum of three Social Events per semester. This brother will not be allowed to hold an elected position.
 
 1. Members will be evaluated according to the following criteria:
    
-   a. Any brother with a cumulative Grade Point Average ({{< var acronyms.gpa >}}) of less than 3.0 or an immediately previous semester {{< var acronyms.gpa >}} of less than 3.0 will be placed on {{< var glossary.academic-probation >}} until the end of the semester and will be required to {{< var glossary.attend >}} an Academic Review as described in @sec-art-HL5IIDEQ.
-      i. The Academic Review must be within the first two weeks of being put on {{< var glossary.academic-probation >}}.
-   
-   a. If a brother has a midterm progress {{< var acronyms.gpa >}} of less than 3.0, the Scholarship Chair may request the brother to make a {{< var glossary.grade-improvement-plan >}} in accordance with @sec-art-1UWTGO5I, Item 2a.
-   
-   a. If a brother is participating in a program where they do not receive a {{< var acronyms.gpa >}} (e.g. a Co-op) but would otherwise be placed on {{< var glossary.academic-probation >}}:
-      i. They are not placed on {{< var glossary.academic-probation >}} that semester.
-      i. The next semester in which they are not participating in such a program, they will be placed on {{< var glossary.academic-probation >}}.
+   a. Any brother with a cumulative Grade Point Average ({{< var acronyms.gpa >}}) of less than 3.0 or an immediately previous semester {{< var acronyms.gpa >}} of less than 3.0 will be required to prepare a {{< var glossary.grade-improvement-plan >}} with the assistance of the Scholarship Chair.
+      i. If a brother self-reports his immediately previous semester {{< var acronyms.gpa >}} under 3.0 at the start of the semester, the Scholarship Chair and the brother can start working on the Grade Improvement Plan immediately, and the Scholarship Chair may choose to reduce the brother’s responsibilities for rush to one-third, rounded down, of events.
+
+   a. Any brother with both a cumulative Grade Point Average ({{< var acronyms.gpa >}}) of less than 3.0 and an immediately previous semester {{< var acronyms.gpa >}} of less than 3.0 must be brought before the Standards Board by the Scholarship Chair for failure to uphold the academic standards of the fraternity within the first two weeks of the infraction.
+
+   a. Any brothers with a cumulative {{< var acronyms.gpa >}} of less than 2.5 will be automatically suspended.
+      i. To be automatically unsuspended, brothers who are automatically suspended will need to have a cumulative {{< var acronyms.gpa >}} of at least 2.5.
+
+   a. If a brother has a midterm progress {{< var acronyms.gpa >}} of less than 3.0, the Scholarship Chair may request the brother to make a {{< var glossary.grade-improvement-plan >}} in accordance with @sec-art-1UWTGO5I, Item 2.
 
 ## New Member Scholarship {#sec-art-IVGCFY89}
 
@@ -36,4 +36,5 @@
 ## Privacy {#sec-art-7UQDJG9B}
 
 1. The President, Scholarship Chair, Alumni Advisor, and Faculty Advisor are permitted to know the {{< var acronyms.gpa >}} of each brother.
-1. All brothers are permitted to know the names of brothers on {{< var glossary.academic-probation >}}. 3. All brothers are permitted to know the names of brothers who cannot hold office due to grades.
+1. All brothers are permitted to know the names of brothers on {{< var glossary.academic-probation >}}.
+1. All brothers are permitted to know the names of brothers who cannot hold office due to grades.
