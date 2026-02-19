@@ -7,12 +7,12 @@
    a. If the GLO report is not released within two weeks of classes, grades must be self-reported to the Scholarship Chair within one week.
    a. Midterm grades must be reported directly to the Scholarship Chair within 2 weeks of the grades being released.
 
-1. The {{< var glossary.grade-improvement-plan >}} will be a process to assist brothers failing fraternity academic standards. It will be approved by the Scholarship Chair, the President, and the brother. Failure to follow the {{< var glossary.grade-improvement-plan >}}, as judged by the Scholarship Chair, will result in the brother being brought up for standards for Bad Academic Standing or recommendation for suspension.
+1. The {{< var glossary.grade-improvement-plan >}} will be a process to assist brothers failing fraternity academic standards. It will be approved by the Scholarship Chair, the President, and the brother. Failure to follow the {{< var glossary.grade-improvement-plan >}}, as judged by the Scholarship Chair, will result in the brother being brought up for standards for {{< var glossary.grade-improvement-plan >}} or recommendation for suspension.
 
-1. Brothers in Bad Academic Standing are required to make a {{< var glossary.grade-improvement-plan >}} with the Scholarship Chair. A brother in Bad Academic Standing is allowed to attend a maximum of three Social Events per semester. This brother will not be allowed to hold an elected position.
+1. Brothers in {{< var glossary.bad-academic-standing >}} are required to make a {{< var glossary.grade-improvement-plan >}} with the Scholarship Chair. A brother in {{< var glossary.bad-academic-standing >}} is allowed to attend a maximum of three Social Events per semester. This brother will not be allowed to hold an elected position.
 
 1. Members will be evaluated according to the following criteria:
-   
+
    a. Any brother with a cumulative Grade Point Average ({{< var acronyms.gpa >}}) of less than 3.0 or an immediately previous semester {{< var acronyms.gpa >}} of less than 3.0 will be required to prepare a {{< var glossary.grade-improvement-plan >}} with the assistance of the Scholarship Chair.
       i. If a brother self-reports his immediately previous semester {{< var acronyms.gpa >}} under 3.0 at the start of the semester, the Scholarship Chair and the brother can start working on the Grade Improvement Plan immediately, and the Scholarship Chair may choose to reduce the brother’s responsibilities for rush to one-third, rounded down, of events.
 
@@ -36,5 +36,5 @@
 ## Privacy {#sec-art-7UQDJG9B}
 
 1. The President, Scholarship Chair, Alumni Advisor, and Faculty Advisor are permitted to know the {{< var acronyms.gpa >}} of each brother.
-1. All brothers are permitted to know the names of brothers on {{< var glossary.academic-probation >}}.
+1. All brothers are permitted to know the names of brothers on {{< var glossary.bad-academic-standing >}}.
 1. All brothers are permitted to know the names of brothers who cannot hold office due to grades.

@@ -40,7 +40,7 @@ format:
     theme-default: dark
   pdf:
     documentclass: scrreprt
-    include-in-header: 
+    include-in-header:
       text: |
         \usepackage{enumitem}
         \setlistdepth{10}

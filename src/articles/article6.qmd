@@ -59,7 +59,7 @@
    a. The Treasurer will announce the brother's status to the chapter after every bill.
    a. Any receipt forms that the brother submits must be credited against the debt unless {{< var acronyms.ec >}} approves an exception.
 
-## Financial Privacy Section {#sec-art-KK0JMIWX}
+## Financial Privacy {#sec-art-KK0JMIWX}
 
 1. {{< var acronyms.ec >}} and {{< var acronyms.cab >}} will have the right to request access to all accounts, budgeting and financial software, the current ledger, and Greek Bill, excluding bank accounts, subject to the discretion of the treasurer and CAB Treasurer Advisor.
 2. {{< var acronyms.ec >}} and {{< var acronyms.cab >}} will have the right to request access to any records or statements from the bank account (or whatever online service is currently being used).
@@ -68,13 +68,11 @@
 ## Reimbursements {#sec-art-FCOCY19N}
 
 1. A member who would like to obtain a reimbursement needs approval from all of the following:
-   
+
    a. The chair who controls the budget in question.
       i. If the budget is not under a particular chair, or the chair is indisposed, any non-treasurer member of {{< var acronyms.ec >}} may act as a substitute.
       i. If the chair who controls the budget is also the treasurer, any other member of {{< var acronyms.ec >}} may act as a substitute.
-   
    a. Any other non-treasurer member of {{< var acronyms.ec >}}.
-   
    a. The Treasurer.
 
 1. Reimbursement requests should be submitted no more than two weeks from the date of purchase or arrival (for shipped items), whichever is later.

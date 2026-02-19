@@ -259,7 +259,7 @@
 
 1. Diversity, Equity, and Inclusion Chair
    a. {{< var glossary.attend >}}s all Diversity, Equity, and Inclusion roundtables hosted by the Greek Life Office.
-   
+
 1. Greek Games Chair
    a. Organizes the chapter's participation in Greek Week.
    a. {{< var glossary.attend >}}s Greek Week Chair meetings sponsored by the Greek Week Steering Committee.
@@ -309,7 +309,7 @@
    a. Reviews Requests for {{< var glossary.deferment >}} (@sec-art-OUD16M61).
    a. Passes {{< var glossary.executive-edict >}}s as defined in @sec-art-9HMJ9WUB, Item 4.
    a. Suspends portions of the Bylaws subject to chapter approval as defined in @sec-art-JKVV6S2J.
-   a. Reviews appeals to {{< var glossary.academic-probation >}} as defined in @sec-art-1UWTGO5I.
+   a. Reviews appeals to {{< var glossary.bad-academic-standing >}} as defined in @sec-art-1UWTGO5I.
    a. Meets with respective {{< var acronyms.cab >}} member once a month.
    a. Appoints appointed positions.
 

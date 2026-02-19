@@ -8,19 +8,19 @@
     A vote of strictly greater than 75% of the entire voting body,
     counting all brothers, including those not present and including
     those without voting rights.
-- term: Academic Probation
-  definition: >
-    See Article X, Section A, Item 2b. This is a restorative measure,
-    not a punitive measure.
 - term: Attend
   definition: >
     A brother attends an event if he fulfills the attendance
     requirements for that event. Attendance requirements are defined
     at the discretion of the organizer of the event, with a suggested
     attendance portion being ¾ of the event's total run time.
+- term: Bad Academic Standing
+  definition: >
+    See @sec-art-1UWTGO5I, Item 3. This is a restorative measure,
+    not a punitive measure.
 - term: Ballot
   definition: >
-    A secret vote as defined in Article IV, Section B, Item 2.
+    A secret vote as defined in @sec-art-N8IIFY4C, Item 2.
 - term: Chapter Advisor
   definition: >
     For the purposes of these bylaws, a Chapter Advisor is any
@@ -39,10 +39,10 @@
 - term: Executive Edict
   definition: >
     Legislation implemented in a time of emergency by a supermajority
-    vote of EC. See Article II, Section B, Item 4.
+    vote of EC. See @sec-art-9HMJ9WUB, Item 4.
 - term: Financial Probation
   definition: >
-    See Article VI, Section E, Item 3.
+    See @sec-art-1ATKL12C, Item 3.
 - term: Grade Improvement Plan
   definition: >
     A plan made by a brother on Academic Probation with help from the
@@ -50,7 +50,7 @@
 - term: Grievance
   definition: >
     A request submitted to EC for clarification of the intention of
-    the bylaws. See Article I, Section D, Item 2.
+    the bylaws. See @sec-art-EXPT5HOU, Item 2.
 - term: Informal Dress
   definition: >
     Any attire that would be reasonably agreed upon to be

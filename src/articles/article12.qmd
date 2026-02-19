@@ -179,18 +179,18 @@
    a. Members of Standards Board may be recused by a {{< var glossary.simple-majority >}} vote of the remaining members of Standards Board. The brother under review, the Scholarship Chair, or a member of Standards Board may call for such a vote.
 
 1. Process of an Academic Review
-   
+
    a. Scheduling:
       i. The Vice President will schedule Academic Reviews.
       i. All Academic Reviews for a semester shall be held at the beginning of the semester at the discretion of the Vice President.
       i. Members of Standards Board of whom the Scholarship Chair has requested an Academic Review will have their Academic Reviews completed before the Academic Reviews of brothers not on Standards Board. If the Scholarship Chair has requested an Academic Review for the Vice President, the Academic Review for the Vice President will happen first.
       i. The Vice President will inform the board, Scholarship Chair, and brothers under review of the day's schedule within three days of the Scholarship Chair requesting academic suspensions.
-   
+
    b. Preparation:
       i. The brother under review is not required to {{< var glossary.attend >}}.
       i. Both the brother under review and the Scholarship Chair may provide witnesses and any form of relevant documents, including written statements. If either the brother under review or the Scholarship Chair cannot {{< var glossary.attend >}} the review, any such documents must be sent to the Vice President along with an order of any witnesses to be called.
       i. The Vice President will call the meeting to order and ask all but unrecused members of the board, the Scholarship Chair, and the brother under review to leave the room.
-   
+
    c. Method:
       i. The Scholarship Chair and brother under review may give an opening statement, in that order.
       i. The Scholarship Chair may then be asked questions by the brother under review and the board.
