@@ -19,9 +19,6 @@
 1. Any officer with a budget may distribute portions of their budget as they see fit.
 1. {{< var glossary.safety-margin >}} and Emergency Fund
    a. Any money leftover for the year from the {{< var glossary.safety-margin >}} must be moved to an emergency fund account until that account has 50% of the next year's projected expenses saved. This account is only to be accessed with the vote of Executive Council ({{< var acronyms.ec >}}) and the Chapter Advisory Board ({{< var acronyms.cab >}}).
-1. Safety Margin and Emergency Fund
-   a. Any money leftover for the year from the Safety Margin must be moved to an emergency fund account until that account has 50% of the next year's projected expenses saved. This account is only to be accessed with the vote of Executive Council ({{< var acronyms.ec >}}) and the Chapter Advisory Board ({{< var acronyms.cab >}}).
-
 
 ## Financial Obligations of Members {#sec-art-VDN0D2P4}
 
