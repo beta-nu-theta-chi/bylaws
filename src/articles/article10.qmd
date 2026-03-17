@@ -13,8 +13,9 @@
 
 1. Members will be evaluated according to the following criteria:
 
-   a. Any brother with a cumulative Grade Point Average ({{< var acronyms.gpa >}}) of less than 3.0 or an immediately previous semester {{< var acronyms.gpa >}} of less than 3.0 will be required to prepare a {{< var glossary.grade-improvement-plan >}} with the assistance of the Scholarship Chair and must be brought before the Chapter Standards Board by the Scholarship Chair for failure to uphold the academic standards of the fraternity within the first two weeks of the infraction.
-      i. If a brother self-reports his immediately previous semester {{< var acronyms.gpa >}} under 3.0 at the start of the semester, the Scholarship Chair and the brother can start working on the Grade Improvement Plan immediately, and the Scholarship Chair may choose to reduce the brother’s responsibilities for rush to one-third, rounded down, of events.
+   a. Any brother with a cumulative Grade Point Average ({{< var acronyms.gpa >}}) of less than 3.0 or an immediately previous semester {{< var acronyms.gpa >}} of less than 3.0 will be required to prepare a {{< var glossary.grade-improvement-plan >}} with the assistance of the Scholarship Chair.
+      i. Additionally, any brother with both a cumulative Grade Point Average ({{< var acronyms.gpa >}}) of less than 3.0 and an immediately previous semester {{< var acronyms.gpa >}} of less than 3.0 must be brought before the Standards Board by the Scholarship Chair for failure to uphold the academic standards of the fraternity within the first two weeks of the infraction.
+      i. The Scholarship Chair and the brother can start working on the {{< var glossary.grade-improvement-plan >}} immediately at the start of semester, and the Scholarship Chair may choose to reduce the brother’s responsibilities for rush to one-third, rounded down, of events.
 
    a. Any brothers with a cumulative {{< var acronyms.gpa >}} of less than 2.5 will be automatically suspended.
       i. To be automatically unsuspended, brothers who are automatically suspended will need to have a cumulative {{< var acronyms.gpa >}} of at least 2.5.
