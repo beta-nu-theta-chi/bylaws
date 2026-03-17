@@ -11,7 +11,9 @@
 
 ## Voting {#sec-art-S4K1I20W}
 
-1. Unless otherwise specified, votes during a Chapter Hearing are by {{< var glossary.simple-majority >}}. 2. Every member of the chapter who is present for the hearing is a voting member. 3. The Arbiter will only vote in the case of a tie.
+1. Unless otherwise specified, votes during a Chapter Hearing are by {{< var glossary.simple-majority >}}.
+1. Every member of the chapter who is present for the hearing is a voting member.
+1. The Arbiter will only vote in the case of a tie.
    a. {{< var glossary.quorum >}} of the hearing consists of ⅔ of the chapter.
 
 ## Accusation Procedure {#sec-art-C9QQIOS7}

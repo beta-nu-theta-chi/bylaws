@@ -6,7 +6,7 @@
 
    Plea: Responsible.
 
-   Sanctions: Recommendation for suspension, voting privileges suspended until off of {{< var glossary.academic-probation >}}.
+   Sanctions: Recommendation for suspension, voting privileges suspended until off of {{< var glossary.bad-academic-standing >}}.
 
 1. September 25, 2010
 

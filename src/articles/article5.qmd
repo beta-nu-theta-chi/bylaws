@@ -63,7 +63,8 @@
    a. Serves as chair of {{< var acronyms.ec >}} and represents it to the chapter.
    a. Serves as chair of the Committee Chair Committee ({{< var acronyms.ccc >}}).
    a. Serves as chair of Standards Board.
-   a. May make Ad Hoc Committees at their discretion as defined in @sec-art-VI2T9PVL, Item 3a. o. Must live in the house.
+   a. May make Ad Hoc Committees at their discretion as defined in @sec-art-VI2T9PVL, Item 3a.
+   a. Must live in the house.
 
 1. Vice President of Health and Safety
    a. Performs all duties stated in the {{< var acronyms.ibl >}} Article V, Section 6, paragraph c.
@@ -145,7 +146,8 @@
    a. Will run a recruitment workshop each semester.
    a. Will present a Rush calendar to the chapter by Initiation.
    a. Will be {{< var glossary.responsible >}} for any {{< var glossary.rush-period >}} that they have planned including those after their term.
-   a. Confirms and tracks the attendance of each brother at Rush events (@sec-art-0ERS31Z3, Item 2). h. Serves as a member of {{< var acronyms.ec >}}.
+   a. Confirms and tracks the attendance of each brother at Rush events (@sec-art-0ERS31Z3, Item 2).
+   a. Serves as a member of {{< var acronyms.ec >}}.
    a. Must live in the house.
 
 1. Chaplain
@@ -256,9 +258,12 @@
    a. {{< var glossary.attend >}}s Office of Greek Life risk manager meetings.
 
 1. Diversity, Equity, and Inclusion Chair
-   a. {{< var glossary.attend >}}s all Diversity, Equity, and Inclusion roundtables hosted by the Greek Life Office. 13. Greek Games Chair
+   a. {{< var glossary.attend >}}s all Diversity, Equity, and Inclusion roundtables hosted by the Greek Life Office.
+
+1. Greek Games Chair
    a. Organizes the chapter's participation in Greek Week.
-   a. {{< var glossary.attend >}}s Greek Week Chair meetings sponsored by the Greek Week Steering Committee. c. Appoints brothers to captain Greek Week events.
+   a. {{< var glossary.attend >}}s Greek Week Chair meetings sponsored by the Greek Week Steering Committee.
+   a. Appoints brothers to captain Greek Week events.
 
 1. Interfraternity Congress Representative
    a. Represents the chapter at {{< var acronyms.ifc >}} meetings.
@@ -304,7 +309,7 @@
    a. Reviews Requests for {{< var glossary.deferment >}} (@sec-art-OUD16M61).
    a. Passes {{< var glossary.executive-edict >}}s as defined in @sec-art-9HMJ9WUB, Item 4.
    a. Suspends portions of the Bylaws subject to chapter approval as defined in @sec-art-JKVV6S2J.
-   a. Reviews appeals to {{< var glossary.academic-probation >}} as defined in @sec-art-1UWTGO5I.
+   a. Reviews appeals to {{< var glossary.bad-academic-standing >}} as defined in @sec-art-1UWTGO5I.
    a. Meets with respective {{< var acronyms.cab >}} member once a month.
    a. Appoints appointed positions.
 
@@ -317,7 +322,8 @@
       i. Marshal
       i. Recruitment Chair
       i. Scholarship Chair
-   a. {{< var glossary.quorum >}} will consist of at least five members, at least four of whom must be voting members. c. All votes are decided by an {{< var glossary.absolute-majority >}} of {{< var acronyms.ec >}}.
+   a. {{< var glossary.quorum >}} will consist of at least five members, at least four of whom must be voting members.
+   a. All votes are decided by an {{< var glossary.absolute-majority >}} of {{< var acronyms.ec >}}.
       i. The President will have a vote in case of a tie.
 
 1. Procedure

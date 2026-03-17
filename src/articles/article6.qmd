@@ -16,7 +16,8 @@
    a. The Budget Committee will work with the treasurer to create a budget to be submitted to the chapter.
 1. The Treasurer will submit the final budget proposal, as approved by the Budget Committee, for the following academic year to the chapter no later than three weeks before the beginning of the Fall Semester. The proposal must be approved by a {{< var glossary.supermajority >}} vote of the chapter.
    a. Following approval by the chapter, the budget proposal will be presented to CAB.
-1. Any officer with a budget may distribute portions of their budget as they see fit. 5. {{< var glossary.safety-margin >}} and Emergency Fund
+1. Any officer with a budget may distribute portions of their budget as they see fit.
+1. {{< var glossary.safety-margin >}} and Emergency Fund
    a. Any money leftover for the year from the {{< var glossary.safety-margin >}} must be moved to an emergency fund account until that account has 50% of the next year's projected expenses saved. This account is only to be accessed with the vote of Executive Council ({{< var acronyms.ec >}}) and the Chapter Advisory Board ({{< var acronyms.cab >}}).
 1. Safety Margin and Emergency Fund
    a. Any money leftover for the year from the Safety Margin must be moved to an emergency fund account until that account has 50% of the next year's projected expenses saved. This account is only to be accessed with the vote of Executive Council ({{< var acronyms.ec >}}) and the Chapter Advisory Board ({{< var acronyms.cab >}}).
@@ -58,22 +59,20 @@
    a. The Treasurer will announce the brother's status to the chapter after every bill.
    a. Any receipt forms that the brother submits must be credited against the debt unless {{< var acronyms.ec >}} approves an exception.
 
-## Financial Privacy Section {#sec-art-KK0JMIWX}
+## Financial Privacy {#sec-art-KK0JMIWX}
 
 1. {{< var acronyms.ec >}} and {{< var acronyms.cab >}} will have the right to request access to all accounts, budgeting and financial software, the current ledger, and Greek Bill, excluding bank accounts, subject to the discretion of the treasurer and CAB Treasurer Advisor.
-2. {{< var acronyms.ec >}} and {{< var acronyms.cab >}} will have the right to request access to any records or statements from the bank account (or whatever online service is currently being used). 
-3. Only the President, Treasurer, and CAB Treasurer Advisor will have access to the bank accounts.
+1. {{< var acronyms.ec >}} and {{< var acronyms.cab >}} will have the right to request access to any records or statements from the bank account (or whatever online service is currently being used).
+1. Only the President, Treasurer, and CAB Treasurer Advisor will have access to the bank accounts.
 
 ## Reimbursements {#sec-art-FCOCY19N}
 
 1. A member who would like to obtain a reimbursement needs approval from all of the following:
-   
+
    a. The chair who controls the budget in question.
       i. If the budget is not under a particular chair, or the chair is indisposed, any non-treasurer member of {{< var acronyms.ec >}} may act as a substitute.
       i. If the chair who controls the budget is also the treasurer, any other member of {{< var acronyms.ec >}} may act as a substitute.
-   
    a. Any other non-treasurer member of {{< var acronyms.ec >}}.
-   
    a. The Treasurer.
 
 1. Reimbursement requests should be submitted no more than two weeks from the date of purchase or arrival (for shipped items), whichever is later.

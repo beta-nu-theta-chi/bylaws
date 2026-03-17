@@ -12,7 +12,8 @@
 ## Membership {#sec-art-31029HI0}
 
 1. The composition of Standards Board includes the Vice President as the chair, the Chaplain, and three additional at-large members ({{< var acronyms.ibl >}} Article V, Section 22(b)).
-1. The terms of office of the members of Standards Board are outlined in the {{< var acronyms.ibl >}} Article V, Section 22(c). 3. Vacancies should be filled according to {{< var acronyms.ibl >}} Article V, Section 22(g).
+1. The terms of office of the members of Standards Board are outlined in the {{< var acronyms.ibl >}} Article V, Section 22(c).
+1. Vacancies should be filled according to {{< var acronyms.ibl >}} Article V, Section 22(g).
 
 ## Voting {#sec-art-1U1T2P1X}
 
@@ -178,24 +179,25 @@
    a. Members of Standards Board may be recused by a {{< var glossary.simple-majority >}} vote of the remaining members of Standards Board. The brother under review, the Scholarship Chair, or a member of Standards Board may call for such a vote.
 
 1. Process of an Academic Review
-   
+
    a. Scheduling:
       i. The Vice President will schedule Academic Reviews.
       i. All Academic Reviews for a semester shall be held at the beginning of the semester at the discretion of the Vice President.
       i. Members of Standards Board of whom the Scholarship Chair has requested an Academic Review will have their Academic Reviews completed before the Academic Reviews of brothers not on Standards Board. If the Scholarship Chair has requested an Academic Review for the Vice President, the Academic Review for the Vice President will happen first.
       i. The Vice President will inform the board, Scholarship Chair, and brothers under review of the day's schedule within three days of the Scholarship Chair requesting academic suspensions.
-   
+
    b. Preparation:
       i. The brother under review is not required to {{< var glossary.attend >}}.
       i. Both the brother under review and the Scholarship Chair may provide witnesses and any form of relevant documents, including written statements. If either the brother under review or the Scholarship Chair cannot {{< var glossary.attend >}} the review, any such documents must be sent to the Vice President along with an order of any witnesses to be called.
       i. The Vice President will call the meeting to order and ask all but unrecused members of the board, the Scholarship Chair, and the brother under review to leave the room.
-   
+
    c. Method:
       i. The Scholarship Chair and brother under review may give an opening statement, in that order.
       i. The Scholarship Chair may then be asked questions by the brother under review and the board.
       i. The brother under review may then be asked questions by the Scholarship Chair and the board.
       i. The Scholarship Chair and then the brother under review may then present any witnesses or documents. If they are not present, the provided witnesses and documents will be presented in the provided order. After each witness gives a statement, the Scholarship Chair, brother under review, and members of Standards Board may ask questions of the witness. Documents will remain with the Vice President until the conclusion of the review.
-      i. The Scholarship Chair and brother under review may give closing statements in that order. vi. The Vice President will excuse the Scholarship Chair and brother under review.
+      i. The Scholarship Chair and brother under review may give closing statements in that order.
+      i. The Vice President will excuse the Scholarship Chair and brother under review.
       i. The members of Standards Board will then deliberate. The members of Standards Board may consult any documents and recall any witnesses, the Scholarship Chair, or the brother under review if further questions arise.
       i. The voting members of Standards Board will vote to either recommend the brother under review for suspension, or to not recommend the brother under review for suspension.
       i. The Vice President will recall the Scholarship Chair and the brother under review and inform them of the decision made by Standards Board.
