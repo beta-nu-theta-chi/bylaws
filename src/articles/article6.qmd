@@ -62,8 +62,8 @@
 ## Financial Privacy {#sec-art-KK0JMIWX}
 
 1. {{< var acronyms.ec >}} and {{< var acronyms.cab >}} will have the right to request access to all accounts, budgeting and financial software, the current ledger, and Greek Bill, excluding bank accounts, subject to the discretion of the treasurer and CAB Treasurer Advisor.
-2. {{< var acronyms.ec >}} and {{< var acronyms.cab >}} will have the right to request access to any records or statements from the bank account (or whatever online service is currently being used).
-3. Only the President, Treasurer, and CAB Treasurer Advisor will have access to the bank accounts.
+1. {{< var acronyms.ec >}} and {{< var acronyms.cab >}} will have the right to request access to any records or statements from the bank account (or whatever online service is currently being used).
+1. Only the President, Treasurer, and CAB Treasurer Advisor will have access to the bank accounts.
 
 ## Reimbursements {#sec-art-FCOCY19N}
 
