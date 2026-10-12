@@ -2,120 +2,101 @@
 
 ## Preface {#sec-art-22W5QO3O}
 
-1. This section's purpose is to summarize the Standards Board Hearing Procedures in the International Bylaws ({{< var acronyms.ibl >}}), as well as describing the procedure for Academic Review. For more detailed procedures on Standards Board Trials, refer to {{< var acronyms.ibl >}} Article V, Section 22.
+1. This section’s purpose is to provide additional details to the Chapter Standards Board Hearing Procedures described in the International Bylaws ({{< var acronyms.ibl >}}), as well as to describe the procedure for Academic Review. For more detailed procedures on Chapter Standards Board Trials, refer to {{< var acronyms.ibl >}} Article V, Section 22.1
 
 ## Purpose {#sec-art-W45W9VZK}
 
-1. To judge infractions of the bylaws and standards of the chapter as well as all other laws and rules brothers must adhere to as defined in {{< var acronyms.ibl >}} Article V, Section 22(a).
-1. To run Academic Reviews.
+1. To determine responsibility for possible infractions of these Local Bylaws, Chapter legislation, and standards of the chapter, as well as all other laws and rules brothers must adhere to as defined in {{< var acronyms.ibl >}} Article V, Section 22(a).
+1. To be prepared to take immediate action following an accusation calling for suspension or expulsion, as in {{< var acronyms.ibl >}} Article VI, Section 13(b)(4)
+1. To determine sanctions on brothers found to be responsible for previously defined infractions, as detailed in {{< var acronyms.ibl >}} Article V, Section (j)(10)
+1. To assist the President and the Vice President of Health and Safety in establishing chapter safety standards.
+1. To facilitate appropriate remediation for those who fall short of their obligations to Theta Chi Fraternity.
+1. To incentivize brothers to achieve chapter standards.
 
-## Membership {#sec-art-31029HI0}
+## Operations {#sec-art-PO1G09NO}
 
-1. The composition of Standards Board includes the Vice President as the chair, the Chaplain, and three additional at-large members ({{< var acronyms.ibl >}} Article V, Section 22(b)).
-1. The terms of office of the members of Standards Board are outlined in the {{< var acronyms.ibl >}} Article V, Section 22(c).
-1. Vacancies should be filled according to {{< var acronyms.ibl >}} Article V, Section 22(g).
+1. Composition, term of office, membership of at-large members, vacancies, the chairman, and the voting procedures shall be determined by {{< var acronyms.ibl >}} Article V, Sections (a-i).
 
-## Voting {#sec-art-1U1T2P1X}
+1. The Quorum of the Chapter Standards Board will be the entirety of its members.
+   a. The board can meet for purposes other than a Chapter Standards Board Hearing without the entirety of its members.
 
-1. Unless otherwise specified, votes of the board are by {{< var glossary.simple-majority >}}.
-1. {{< var glossary.quorum >}} of the board consists of ⅘ of its members.
-1. The voting members of the board are the Chaplain and the three at-large members ({{< var acronyms.ibl >}} Article V, Section 22(i)).
-1. The Vice President may only vote in the case of a tie ({{< var acronyms.ibl >}} Article V, Section 22(i)).
+1. The votes of the board are by {{< var glossary.simple-majority >}}
 
-## At-Large Member Removal {#sec-art-D83OGG9V}
+1. If, at any time, an at-large member becomes ineligible to hold office or is elected to an Executive Council ({{< var acronyms.ec >}}) position, that at-large member is immediately removed from the board.
 
-1. If, at any time, an at-large member becomes ineligible to hold office or is elected to an Executive Council ({{< var acronyms.ec >}}) position, that at-large member is immediately removed from office.
-1. Any At-Large Member may be removed for the following reasons:
+1. Otherwise, at-large members can only be removed by an Absolute Supermajority vote of the active chapter as detailed in {{< var acronyms.ibl >}} Article V, Section 22 (e). An at-large member of the board should be brought up to the chapter by the Vice President for removal from the board for the following reasons:
    a. Failure to perform their duties, including unexcused absence from more than one board meeting per semester.
-   a. Failure to maintain confidentiality of all proceedings of the board.
-   a. Conduct unbecoming of an at-large member or which negatively affects the credibility of the board.
-   a. At-large members can only be removed by an {{< var glossary.absolute-supermajority >}} vote of the active chapter ({{< var acronyms.ibl >}} Article V, Section 22(e)).
+   a. Failure to maintain the confidentiality of all board proceedings.
+   a. Conduct unbecoming of an at-large member, or that negatively affects the credibility of the board.
 
-## Accusation Procedure {#sec-art-1D0EJQ7H}
+1. Details of every ongoing trial, or trials that end with a non-responsible verdict, are private.
+   a. Board members inappropriately discussing trials outside the Chapter Standards Board meetings will be brought to the Chapter Standards Board by the Vice President or Chaplain.
+   a. The details of trials that end with a responsible verdict will be kept by the Vice President and the Chaplain in a secure location and will only be accessed by the Vice President or the Chaplain when they are needed for a Chapter Standards Board trial.
 
-1. All accusations must be submitted in writing to the Vice President within one month of the most recent violation.
-   a. Each accusation must be as detailed as possible including at least the clause of the local bylaws that was violated.
-   a. Each accusation must be submitted within one month of the violation.
+## Hearing Procedure {#sec-art-1D0EJQ7H}
 
-1. Upon receiving the Accusation, the Vice President will decide whether or not a hearing will take place ({{< var acronyms.ibl >}} Article V, Section 22(j)(2)).
-   a. The Vice President may request the First Guard and Second Guard to advise him as to whether or not there should be a hearing.
-   a. If the Vice President decides that there will not be a hearing, proceedings will end and no hearing will be held.
+1. All accusations must be submitted in writing to the Vice President within three months of the most recent violation, excluding the winter and summer breaks defined by the University.
 
-1. If there is to be a hearing, the Vice President will then decide whether the hearing will be a Standards Board Hearing or a Chapter Hearing.
-   a. The Vice President may not request advice from anyone other than a {{< var glossary.chapter-advisor >}} on this matter.
-   a. If the accuser and/or accused disagree with the decision of which type of hearing the accusations are brought to, they may appeal the decision.
-   a. The appeal will be brought exclusively to the voting members of Standards Board to vote on whether the appeal is valid.
-      i. If the appeal is found to be valid, the Vice President's decision on the type of hearing will be overruled.
+1. Upon receiving the Accusation, the Vice President will decide within forty-eight hours of the accusation whether or not a hearing will take place ({{< var acronyms.ibl >}} Article V, Section 22(j)(2)).
 
-1. The Vice President will then inform the accuser of the validity of the accusation.
-
-1. If the accusation is found to be without merit, proceedings will end and no hearing will be held.
+1. If there is to be a hearing, the Vice President will then decide whether the hearing will be a Chapter Standards Board Hearing.
 
 1. If the Vice President decides there will be a hearing, the Vice President will provide written notification to the accused.
-   a. The notification must be given within forty-eight hours of receipt of the accusation.
-   a. The notification must include:
-      i. The accusations with enough detail to allow the accused to prepare a defense.
-      i. The type of hearing taking place.
+   a. The notification must be given within ninety-six hours of receipt of the accusation (including the forty-eight hours to decide whether or not a hearing will take place).
+   a. The notification must include the accusations as submitted to the Vice President, with enough detail to allow the accused to prepare a defense.
 
 1. Upon receiving the notification, the accused has twenty-four hours to submit a plea in writing to the Vice President.
    a. The possible pleas are {{< var glossary.responsible-plea >}}, {{< var glossary.not-responsible-plea >}}, and {{< var glossary.no-contest-plea >}}.
    a. If a plea is not received within the twenty-four hours specified above, a {{< var glossary.no-contest-plea >}} will be entered.
 
-1. After a plea is entered, the Vice President will schedule a time and place for the hearing.
+1. After a plea is entered, the Vice President will have a week to schedule a time and place for the hearing.
    a. The hearing shall occur between 1 and 3 weeks after a plea is entered.
-   a. The Vice president will notify the accused and accuser of the time, date, and location of the hearing.
-      i. If a Standards Board Hearing is to be held, the Vice President will also notify the Chaplain and the at-large members of Standards Board of the time, date, and location of the hearing.
-      i. If a Chapter Hearing is to be held, the Vice President will inform all non-suspended brothers of the active chapter and the Chapter Advisory Board ({{< var acronyms.cab >}}) of the time, date and location of the hearing.
+   a. The Vice President will notify the accused, accuser, the Chaplain, and the at-large members of the time, date, and location of the hearing within twenty-four hours of scheduling the time and place.
 
-1. The Vice President will inform {{< var acronyms.ec >}} of the accusation, the accused, and the nature of the complaint at the next {{< var acronyms.ec >}} meeting.
+1. The Vice President will inform the {{< var acronyms.ec >}} of the accusation, the accused, and the nature of the complaint at the next {{< var acronyms.ec >}} meeting.
 
-1. Recusal
-   a. Members of the board will recuse themselves from the hearing if they feel a conflict of interest exists or they are the accused.
-   a. Members of the board may be recused by {{< var glossary.simple-majority >}} vote of the remaining board. The accused, accuser, or a member of the board may call for such a vote.
-   a. Members of the Standards Board may recuse themselves. Members of Standards Board, the accused, or accuser may call for a vote to recuse any member of Standards Boardup to the beginning of the trial.
+1. Members of the board will recuse themselves from the hearing if they feel a conflict of interest exists or if they are the accused.
+   Members of the Chapter Standards Board may be recused by a Simple Majority vote of the remaining members. a. The accused, accuser, or a member of the board may call for such a vote.
+   a. The recusal process must be completed before the trial starts, during the 1 to 3 week period before the trial.
    a. Vacancies due to recusal should be filled in accordance with {{< var acronyms.ibl >}} Article V, Section 22(j)(9)(v) or (vi), as they apply to the situation.
 
-1. If the type of hearing was determined to be a Chapter Hearing, proceed with @sec-art-1B4EQ2H6.
+## Hearing Preparations {#sec-art-HEKXL782}
 
-## Hearing Preparation {#sec-art-HEKXL782}
-
-1. Evidence and a statement by the anonymous accuser will be distributed by the Vice President to all members of the Standards Board between twenty-four and forty-eight hours before the hearing date and time.
-1. Witnesses may volunteer to speak on behalf of or against the charges.
-   a. The witnesses may volunteer by giving a written message to the Vice President stating their intent to participate and their stance at least three hours before the trial.
-1. Witnesses will be advised by the Vice President that they are not to discuss the hearing or the accusation outside of the hearing.
-1. Witnesses must remain outside the room until called by the Vice President and leave when dismissed.
+1. Evidence and a statement by the anonymous accuser will be distributed by the Vice President to all members of the Chapter Standards Board between twenty-four and forty-eight hours before the hearing date and time.
+1. Witnesses may be called by the accuser or the accused for the trial. Any such witnesses must state their intent to participate and their stance at least three hours before the trial to the Vice President.
+   a. The witnesses may instead volunteer by giving the Vice President a written statement.
+1. Witnesses will not discuss the hearing or the accusation outside of the hearing.
 1. The dress at the hearing will be informal.
-1. The Vice President will call the hearing to order and ask all but the directly related participants to leave the room. The directly related participants are the members of Standards Board as defined in @sec-art-31029HI0C, Item 2 and the accused.
+1. The Vice President will call the hearing to order and ask all but the members of the Chapter Standards Board and the Chapter Advisor (if he is present) to leave the room.
+1. The Chapter Standards Board may request current or former First or Second Guards to watch over the witnesses outside the room during the hearing.
 
 ## Hearing Method {#sec-art-L96ICVPJ}
 
-1. The Vice President reads aloud the charges and ensures that the accused understands the charges.
+1. The accused will be invited into the room.
 
-1. The accused may give an opening statement with a time limit as voted on by the voting members of Standards Board.
+1. The Vice President will read aloud the charges and ensure that the accused understands the charges.
 
-1. The accused may then be asked questions by the members of Standards Board and the {{< var glossary.chapter-advisor >}} (if he is present) with a time limit as voted on by the voting members of Standards Board.
+1. The accused may give a statement with a reasonable time limit as voted on by the Chapter Standards Board.
 
-1. All witnesses will be brought into the room by the Vice President.
+1. The accused may then be asked questions by the members of the Chapter Standards Board and the {{< var glossary.chapter-advisor >}} (if he is present), with a reasonable time limit as voted on by the voting members of the Chapter Standards Board.
 
-1. Witnesses that wish to speak for the charges will be chosen in an order decided by the Vice President to give a statement. The accused, {{< var glossary.chapter-advisor >}} (if he is present), and members of the Standards Board will ask questions of the witness(es) with a time limit as voted on by the voting members of Standards Board.
+1. The accused shall leave the room, and the witnesses will be brought in one by one by the Vice President.
 
-1. Witnesses that wish to speak against the charges will be chosen in an order decided by the Vice President to give a statement. The accused, {{< var glossary.chapter-advisor >}} (if he is present), and members of the Standards Board will ask questions of the witness(es) with a time limit as voted on by the voting members of Standards Board.
+1. Witnesses who wish to speak for the charges will be chosen in an order decided by the Vice President to give a statement with a time limit as voted on by the Chapter Standards Board.
+
+1. The {{< var glossary.chapter-advisor >}} (if he is present) and members of the Chapter Standards Board may ask questions of the witness(es) with a time limit as voted on by the Chapter Standards Board.
+
+1. Witnesses who wish to speak against the charges will be chosen in an order decided by the Vice President to give a statement with a time limit as voted on by the Chapter Standards Board.
+
+1. The {{< var glossary.chapter-advisor >}} (if he is present) and members of the Chapter Standards Board will ask questions of the witness(es) with a time limit as voted on by the voting members of the Chapter Standards Board.
 
 1. All witnesses will be excused by the Vice President.
 
-1. The accused may give a closing statement with a time limit as voted on by the voting members of Standards Board.
+1. The Chapter Standards Board will determine if the accused is {{< var glossary.responsible >}} or {{< var glossary.not-responsible >}} for the accusations brought forth against him.
+   a. Any member of the Chapter Standards Board may recall any witnesses or the accused, if further questions arise. This may be done once per witness. To recall a witness more than once requires a unanimous vote of the voting members of the Chapter Standards Board.
 
-1. The Vice President will excuse the accused from the hearing.
-
-1. The voting members of Standards Board will determine if the accused is {{< var glossary.responsible >}} or {{< var glossary.not-responsible >}} for the accusations brought forth against him.
-   a. The Vice President and {{< var glossary.chapter-advisor >}} (if one is present) may offer input to this discussion but may not vote in the final decision unless it is a tie, in which case the Vice President will vote to break the tie.
-   a. Any member of Standards Board may recall any witnesses or the accused, if further questions arise. This may be done once per witness. To recall a witness more than once requires a unanimous vote of the voting members of Standards Board.
-
-1. The voting members of Standards Board will then determine appropriate sanctions, if any.
-   a. Past judicial history of the accused and sanctions given for similar accusations in the past (@sec-art-W7CTO1UV) may be considered.
-   a. The Vice President and {{< var glossary.chapter-advisor >}} (if one is present) may offer input to this discussion but may not vote in the final decision unless it is a tie, in which case the Vice President will vote to break the tie.
-   a. The voting members of Standards Board will vote on all sanctions, one at a time.
-   a. If the sanction being voted on is temporary suspension for any duration of time, the vote must be unanimous in the affirmative in order to succeed.
+1. The Chapter Standards Board will then determine appropriate sanctions, if any.
+   a. Past judicial history of the accused and sanctions given for similar accusations in the past may be considered.
 
 1. After the sanctions have been determined, the Vice President will readmit the accused back to the hearing and will announce the sanctions given, if any.
 
@@ -125,41 +106,37 @@
 
 ## Sanctions {#sec-art-S2YKROAM}
 
-1. The board may issue sanctions within its limited scope. The following are examples of possible sanctions:
+1. The board may issue sanctions within its scope as defined by {{< var acronyms.ibl >}} Article V, Section 22(j)(10). The board may put time limits on the completion of the sanctions. The following is an incomplete set of examples of possible sanctions:
    a. Community Service
    a. Cost of repairs
    a. Fines
-   a. House Service
+   a. House Service and/or extra details
    a. Letter of Apology
+   a. {{< var glossary.staggard >}} status
+   a. {{< var glossary.grade-improvement-plan >}}
+   a. {{< var glossary.bad-academic-standing >}}
    a. Removal from an Appointed Position
+   a. Request for completion of a training course
    a. Recommendation for suspension
-   a. Temporary Suspension
+   a. Interim Suspension
 
 1. The Vice President will ensure the completion of sanctions.
-   a. If the sanctions are not completed, the Vice President will bring the brother up for standards.
+   a. If the sanctions are not completed, the Vice President will bring the brother up for standards, with the possibility of recommendation for suspension.
 
 ## Appeals {#sec-art-EM09V7RF}
 
-1. The accused may appeal a decision of Standards Board.
+1. A decision of the Chapter Standards Board may be appealed once, as detailed in the {{< var acronyms.ibl >}} Article V, Section 22(j)(11).
    a. Appeals must be submitted within 7 days after receiving written notification of the results of the hearing.
-   a. If an appeal is made, the confidentiality of the hearing is waived starting at the next regularly scheduled chapter meeting at which {{< var glossary.quorum >}} is present.
-
-1. A decision can only be appealed for the following reasons:
-   a. The procedure for the hearing was not followed.
-   a. New information is discovered that wasn't available at the time of hearing.
-   a. The sanction is inappropriate.
+   a. If an appeal is made, the confidentiality of the hearing is waived starting at the next regularly scheduled chapter meeting at which a quorum is present.
+   a. The appeal will be scheduled as the first New Business of the Chapter meeting.
 
 1. The appeal will be presented in writing to the Vice President and will state the grounds for the appeal.
 
-1. Appeals will be presented to the active chapter at the next regularly scheduled chapter meeting at which {{< var glossary.quorum >}} is present.
+1. At the next chapter meeting during the appeal motion, the appellant will start by explaining the reason for the appeal. The Vice President will then explain the board’s decision and its reasons. Following the statements, a discussion will take place. The chapter may overturn the sanctions with a ¾ vote in favor of all chapter members present and eligible to vote.
 
-1. At the next chapter meeting, the appellant will explain the reason for the appeal. The Vice President will then explain the board's decision. Following the statements, the accused will leave the room and a discussion will take place. The chapter may overturn the sanctions with a ¾ vote in the affirmative of all chapter members present and eligible to vote.
+1. If the decision is overturned, the chapter may give new sanctions by a {{< var glossary.simple-majority >}} vote.
 
-1. If the decision is overturned, the chapter may give new sanctions by {{< var glossary.simple-majority >}} vote.
-
-1. After the chapter has voted, the accused brother will be readmitted to the meeting by the Vice President and will be informed of the decision by the Vice President.
-
-1. An appeal may be made only once.
+1. Each decision of the Chapter Standards Board can be appealed only once.
 
 ## Academic Review {#sec-art-HL5IIDEQ}
 
