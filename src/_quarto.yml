@@ -21,7 +21,6 @@ book:
         - articles/article11.qmd
         - articles/article12.qmd
         - articles/article13.qmd
-        - articles/article14.qmd
     - part: "Appendices"
       chapters:
         - appendices/appendix1.qmd
