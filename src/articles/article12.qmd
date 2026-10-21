@@ -2,7 +2,7 @@
 
 ## Preface {#sec-art-22W5QO3O}
 
-1. This section’s purpose is to provide additional details to the Chapter Standards Board Hearing Procedures described in the International Bylaws ({{< var acronyms.ibl >}}), as well as to describe the procedure for Academic Review. For more detailed procedures on Chapter Standards Board Trials, refer to {{< var acronyms.ibl >}} Article V, Section 22.1
+1. This section’s purpose is to provide additional details to the Chapter Standards Board Hearing Procedures described in the International Bylaws ({{< var acronyms.ibl >}}). For more detailed procedures on Chapter Standards Board Trials, refer to {{< var acronyms.ibl >}} Article V, Section 22.1
 
 ## Purpose {#sec-art-W45W9VZK}
 
@@ -39,7 +39,6 @@
 
 1. Upon receiving the Accusation, the Vice President will decide within forty-eight hours of the accusation whether or not a hearing will take place ({{< var acronyms.ibl >}} Article V, Section 22(j)(2)).
 
-1. If there is to be a hearing, the Vice President will then decide whether the hearing will be a Chapter Standards Board Hearing.
 
 1. If the Vice President decides there will be a hearing, the Vice President will provide written notification to the accused.
    a. The notification must be given within ninety-six hours of receipt of the accusation (including the forty-eight hours to decide whether or not a hearing will take place).
@@ -121,7 +120,7 @@
    a. Interim Suspension
 
 1. The Vice President will ensure the completion of sanctions.
-   a. If the sanctions are not completed, the Vice President will bring the brother up for standards, with the possibility of recommendation for suspension.
+   a. Per {{< var acronyms.ibl >}} Article V, Section 22(j)(9)(iv), failure to comply with any sanction(s) will result in a referral to the chapter for a suspension trial or an expulsion trial by the Chapter Standards Board.
 
 ## Appeals {#sec-art-EM09V7RF}
 
